@@ -305,18 +305,35 @@ for(let i=0;i<docs.length;i++){const option=document.createElement('option');opt
 try{if(location.hash.startsWith('#dictation=')&&location.hash.length<15000){const payload=JSON.parse(new TextDecoder().decode(Uint8Array.from(atob(decodeURIComponent(location.hash.slice(11))),c=>c.charCodeAt(0))));if(Array.isArray(payload)&&payload.length<=200){for(const entry of payload){if(find(entry.id)&&valid(entry)){clips[entry.id]={src:entry.src,start:entry.start,end:entry.end};chosen.push(entry.id);}}if(chosen.length){get('rowDoc').value=String(docs.findIndex(d=>d.rows.some(x=>x.id===chosen[0])));save();}}}}catch{note('练习链接未能读取，请重新发送。');}
 showDoc();reveal();summary();get('teacherAudio').addEventListener('play',()=>{player.pause();mapAudio.pause();});document.addEventListener('visibilitychange',()=>{if(document.hidden){player.pause();mapAudio.pause();playing=false;get('rowStart').textContent='▶ 继续听写';}});
 })();
-</script><script>(()=>{
+</script><script id="teacher-clip-player-v3">(()=>{
 let context=null,current=null,pending=null,serial=0,cachedSrc='',cachedBuffer=null,cachedPromise=null;
-const fallback=new Audio();let fallbackTimer=null;
-function stop(){serial++;if(current){try{current.stop()}catch{}current=null;}fallback.pause();clearInterval(fallbackTimer);fallbackTimer=null;if(pending){const done=pending;pending=null;done(false);}}
-function unlock(){const AudioContext=window.AudioContext||window.webkitAudioContext;if(!AudioContext)return;try{context??=new AudioContext();if(context.state==='suspended')context.resume().catch(()=>{});}catch{}}
+const fallback=new Audio();let fallbackTimer=null,cancelMedia=null;
+const appleMobile=/iPad|iPhone|iPod/.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);
+function playbackSession(){try{if(!navigator.audioSession)return false;navigator.audioSession.type='playback';return navigator.audioSession.type==='playback';}catch{return false;}}
+// Request the media category within the user's gesture, including native lesson playback.
+document.addEventListener('pointerdown',playbackSession,{capture:true,passive:true});
+document.addEventListener('click',playbackSession,{capture:true,passive:true});
+document.addEventListener('keydown',playbackSession,true);
+document.addEventListener('play',playbackSession,true);
+function stop(){serial++;if(current){const source=current;current=null;source.onended=null;try{source.stop()}catch{}}if(cancelMedia)cancelMedia();fallback.pause();clearInterval(fallbackTimer);fallbackTimer=null;if(pending){const done=pending;pending=null;done(false);}}
+function unlock(){const session=playbackSession();if(appleMobile&&!session)return;const AudioContext=window.AudioContext||window.webkitAudioContext;if(!AudioContext)return;try{context??=new AudioContext();if(context.state==='suspended')context.resume().catch(()=>{});}catch{}}
 async function buffer(src){if(src===cachedSrc&&cachedBuffer)return cachedBuffer;if(src===cachedSrc&&cachedPromise)return cachedPromise;cachedSrc=src;cachedBuffer=null;const promise=fetch(src).then(r=>{if(!r.ok)throw Error('audio');return r.arrayBuffer()}).then(bytes=>context.decodeAudioData(bytes)).then(result=>{if(cachedSrc===src)cachedBuffer=result;return result;});cachedPromise=promise;try{return await promise}finally{if(cachedPromise===promise)cachedPromise=null;}}
-async function play(clip){stop();unlock();const stamp=serial;if(!clip||!(clip.end>clip.start)||clip.start<0)return false;
- if(context){try{if(context.state!=='running')await context.resume();if(context.state!=='running')throw Error('audio locked');const data=await buffer(clip.src);if(stamp!==serial)return false;if(clip.end>data.duration+.08)return false;return await new Promise(resolve=>{pending=resolve;const source=context.createBufferSource();source.buffer=data;source.connect(context.destination);current=source;source.onended=()=>{if(current===source)current=null;if(pending===resolve)pending=null;resolve(stamp===serial);};source.start(0,clip.start,Math.min(clip.end,data.duration)-clip.start);});}catch{if(stamp!==serial)return false;}}
- return new Promise(resolve=>{let settled=false;pending=resolve;const done=ok=>{if(settled)return;settled=true;fallback.pause();clearInterval(fallbackTimer);fallbackTimer=null;fallback.onloadedmetadata=null;fallback.onseeked=null;fallback.onended=null;fallback.onerror=null;if(pending===resolve)pending=null;resolve(ok&&stamp===serial);};fallback.onerror=()=>done(false);fallback.onended=()=>done(true);fallback.onloadedmetadata=()=>{if(stamp!==serial){done(false);return;}if(clip.start>=fallback.duration){done(false);return;}let started=false;const start=()=>{if(started)return;started=true;if(stamp!==serial){done(false);return;}fallbackTimer=setInterval(()=>{if(stamp!==serial)done(false);else if(fallback.currentTime>=clip.end)done(true);},20);fallback.play().catch(()=>done(false));};fallback.onseeked=start;fallback.currentTime=clip.start;if(clip.start===0)start();};fallback.src=clip.src;fallback.load();});
+function media(clip,stamp){return new Promise(resolve=>{
+ let settled=false;const cancel=()=>done(false);
+ const done=ok=>{if(settled)return;settled=true;if(cancelMedia===cancel){cancelMedia=null;fallback.pause();clearInterval(fallbackTimer);fallbackTimer=null;fallback.onloadedmetadata=null;fallback.onended=null;fallback.onerror=null;fallback.ontimeupdate=null;}resolve(ok&&stamp===serial);};
+ const check=()=>{if(stamp!==serial)done(false);else if(fallback.currentTime>=clip.end)done(true);};
+ cancelMedia=cancel;fallback.onerror=()=>done(false);fallback.onended=()=>done(true);fallback.ontimeupdate=check;
+ fallback.onloadedmetadata=()=>{if(stamp!==serial||clip.start>=fallback.duration||clip.end>fallback.duration+.08){done(false);return;}try{fallback.currentTime=clip.start;}catch{done(false);}};
+ const src=new URL(clip.src,document.baseURI);src.hash='t='+clip.start+','+clip.end;fallback.src=src.href;fallback.preload='auto';fallback.load();fallbackTimer=setInterval(check,20);
+ // Start synchronously from the tap; waiting for metadata first loses iOS user activation.
+ try{Promise.resolve(fallback.play()).catch(()=>done(false));}catch{done(false);}
+});}
+async function play(clip){stop();if(!clip||!(clip.end>clip.start)||clip.start<0)return false;unlock();const stamp=serial;
+ if(context&&(!appleMobile||playbackSession())){try{if(context.state!=='running')await context.resume();if(context.state!=='running')throw Error('audio locked');const data=await buffer(clip.src);if(stamp!==serial)return false;if(clip.end>data.duration+.08)return false;return await new Promise(resolve=>{pending=resolve;const source=context.createBufferSource();source.buffer=data;source.connect(context.destination);current=source;source.onended=()=>{if(current===source)current=null;if(pending===resolve)pending=null;resolve(stamp===serial);};source.start(0,clip.start,Math.min(clip.end,data.duration)-clip.start);});}catch{if(stamp!==serial)return false;}}
+ return media(clip,stamp);
 }
 window.teacherClipPlayer={play,stop,unlock};document.addEventListener('visibilitychange',()=>{if(document.hidden)stop();});window.addEventListener('pagehide',stop);
-})();
+})();</script><script>
 
 (()=>{
 const bundled={
