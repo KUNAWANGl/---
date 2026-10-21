@@ -1,0 +1,5115 @@
+[
+  {
+    "lesson": 1,
+    "title": "拼音练习1",
+    "rows": [
+      {
+        "id": "L1-R0",
+        "section": "一、读熟单韵母的四声。",
+        "line": 1,
+        "text": "ǎ   ò   ē   ǒ   é   ā",
+        "audio": "audio/teacher-01.m4a",
+        "parts": [
+          {
+            "text": "ǎ",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "text": "ò",
+            "start": 4,
+            "end": 5
+          },
+          {
+            "text": "ē",
+            "start": 8,
+            "end": 9
+          },
+          {
+            "text": "ǒ",
+            "start": 12,
+            "end": 13
+          },
+          {
+            "text": "é",
+            "start": 16,
+            "end": 17
+          },
+          {
+            "text": "ā",
+            "start": 20,
+            "end": 21
+          }
+        ]
+      },
+      {
+        "id": "L1-R1",
+        "section": "一、读熟单韵母的四声。",
+        "line": 2,
+        "text": "ó   ě   á   è   ō   à",
+        "audio": "audio/teacher-01.m4a",
+        "parts": [
+          {
+            "text": "ó",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "text": "ě",
+            "start": 4,
+            "end": 5
+          },
+          {
+            "text": "á",
+            "start": 8,
+            "end": 9
+          },
+          {
+            "text": "è",
+            "start": 12,
+            "end": 13
+          },
+          {
+            "text": "ō",
+            "start": 16,
+            "end": 17
+          },
+          {
+            "text": "à",
+            "start": 20,
+            "end": 21
+          }
+        ]
+      },
+      {
+        "id": "L1-R2",
+        "section": "一、读熟单韵母的四声。",
+        "line": 3,
+        "text": "à   ù   ǎ   ǖ   ì   è",
+        "audio": "audio/teacher-01.m4a",
+        "parts": [
+          {
+            "text": "à",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "text": "ù",
+            "start": 4,
+            "end": 5
+          },
+          {
+            "text": "ǎ",
+            "start": 8,
+            "end": 9
+          },
+          {
+            "text": "ǖ",
+            "start": 12,
+            "end": 13
+          },
+          {
+            "text": "ì",
+            "start": 16,
+            "end": 17
+          },
+          {
+            "text": "è",
+            "start": 20,
+            "end": 21
+          }
+        ]
+      },
+      {
+        "id": "L1-R3",
+        "section": "一、读熟单韵母的四声。",
+        "line": 4,
+        "text": "é   ě   ō   ò   ǚ   ǒ",
+        "audio": "audio/teacher-01.m4a",
+        "parts": [
+          {
+            "text": "é",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "text": "ě",
+            "start": 4,
+            "end": 5
+          },
+          {
+            "text": "ō",
+            "start": 8,
+            "end": 9
+          },
+          {
+            "text": "ò",
+            "start": 12,
+            "end": 13
+          },
+          {
+            "text": "ǚ",
+            "start": 16,
+            "end": 17
+          },
+          {
+            "text": "ǒ",
+            "start": 20,
+            "end": 21
+          }
+        ]
+      },
+      {
+        "id": "L1-R4",
+        "section": "一、读熟单韵母的四声。",
+        "line": 5,
+        "text": "ǜ   í   ī   ǐ   ǒ   ē",
+        "audio": "audio/teacher-01.m4a",
+        "parts": [
+          {
+            "text": "ǜ",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "text": "í",
+            "start": 4,
+            "end": 5
+          },
+          {
+            "text": "ī",
+            "start": 8,
+            "end": 9
+          },
+          {
+            "text": "ǐ",
+            "start": 12,
+            "end": 13
+          },
+          {
+            "text": "ǒ",
+            "start": 16,
+            "end": 17
+          },
+          {
+            "text": "ē",
+            "start": 20,
+            "end": 21
+          }
+        ]
+      },
+      {
+        "id": "L1-R5",
+        "section": "一、读熟单韵母的四声。",
+        "line": 6,
+        "text": "ó   à   ǐ   ú   ē   á",
+        "audio": "audio/teacher-01.m4a",
+        "parts": [
+          {
+            "text": "ó",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "text": "à",
+            "start": 4,
+            "end": 5
+          },
+          {
+            "text": "ǐ",
+            "start": 8,
+            "end": 9
+          },
+          {
+            "text": "ú",
+            "start": 12,
+            "end": 13
+          },
+          {
+            "text": "ē",
+            "start": 16,
+            "end": 17
+          },
+          {
+            "text": "á",
+            "start": 20,
+            "end": 21
+          }
+        ]
+      },
+      {
+        "id": "L1-R6",
+        "section": "一、读熟单韵母的四声。",
+        "line": 7,
+        "text": "í   ò   é   á   è   ě",
+        "audio": "audio/teacher-01.m4a",
+        "parts": [
+          {
+            "text": "í",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "text": "ò",
+            "start": 4,
+            "end": 5
+          },
+          {
+            "text": "é",
+            "start": 8,
+            "end": 9
+          },
+          {
+            "text": "á",
+            "start": 12,
+            "end": 13
+          },
+          {
+            "text": "è",
+            "start": 16,
+            "end": 17
+          },
+          {
+            "text": "ě",
+            "start": 20,
+            "end": 21
+          }
+        ]
+      },
+      {
+        "id": "L1-R7",
+        "section": "一、读熟单韵母的四声。",
+        "line": 8,
+        "text": "ò   ī   ǜ   ō   ā   ó",
+        "audio": "audio/teacher-01.m4a",
+        "parts": [
+          {
+            "text": "ò",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "text": "ī",
+            "start": 4,
+            "end": 5
+          },
+          {
+            "text": "ǜ",
+            "start": 8,
+            "end": 9
+          },
+          {
+            "text": "ō",
+            "start": 12,
+            "end": 13
+          },
+          {
+            "text": "ā",
+            "start": 16,
+            "end": 17
+          },
+          {
+            "text": "ó",
+            "start": 20,
+            "end": 21
+          }
+        ]
+      },
+      {
+        "id": "L1-R8",
+        "section": "一、读熟单韵母的四声。",
+        "line": 9,
+        "text": "ǒ   ǔ   ǖ   ǘ   à   ú",
+        "audio": "audio/teacher-01.m4a",
+        "parts": [
+          {
+            "text": "ǒ",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "text": "ǔ",
+            "start": 4,
+            "end": 5
+          },
+          {
+            "text": "ǖ",
+            "start": 8,
+            "end": 9
+          },
+          {
+            "text": "ǘ",
+            "start": 12,
+            "end": 13
+          },
+          {
+            "text": "à",
+            "start": 16,
+            "end": 17
+          },
+          {
+            "text": "ú",
+            "start": 20,
+            "end": 21
+          }
+        ]
+      },
+      {
+        "id": "L1-R9",
+        "section": "一、读熟单韵母的四声。",
+        "line": 10,
+        "text": "ǐ   ū   ì   ǘ   è   ú",
+        "audio": "audio/teacher-01.m4a",
+        "parts": [
+          {
+            "text": "ǐ",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "text": "ū",
+            "start": 4,
+            "end": 5
+          },
+          {
+            "text": "ì",
+            "start": 8,
+            "end": 9
+          },
+          {
+            "text": "ǘ",
+            "start": 12,
+            "end": 13
+          },
+          {
+            "text": "è",
+            "start": 16,
+            "end": 17
+          },
+          {
+            "text": "ú",
+            "start": 20,
+            "end": 21
+          }
+        ]
+      },
+      {
+        "id": "L1-R10",
+        "section": "二、声母",
+        "line": 1,
+        "text": "y  w",
+        "audio": "audio/teacher-01.m4a",
+        "parts": [
+          {
+            "text": "y",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "text": "w",
+            "start": 3,
+            "end": 4
+          }
+        ]
+      },
+      {
+        "id": "L1-R11",
+        "section": "三、整体认读音节",
+        "line": 1,
+        "text": "yí   wù   yǔ   yī   wú   yǐ",
+        "audio": "audio/teacher-01.m4a",
+        "parts": [
+          {
+            "text": "yí",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "wù",
+            "start": 5,
+            "end": 7
+          },
+          {
+            "text": "yǔ",
+            "start": 10,
+            "end": 12
+          },
+          {
+            "text": "yī",
+            "start": 15,
+            "end": 17
+          },
+          {
+            "text": "wú",
+            "start": 20,
+            "end": 22
+          },
+          {
+            "text": "yǐ",
+            "start": 25,
+            "end": 27
+          }
+        ]
+      },
+      {
+        "id": "L1-R12",
+        "section": "三、整体认读音节",
+        "line": 2,
+        "text": "yù   wū   yì   yū   wǔ   yú",
+        "audio": "audio/teacher-01.m4a",
+        "parts": [
+          {
+            "text": "yù",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "wū",
+            "start": 5,
+            "end": 7
+          },
+          {
+            "text": "yì",
+            "start": 10,
+            "end": 12
+          },
+          {
+            "text": "yū",
+            "start": 15,
+            "end": 17
+          },
+          {
+            "text": "wǔ",
+            "start": 20,
+            "end": 22
+          },
+          {
+            "text": "yú",
+            "start": 25,
+            "end": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 2,
+    "title": "拼音练习2",
+    "rows": [
+      {
+        "id": "L2-R0",
+        "section": "一、熟读下列音节。",
+        "line": 1,
+        "text": "bɑ  bo   bi   bu   pɑ  po   pi   pu",
+        "audio": "audio/teacher-03.m4a",
+        "parts": [
+          {
+            "text": "bɑ",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "bo",
+            "start": 4,
+            "end": 6
+          },
+          {
+            "text": "bi",
+            "start": 9,
+            "end": 11
+          },
+          {
+            "text": "bu",
+            "start": 14,
+            "end": 16
+          },
+          {
+            "text": "pɑ",
+            "start": 19,
+            "end": 21
+          },
+          {
+            "text": "po",
+            "start": 23,
+            "end": 25
+          },
+          {
+            "text": "pi",
+            "start": 28,
+            "end": 30
+          },
+          {
+            "text": "pu",
+            "start": 33,
+            "end": 35
+          }
+        ]
+      },
+      {
+        "id": "L2-R1",
+        "section": "一、熟读下列音节。",
+        "line": 2,
+        "text": "mɑ  mo   me   mi   mu   fɑ  fo   fu",
+        "audio": "audio/teacher-03.m4a",
+        "parts": [
+          {
+            "text": "mɑ",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "mo",
+            "start": 4,
+            "end": 6
+          },
+          {
+            "text": "me",
+            "start": 9,
+            "end": 11
+          },
+          {
+            "text": "mi",
+            "start": 14,
+            "end": 16
+          },
+          {
+            "text": "mu",
+            "start": 19,
+            "end": 21
+          },
+          {
+            "text": "fɑ",
+            "start": 24,
+            "end": 26
+          },
+          {
+            "text": "fo",
+            "start": 28,
+            "end": 30
+          },
+          {
+            "text": "fu",
+            "start": 33,
+            "end": 35
+          }
+        ]
+      },
+      {
+        "id": "L2-R2",
+        "section": "一、熟读下列音节。",
+        "line": 3,
+        "text": "yα  wα  wo   yi   wu  yu",
+        "audio": "audio/teacher-03.m4a",
+        "parts": [
+          {
+            "text": "yα",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "wα",
+            "start": 4,
+            "end": 6
+          },
+          {
+            "text": "wo",
+            "start": 8,
+            "end": 10
+          },
+          {
+            "text": "yi",
+            "start": 13,
+            "end": 15
+          },
+          {
+            "text": "wu",
+            "start": 18,
+            "end": 20
+          },
+          {
+            "text": "yu",
+            "start": 22,
+            "end": 24
+          }
+        ]
+      },
+      {
+        "id": "L2-R3",
+        "section": "一、熟读下列音节。",
+        "line": 4,
+        "text": "bǎ  pò  mì  fú  bǒ  mī  pā  pǔ",
+        "audio": "audio/teacher-03.m4a",
+        "parts": [
+          {
+            "text": "bǎ",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "pò",
+            "start": 4,
+            "end": 6
+          },
+          {
+            "text": "mì",
+            "start": 8,
+            "end": 10
+          },
+          {
+            "text": "fú",
+            "start": 12,
+            "end": 14
+          },
+          {
+            "text": "bǒ",
+            "start": 16,
+            "end": 18
+          },
+          {
+            "text": "mī",
+            "start": 20,
+            "end": 22
+          },
+          {
+            "text": "pā",
+            "start": 24,
+            "end": 26
+          },
+          {
+            "text": "pǔ",
+            "start": 28,
+            "end": 30
+          }
+        ]
+      },
+      {
+        "id": "L2-R4",
+        "section": "一、熟读下列音节。",
+        "line": 5,
+        "text": "pó  bǐ  má  mù  bí  pō  fū  fà",
+        "audio": "audio/teacher-03.m4a",
+        "parts": [
+          {
+            "text": "pó",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "bǐ",
+            "start": 4,
+            "end": 6
+          },
+          {
+            "text": "má",
+            "start": 8,
+            "end": 10
+          },
+          {
+            "text": "mù",
+            "start": 12,
+            "end": 14
+          },
+          {
+            "text": "bí",
+            "start": 16,
+            "end": 18
+          },
+          {
+            "text": "pō",
+            "start": 20,
+            "end": 22
+          },
+          {
+            "text": "fū",
+            "start": 24,
+            "end": 26
+          },
+          {
+            "text": "fà",
+            "start": 28,
+            "end": 30
+          }
+        ]
+      },
+      {
+        "id": "L2-R5",
+        "section": "二、熟读下列音节词。",
+        "line": 1,
+        "text": "bà bα   mā mα    pó po    bù fá",
+        "audio": "audio/teacher-03.m4a",
+        "parts": [
+          {
+            "text": "bà bα",
+            "start": 0,
+            "end": 5
+          },
+          {
+            "text": "mā mα",
+            "start": 8,
+            "end": 13
+          },
+          {
+            "text": "pó po",
+            "start": 17,
+            "end": 22
+          },
+          {
+            "text": "bù fá",
+            "start": 26,
+            "end": 31
+          }
+        ]
+      },
+      {
+        "id": "L2-R6",
+        "section": "二、熟读下列音节词。",
+        "line": 2,
+        "text": "pí fū    pí pα    pá pō    fù mǔ",
+        "audio": "audio/teacher-03.m4a",
+        "parts": [
+          {
+            "text": "pí fū",
+            "start": 0,
+            "end": 5
+          },
+          {
+            "text": "pí pα",
+            "start": 9,
+            "end": 14
+          },
+          {
+            "text": "pá pō",
+            "start": 18,
+            "end": 23
+          },
+          {
+            "text": "fù mǔ",
+            "start": 27,
+            "end": 32
+          }
+        ]
+      },
+      {
+        "id": "L2-R7",
+        "section": "二、熟读下列音节词。",
+        "line": 3,
+        "text": "mù mǎ    mù fá     pù bù    mǎ yǐ",
+        "audio": "audio/teacher-03.m4a",
+        "parts": [
+          {
+            "text": "mù mǎ",
+            "start": 0,
+            "end": 5
+          },
+          {
+            "text": "mù fá",
+            "start": 9,
+            "end": 14
+          },
+          {
+            "text": "pù bù",
+            "start": 19,
+            "end": 24
+          },
+          {
+            "text": "mǎ yǐ",
+            "start": 28,
+            "end": 33
+          }
+        ]
+      },
+      {
+        "id": "L2-R8",
+        "section": "二、熟读下列音节词。",
+        "line": 4,
+        "text": "wū yā    yī fu     mù wū    ā yí",
+        "audio": "audio/teacher-03.m4a",
+        "parts": [
+          {
+            "text": "wū yā",
+            "start": 0,
+            "end": 5
+          },
+          {
+            "text": "yī fu",
+            "start": 9,
+            "end": 14
+          },
+          {
+            "text": "mù wū",
+            "start": 19,
+            "end": 24
+          },
+          {
+            "text": "ā yí",
+            "start": 28,
+            "end": 32
+          }
+        ]
+      },
+      {
+        "id": "L2-R9",
+        "section": "二、熟读下列音节词。",
+        "line": 5,
+        "text": "yǔ yī    yù mǐ     鸟wō    下yǔ",
+        "audio": "audio/teacher-03.m4a",
+        "parts": [
+          {
+            "text": "yǔ yī",
+            "start": 0,
+            "end": 5
+          },
+          {
+            "text": "yù mǐ",
+            "start": 9,
+            "end": 14
+          },
+          {
+            "text": "鸟wō",
+            "start": 19,
+            "end": 22
+          },
+          {
+            "text": "下yǔ",
+            "start": 26,
+            "end": 29
+          }
+        ]
+      },
+      {
+        "id": "L2-R10",
+        "section": "二、熟读下列音节词。",
+        "line": 6,
+        "text": "1、bà bα pá 山 pō。",
+        "audio": "audio/teacher-03.m4a",
+        "parts": [
+          {
+            "text": "bà bα pá 山 pō。",
+            "start": 2,
+            "end": 16
+          }
+        ]
+      },
+      {
+        "id": "L2-R11",
+        "section": "二、熟读下列音节词。",
+        "line": 7,
+        "text": "2、mā mα mó mò。",
+        "audio": "audio/teacher-03.m4a",
+        "parts": [
+          {
+            "text": "mā mα mó mò。",
+            "start": 2,
+            "end": 14
+          }
+        ]
+      },
+      {
+        "id": "L2-R12",
+        "section": "三、认读词语",
+        "line": 1,
+        "text": "爸爸     妈妈",
+        "audio": "audio/teacher-03.m4a",
+        "parts": [
+          {
+            "text": "爸爸",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "妈妈",
+            "start": 7,
+            "end": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 3,
+    "title": "拼音练习3",
+    "rows": [
+      {
+        "id": "L3-R0",
+        "section": "一、熟读下列音节。",
+        "line": 1,
+        "text": "dɑ   de   di   du   tɑ   te   ti",
+        "audio": "audio/teacher-04.m4a",
+        "parts": [
+          {
+            "text": "dɑ",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "de",
+            "start": 5,
+            "end": 7
+          },
+          {
+            "text": "di",
+            "start": 10,
+            "end": 12
+          },
+          {
+            "text": "du",
+            "start": 15,
+            "end": 17
+          },
+          {
+            "text": "tɑ",
+            "start": 20,
+            "end": 22
+          },
+          {
+            "text": "te",
+            "start": 25,
+            "end": 27
+          },
+          {
+            "text": "ti",
+            "start": 30,
+            "end": 32
+          }
+        ]
+      },
+      {
+        "id": "L3-R1",
+        "section": "一、熟读下列音节。",
+        "line": 2,
+        "text": "tu   nɑ   ne   ni   nu   nü   lɑ",
+        "audio": "audio/teacher-04.m4a",
+        "parts": [
+          {
+            "text": "tu",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "nɑ",
+            "start": 5,
+            "end": 7
+          },
+          {
+            "text": "ne",
+            "start": 10,
+            "end": 12
+          },
+          {
+            "text": "ni",
+            "start": 15,
+            "end": 17
+          },
+          {
+            "text": "nu",
+            "start": 20,
+            "end": 22
+          },
+          {
+            "text": "nü",
+            "start": 25,
+            "end": 27
+          },
+          {
+            "text": "lɑ",
+            "start": 30,
+            "end": 32
+          }
+        ]
+      },
+      {
+        "id": "L3-R2",
+        "section": "一、熟读下列音节。",
+        "line": 3,
+        "text": "le   li   lu   lü   yi   wu   yu",
+        "audio": "audio/teacher-04.m4a",
+        "parts": [
+          {
+            "text": "le",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "li",
+            "start": 5,
+            "end": 7
+          },
+          {
+            "text": "lu",
+            "start": 10,
+            "end": 12
+          },
+          {
+            "text": "lü",
+            "start": 15,
+            "end": 17
+          },
+          {
+            "text": "yi",
+            "start": 20,
+            "end": 22
+          },
+          {
+            "text": "wu",
+            "start": 25,
+            "end": 27
+          },
+          {
+            "text": "yu",
+            "start": 30,
+            "end": 32
+          }
+        ]
+      },
+      {
+        "id": "L3-R3",
+        "section": "一、熟读下列音节。",
+        "line": 4,
+        "text": "dǎ  lì  tú  nī  lā  tǔ  lǚ",
+        "audio": "audio/teacher-04.m4a",
+        "parts": [
+          {
+            "text": "dǎ",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "lì",
+            "start": 4,
+            "end": 6
+          },
+          {
+            "text": "tú",
+            "start": 8,
+            "end": 10
+          },
+          {
+            "text": "nī",
+            "start": 12,
+            "end": 14
+          },
+          {
+            "text": "lā",
+            "start": 16,
+            "end": 18
+          },
+          {
+            "text": "tǔ",
+            "start": 20,
+            "end": 22
+          },
+          {
+            "text": "lǚ",
+            "start": 24,
+            "end": 26
+          }
+        ]
+      },
+      {
+        "id": "L3-R4",
+        "section": "一、熟读下列音节。",
+        "line": 5,
+        "text": "nǐ  dá  lù  tí  dū  tà  nǚ",
+        "audio": "audio/teacher-04.m4a",
+        "parts": [
+          {
+            "text": "nǐ",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "dá",
+            "start": 4,
+            "end": 6
+          },
+          {
+            "text": "lù",
+            "start": 8,
+            "end": 10
+          },
+          {
+            "text": "tí",
+            "start": 12,
+            "end": 14
+          },
+          {
+            "text": "dū",
+            "start": 16,
+            "end": 18
+          },
+          {
+            "text": "tà",
+            "start": 20,
+            "end": 22
+          },
+          {
+            "text": "nǚ",
+            "start": 24,
+            "end": 26
+          }
+        ]
+      },
+      {
+        "id": "L3-R5",
+        "section": "二、熟读下列音节词和句子。",
+        "line": 1,
+        "text": "dì di    dà mǐ    mǎ lù    là bǐ",
+        "audio": "audio/teacher-04.m4a",
+        "parts": [
+          {
+            "text": "dì di",
+            "start": 0,
+            "end": 5
+          },
+          {
+            "text": "dà mǐ",
+            "start": 9,
+            "end": 14
+          },
+          {
+            "text": "mǎ lù",
+            "start": 18,
+            "end": 23
+          },
+          {
+            "text": "là bǐ",
+            "start": 27,
+            "end": 32
+          }
+        ]
+      },
+      {
+        "id": "L3-R6",
+        "section": "二、熟读下列音节词和句子。",
+        "line": 2,
+        "text": "nǎ lǐ    nǔ lì    tà bù    nǚ de",
+        "audio": "audio/teacher-04.m4a",
+        "parts": [
+          {
+            "text": "nǎ lǐ",
+            "start": 0,
+            "end": 5
+          },
+          {
+            "text": "nǔ lì",
+            "start": 9,
+            "end": 14
+          },
+          {
+            "text": "tà bù",
+            "start": 18,
+            "end": 23
+          },
+          {
+            "text": "nǚ de",
+            "start": 27,
+            "end": 32
+          }
+        ]
+      },
+      {
+        "id": "L3-R7",
+        "section": "二、熟读下列音节词和句子。",
+        "line": 3,
+        "text": "dà dì    dì tú    dù pí    tí mù",
+        "audio": "audio/teacher-04.m4a",
+        "parts": [
+          {
+            "text": "dà dì",
+            "start": 0,
+            "end": 5
+          },
+          {
+            "text": "dì tú",
+            "start": 9,
+            "end": 14
+          },
+          {
+            "text": "dù pí",
+            "start": 18,
+            "end": 23
+          },
+          {
+            "text": "tí mù",
+            "start": 27,
+            "end": 32
+          }
+        ]
+      },
+      {
+        "id": "L3-R8",
+        "section": "二、熟读下列音节词和句子。",
+        "line": 4,
+        "text": "lǎ bα   mù tī    mó tè    bō li",
+        "audio": "audio/teacher-04.m4a",
+        "parts": [
+          {
+            "text": "lǎ bα",
+            "start": 0,
+            "end": 5
+          },
+          {
+            "text": "mù tī",
+            "start": 8,
+            "end": 13
+          },
+          {
+            "text": "mó tè",
+            "start": 17,
+            "end": 22
+          },
+          {
+            "text": "bō li",
+            "start": 26,
+            "end": 31
+          }
+        ]
+      },
+      {
+        "id": "L3-R9",
+        "section": "二、熟读下列音节词和句子。",
+        "line": 5,
+        "text": "lǐ yú    yā lí    dà  wù   金 yú",
+        "audio": "audio/teacher-04.m4a",
+        "parts": [
+          {
+            "text": "lǐ yú",
+            "start": 0,
+            "end": 5
+          },
+          {
+            "text": "yā lí",
+            "start": 9,
+            "end": 14
+          },
+          {
+            "text": "dà  wù",
+            "start": 18,
+            "end": 24
+          },
+          {
+            "text": "金 yú",
+            "start": 27,
+            "end": 31
+          }
+        ]
+      },
+      {
+        "id": "L3-R10",
+        "section": "二、熟读下列音节词和句子。",
+        "line": 6,
+        "text": "bù wá wα",
+        "audio": "audio/teacher-04.m4a",
+        "parts": [
+          {
+            "text": "bù wá wα",
+            "start": 0,
+            "end": 8
+          }
+        ]
+      },
+      {
+        "id": "L3-R11",
+        "section": "二、熟读下列音节词和句子。",
+        "line": 7,
+        "text": "1、dì di ná lí。",
+        "audio": "audio/teacher-04.m4a",
+        "parts": [
+          {
+            "text": "dì di ná lí。",
+            "start": 2,
+            "end": 14
+          }
+        ]
+      },
+      {
+        "id": "L3-R12",
+        "section": "二、熟读下列音节词和句子。",
+        "line": 8,
+        "text": "2、bó bo lǐ fà。",
+        "audio": "audio/teacher-04.m4a",
+        "parts": [
+          {
+            "text": "bó bo lǐ fà。",
+            "start": 2,
+            "end": 14
+          }
+        ]
+      },
+      {
+        "id": "L3-R13",
+        "section": "三、认读生字：",
+        "line": 1,
+        "text": "大地  土地 泥土  木马 马路  不",
+        "audio": "audio/teacher-04.m4a",
+        "parts": [
+          {
+            "text": "大地",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "土地",
+            "start": 4,
+            "end": 6
+          },
+          {
+            "text": "泥土",
+            "start": 7,
+            "end": 9
+          },
+          {
+            "text": "木马",
+            "start": 11,
+            "end": 13
+          },
+          {
+            "text": "马路",
+            "start": 14,
+            "end": 16
+          },
+          {
+            "text": "不",
+            "start": 18,
+            "end": 19
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 4,
+    "title": "拼音练习4",
+    "rows": [
+      {
+        "id": "L4-R0",
+        "section": "一、熟读下列音节。",
+        "line": 1,
+        "text": "ɡɑ  ɡe  ɡu  kɑ  ke  ku  hɑ  he  hu",
+        "audio": "audio/teacher-05.m4a",
+        "parts": [
+          {
+            "text": "ɡɑ",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "ɡe",
+            "start": 4,
+            "end": 6
+          },
+          {
+            "text": "ɡu",
+            "start": 8,
+            "end": 10
+          },
+          {
+            "text": "kɑ",
+            "start": 12,
+            "end": 14
+          },
+          {
+            "text": "ke",
+            "start": 16,
+            "end": 18
+          },
+          {
+            "text": "ku",
+            "start": 20,
+            "end": 22
+          },
+          {
+            "text": "hɑ",
+            "start": 24,
+            "end": 26
+          },
+          {
+            "text": "he",
+            "start": 28,
+            "end": 30
+          },
+          {
+            "text": "hu",
+            "start": 32,
+            "end": 34
+          }
+        ]
+      },
+      {
+        "id": "L4-R1",
+        "section": "一、熟读下列音节。",
+        "line": 2,
+        "text": "ɡuɑ   ɡuo   kuɑ   kuo   huɑ   huo",
+        "audio": "audio/teacher-05.m4a",
+        "parts": [
+          {
+            "text": "ɡuɑ",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "ɡuo",
+            "start": 6,
+            "end": 9
+          },
+          {
+            "text": "kuɑ",
+            "start": 12,
+            "end": 15
+          },
+          {
+            "text": "kuo",
+            "start": 18,
+            "end": 21
+          },
+          {
+            "text": "huɑ",
+            "start": 24,
+            "end": 27
+          },
+          {
+            "text": "huo",
+            "start": 30,
+            "end": 33
+          }
+        ]
+      },
+      {
+        "id": "L4-R2",
+        "section": "一、熟读下列音节。",
+        "line": 3,
+        "text": "duo   tuo   nuo   luo",
+        "audio": "audio/teacher-05.m4a",
+        "parts": [
+          {
+            "text": "duo",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "tuo",
+            "start": 6,
+            "end": 9
+          },
+          {
+            "text": "nuo",
+            "start": 12,
+            "end": 15
+          },
+          {
+            "text": "luo",
+            "start": 18,
+            "end": 21
+          }
+        ]
+      },
+      {
+        "id": "L4-R3",
+        "section": "一、熟读下列音节。",
+        "line": 4,
+        "text": "hù    ɡá    kù    hǔ    kǔ   ɡē",
+        "audio": "audio/teacher-05.m4a",
+        "parts": [
+          {
+            "text": "hù",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "ɡá",
+            "start": 6,
+            "end": 8
+          },
+          {
+            "text": "kù",
+            "start": 12,
+            "end": 14
+          },
+          {
+            "text": "hǔ",
+            "start": 18,
+            "end": 20
+          },
+          {
+            "text": "kǔ",
+            "start": 24,
+            "end": 26
+          },
+          {
+            "text": "ɡē",
+            "start": 29,
+            "end": 31
+          }
+        ]
+      },
+      {
+        "id": "L4-R4",
+        "section": "一、熟读下列音节。",
+        "line": 5,
+        "text": "ɡuà   kuò   duǒ   huá   huǒ  tuó",
+        "audio": "audio/teacher-05.m4a",
+        "parts": [
+          {
+            "text": "ɡuà",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "kuò",
+            "start": 6,
+            "end": 9
+          },
+          {
+            "text": "duǒ",
+            "start": 12,
+            "end": 15
+          },
+          {
+            "text": "huá",
+            "start": 18,
+            "end": 21
+          },
+          {
+            "text": "huǒ",
+            "start": 24,
+            "end": 27
+          },
+          {
+            "text": "tuó",
+            "start": 29,
+            "end": 32
+          }
+        ]
+      },
+      {
+        "id": "L4-R5",
+        "section": "一、熟读下列音节。",
+        "line": 6,
+        "text": "ɡuó   kuǎ   nuò   luò   luó  huó",
+        "audio": "audio/teacher-05.m4a",
+        "parts": [
+          {
+            "text": "ɡuó",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "kuǎ",
+            "start": 6,
+            "end": 9
+          },
+          {
+            "text": "nuò",
+            "start": 12,
+            "end": 15
+          },
+          {
+            "text": "luò",
+            "start": 18,
+            "end": 21
+          },
+          {
+            "text": "luó",
+            "start": 24,
+            "end": 27
+          },
+          {
+            "text": "huó",
+            "start": 29,
+            "end": 32
+          }
+        ]
+      },
+      {
+        "id": "L4-R6",
+        "section": "二、熟读下列音节词。",
+        "line": 1,
+        "text": "dǎ ɡǔ    bá hé    hú li    ɡǔ lì",
+        "audio": "audio/teacher-05.m4a",
+        "parts": [
+          {
+            "text": "dǎ ɡǔ",
+            "start": 0,
+            "end": 5
+          },
+          {
+            "text": "bá hé",
+            "start": 9,
+            "end": 14
+          },
+          {
+            "text": "hú li",
+            "start": 18,
+            "end": 23
+          },
+          {
+            "text": "ɡǔ lì",
+            "start": 27,
+            "end": 32
+          }
+        ]
+      },
+      {
+        "id": "L4-R7",
+        "section": "二、熟读下列音节词。",
+        "line": 2,
+        "text": "bù ɡǔ    kě lè    mó ɡu    hé mǎ",
+        "audio": "audio/teacher-05.m4a",
+        "parts": [
+          {
+            "text": "bù ɡǔ",
+            "start": 0,
+            "end": 5
+          },
+          {
+            "text": "kě lè",
+            "start": 9,
+            "end": 14
+          },
+          {
+            "text": "mó ɡu",
+            "start": 18,
+            "end": 23
+          },
+          {
+            "text": "hé mǎ",
+            "start": 27,
+            "end": 32
+          }
+        ]
+      },
+      {
+        "id": "L4-R8",
+        "section": "二、熟读下列音节词。",
+        "line": 3,
+        "text": "hè kǎ    hǔ pí    há mɑ    lè hē hē",
+        "audio": "audio/teacher-05.m4a",
+        "parts": [
+          {
+            "text": "hè kǎ",
+            "start": 0,
+            "end": 5
+          },
+          {
+            "text": "hǔ pí",
+            "start": 9,
+            "end": 14
+          },
+          {
+            "text": "há mɑ",
+            "start": 18,
+            "end": 23
+          },
+          {
+            "text": "lè hē hē",
+            "start": 27,
+            "end": 35
+          }
+        ]
+      },
+      {
+        "id": "L4-R9",
+        "section": "二、熟读下列音节词。",
+        "line": 4,
+        "text": "lì kè    ɡū ɡū 咕咕  dà ɡē    ɡū lū lū",
+        "audio": "audio/teacher-05.m4a",
+        "parts": [
+          {
+            "text": "lì kè",
+            "start": 0,
+            "end": 5
+          },
+          {
+            "text": "ɡū ɡū 咕咕",
+            "start": 9,
+            "end": 17
+          },
+          {
+            "text": "dà ɡē",
+            "start": 19,
+            "end": 24
+          },
+          {
+            "text": "ɡū lū lū",
+            "start": 28,
+            "end": 36
+          }
+        ]
+      },
+      {
+        "id": "L4-R10",
+        "section": "二、熟读下列音节词。",
+        "line": 5,
+        "text": "kǔ ɡuā     luó bo     luò tuo",
+        "audio": "audio/teacher-05.m4a",
+        "parts": [
+          {
+            "text": "kǔ ɡuā",
+            "start": 0,
+            "end": 6
+          },
+          {
+            "text": "luó bo",
+            "start": 11,
+            "end": 17
+          },
+          {
+            "text": "luò tuo",
+            "start": 22,
+            "end": 29
+          }
+        ]
+      },
+      {
+        "id": "L4-R11",
+        "section": "二、熟读下列音节词。",
+        "line": 6,
+        "text": "bō luó     nuò mǐ     huā duǒ",
+        "audio": "audio/teacher-05.m4a",
+        "parts": [
+          {
+            "text": "bō luó",
+            "start": 0,
+            "end": 6
+          },
+          {
+            "text": "nuò mǐ",
+            "start": 11,
+            "end": 17
+          },
+          {
+            "text": "huā duǒ",
+            "start": 22,
+            "end": 29
+          }
+        ]
+      },
+      {
+        "id": "L4-R12",
+        "section": "三、读熟词语、句子。",
+        "line": 1,
+        "text": "1.哥哥  弟弟  画画  荷花  说话",
+        "audio": "audio/teacher-05.m4a",
+        "parts": [
+          {
+            "text": "哥哥",
+            "start": 2,
+            "end": 4
+          },
+          {
+            "text": "弟弟",
+            "start": 6,
+            "end": 8
+          },
+          {
+            "text": "画画",
+            "start": 10,
+            "end": 12
+          },
+          {
+            "text": "荷花",
+            "start": 14,
+            "end": 16
+          },
+          {
+            "text": "说话",
+            "start": 18,
+            "end": 20
+          }
+        ]
+      },
+      {
+        "id": "L4-R13",
+        "section": "三、读熟词语、句子。",
+        "line": 2,
+        "text": "2.bó bo  打 ɡǔ 。",
+        "audio": "audio/teacher-05.m4a",
+        "parts": [
+          {
+            "text": "bó bo  打 ɡǔ 。",
+            "start": 2,
+            "end": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 5,
+    "title": "拼音练习5（j q x）",
+    "rows": [
+      {
+        "id": "L5-R0",
+        "section": "一、熟读下列音节。",
+        "line": 1,
+        "text": "qí   jǐ   xī   qǔ   xú   jù   jí",
+        "audio": "audio/teacher-06.m4a",
+        "parts": [
+          {
+            "text": "qí",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "jǐ",
+            "start": 5,
+            "end": 7
+          },
+          {
+            "text": "xī",
+            "start": 10,
+            "end": 12
+          },
+          {
+            "text": "qǔ",
+            "start": 15,
+            "end": 17
+          },
+          {
+            "text": "xú",
+            "start": 20,
+            "end": 22
+          },
+          {
+            "text": "jù",
+            "start": 25,
+            "end": 27
+          },
+          {
+            "text": "jí",
+            "start": 30,
+            "end": 32
+          }
+        ]
+      },
+      {
+        "id": "L5-R1",
+        "section": "一、熟读下列音节。",
+        "line": 2,
+        "text": "ɡǔ   dù   xǔ   qǐ   jù   xì   pí",
+        "audio": "audio/teacher-06.m4a",
+        "parts": [
+          {
+            "text": "ɡǔ",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "dù",
+            "start": 5,
+            "end": 7
+          },
+          {
+            "text": "xǔ",
+            "start": 10,
+            "end": 12
+          },
+          {
+            "text": "qǐ",
+            "start": 15,
+            "end": 17
+          },
+          {
+            "text": "jù",
+            "start": 20,
+            "end": 22
+          },
+          {
+            "text": "xì",
+            "start": 25,
+            "end": 27
+          },
+          {
+            "text": "pí",
+            "start": 30,
+            "end": 32
+          }
+        ]
+      },
+      {
+        "id": "L5-R2",
+        "section": "一、熟读下列音节。",
+        "line": 3,
+        "text": "qū   jì   pú   qī   xí   lǘ   tǔ",
+        "audio": "audio/teacher-06.m4a",
+        "parts": [
+          {
+            "text": "qū",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "jì",
+            "start": 5,
+            "end": 7
+          },
+          {
+            "text": "pú",
+            "start": 10,
+            "end": 12
+          },
+          {
+            "text": "qī",
+            "start": 15,
+            "end": 17
+          },
+          {
+            "text": "xí",
+            "start": 20,
+            "end": 22
+          },
+          {
+            "text": "lǘ",
+            "start": 25,
+            "end": 27
+          },
+          {
+            "text": "tǔ",
+            "start": 30,
+            "end": 32
+          }
+        ]
+      },
+      {
+        "id": "L5-R3",
+        "section": "二、熟读下列音节词。",
+        "line": 1,
+        "text": "jī jí    dà mǐ    lā jī    qǐ lì",
+        "audio": "audio/teacher-06.m4a",
+        "parts": [
+          {
+            "text": "jī jí",
+            "start": 0,
+            "end": 5
+          },
+          {
+            "text": "dà mǐ",
+            "start": 9,
+            "end": 14
+          },
+          {
+            "text": "lā jī",
+            "start": 18,
+            "end": 23
+          },
+          {
+            "text": "qǐ lì",
+            "start": 27,
+            "end": 32
+          }
+        ]
+      },
+      {
+        "id": "L5-R4",
+        "section": "二、熟读下列音节词。",
+        "line": 2,
+        "text": "kè qi    ɡù kè    pí qì    jǔ qǐ",
+        "audio": "audio/teacher-06.m4a",
+        "parts": [
+          {
+            "text": "kè qi",
+            "start": 0,
+            "end": 5
+          },
+          {
+            "text": "ɡù kè",
+            "start": 9,
+            "end": 14
+          },
+          {
+            "text": "pí qì",
+            "start": 18,
+            "end": 23
+          },
+          {
+            "text": "jǔ qǐ",
+            "start": 27,
+            "end": 32
+          }
+        ]
+      },
+      {
+        "id": "L5-R5",
+        "section": "二、熟读下列音节词。",
+        "line": 3,
+        "text": "dà hé    ɡē qǔ    jī mù    qī fu",
+        "audio": "audio/teacher-06.m4a",
+        "parts": [
+          {
+            "text": "dà hé",
+            "start": 0,
+            "end": 5
+          },
+          {
+            "text": "ɡē qǔ",
+            "start": 9,
+            "end": 14
+          },
+          {
+            "text": "jī mù",
+            "start": 18,
+            "end": 23
+          },
+          {
+            "text": "qī fu",
+            "start": 27,
+            "end": 32
+          }
+        ]
+      },
+      {
+        "id": "L5-R6",
+        "section": "二、熟读下列音节词。",
+        "line": 4,
+        "text": "hú xū    jī qì    mǔ jī    dì qū",
+        "audio": "audio/teacher-06.m4a",
+        "parts": [
+          {
+            "text": "hú xū",
+            "start": 0,
+            "end": 5
+          },
+          {
+            "text": "jī qì",
+            "start": 9,
+            "end": 14
+          },
+          {
+            "text": "mǔ jī",
+            "start": 18,
+            "end": 23
+          },
+          {
+            "text": "dì qū",
+            "start": 27,
+            "end": 32
+          }
+        ]
+      },
+      {
+        "id": "L5-R7",
+        "section": "三、熟读词语、句子。",
+        "line": 1,
+        "text": "1、打鼓    下棋    搭积木",
+        "audio": "audio/teacher-06.m4a",
+        "parts": [
+          {
+            "text": "打鼓",
+            "start": 2,
+            "end": 4
+          },
+          {
+            "text": "下棋",
+            "start": 8,
+            "end": 10
+          },
+          {
+            "text": "搭积木",
+            "start": 14,
+            "end": 17
+          }
+        ]
+      },
+      {
+        "id": "L5-R8",
+        "section": "三、熟读词语、句子。",
+        "line": 2,
+        "text": "2、bó bo hé bà ba 下 qí.",
+        "audio": "audio/teacher-06.m4a",
+        "parts": [
+          {
+            "text": "bó bo hé bà ba 下 qí.",
+            "start": 2,
+            "end": 22
+          }
+        ]
+      },
+      {
+        "id": "L5-R9",
+        "section": "三、熟读词语、句子。",
+        "line": 3,
+        "text": "3、小 tù hé 小鸡 dā jī mù.",
+        "audio": "audio/teacher-06.m4a",
+        "parts": [
+          {
+            "text": "小 tù hé 小鸡 dā jī mù.",
+            "start": 2,
+            "end": 22
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 6,
+    "title": "拼音练习6",
+    "rows": [
+      {
+        "id": "L6-R0",
+        "section": "一、熟读下列音节。",
+        "line": 1,
+        "text": "zú   cì   cā   sú   zǐ   zá",
+        "audio": "audio/teacher-07.m4a",
+        "parts": [
+          {
+            "text": "zú",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "cì",
+            "start": 5,
+            "end": 7
+          },
+          {
+            "text": "cā",
+            "start": 10,
+            "end": 12
+          },
+          {
+            "text": "sú",
+            "start": 15,
+            "end": 17
+          },
+          {
+            "text": "zǐ",
+            "start": 20,
+            "end": 22
+          },
+          {
+            "text": "zá",
+            "start": 25,
+            "end": 27
+          }
+        ]
+      },
+      {
+        "id": "L6-R1",
+        "section": "一、熟读下列音节。",
+        "line": 2,
+        "text": "sè   sì   zé   cí   sà   cè",
+        "audio": "audio/teacher-07.m4a",
+        "parts": [
+          {
+            "text": "sè",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "sì",
+            "start": 5,
+            "end": 7
+          },
+          {
+            "text": "zé",
+            "start": 10,
+            "end": 12
+          },
+          {
+            "text": "cí",
+            "start": 15,
+            "end": 17
+          },
+          {
+            "text": "sà",
+            "start": 20,
+            "end": 22
+          },
+          {
+            "text": "cè",
+            "start": 25,
+            "end": 27
+          }
+        ]
+      },
+      {
+        "id": "L6-R2",
+        "section": "二、熟读下列音节词。",
+        "line": 1,
+        "text": "zǐ sè   zì mǔ    zǔ fù    cí qì",
+        "audio": "audio/teacher-07.m4a",
+        "parts": [
+          {
+            "text": "zǐ sè",
+            "start": 0,
+            "end": 5
+          },
+          {
+            "text": "zì mǔ",
+            "start": 8,
+            "end": 13
+          },
+          {
+            "text": "zǔ fù",
+            "start": 17,
+            "end": 22
+          },
+          {
+            "text": "cí qì",
+            "start": 26,
+            "end": 31
+          }
+        ]
+      },
+      {
+        "id": "L6-R3",
+        "section": "二、熟读下列音节词。",
+        "line": 2,
+        "text": "tǔ sī   zì jǐ    zì sī    zǐ nǚ",
+        "audio": "audio/teacher-07.m4a",
+        "parts": [
+          {
+            "text": "tǔ sī",
+            "start": 0,
+            "end": 5
+          },
+          {
+            "text": "zì jǐ",
+            "start": 8,
+            "end": 13
+          },
+          {
+            "text": "zì sī",
+            "start": 17,
+            "end": 22
+          },
+          {
+            "text": "zǐ nǚ",
+            "start": 26,
+            "end": 31
+          }
+        ]
+      },
+      {
+        "id": "L6-R4",
+        "section": "二、熟读下列音节词。",
+        "line": 3,
+        "text": "zuǒ手   cuò le   suǒ yǐ   zuó rì",
+        "audio": "audio/teacher-07.m4a",
+        "parts": [
+          {
+            "text": "zuǒ手",
+            "start": 0,
+            "end": 4
+          },
+          {
+            "text": "cuò le",
+            "start": 7,
+            "end": 13
+          },
+          {
+            "text": "suǒ yǐ",
+            "start": 16,
+            "end": 22
+          },
+          {
+            "text": "zuó rì",
+            "start": 25,
+            "end": 31
+          }
+        ]
+      },
+      {
+        "id": "L6-R5",
+        "section": "三、读准句子。",
+        "line": 1,
+        "text": "1、zǔ fù hé zǔ mǔ cā bō li.",
+        "audio": "audio/teacher-07.m4a",
+        "parts": [
+          {
+            "text": "zǔ fù hé zǔ mǔ cā bō li.",
+            "start": 2,
+            "end": 26
+          }
+        ]
+      },
+      {
+        "id": "L6-R6",
+        "section": "三、读准句子。",
+        "line": 2,
+        "text": "2、lì li hé nà nɑ dú 字 mǔ.",
+        "audio": "audio/teacher-07.m4a",
+        "parts": [
+          {
+            "text": "lì li hé nà nɑ dú 字 mǔ.",
+            "start": 2,
+            "end": 25
+          }
+        ]
+      },
+      {
+        "id": "L6-R7",
+        "section": "三、读准句子。",
+        "line": 3,
+        "text": "3、sī ɡuā lǜ lǜ de,lǎ bɑ 花zǐ zǐ de.",
+        "audio": "audio/teacher-07.m4a",
+        "parts": [
+          {
+            "text": "sī ɡuā lǜ lǜ de,lǎ bɑ 花zǐ zǐ de.",
+            "start": 2,
+            "end": 34
+          }
+        ]
+      },
+      {
+        "id": "L6-R8",
+        "section": "三、读准句子。",
+        "line": 4,
+        "text": "4、我是小学生。",
+        "audio": "audio/teacher-07.m4a",
+        "parts": [
+          {
+            "text": "我是小学生。",
+            "start": 2,
+            "end": 8
+          }
+        ]
+      },
+      {
+        "id": "L6-R9",
+        "section": "四、认读词语。",
+        "line": 1,
+        "text": "字母    词语   语文   句子  虫子   子女",
+        "audio": "audio/teacher-07.m4a",
+        "parts": [
+          {
+            "text": "字母",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "词语",
+            "start": 6,
+            "end": 8
+          },
+          {
+            "text": "语文",
+            "start": 11,
+            "end": 13
+          },
+          {
+            "text": "句子",
+            "start": 16,
+            "end": 18
+          },
+          {
+            "text": "虫子",
+            "start": 20,
+            "end": 22
+          },
+          {
+            "text": "子女",
+            "start": 25,
+            "end": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 7,
+    "title": "拼音练习7",
+    "rows": [
+      {
+        "id": "L7-R0",
+        "section": "一、熟读下列音节。",
+        "line": 1,
+        "text": "zhǎ  shú  chè  shǎ  zhù  zhě  chà",
+        "audio": "audio/teacher-08.m4a",
+        "parts": [
+          {
+            "text": "zhǎ",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "shú",
+            "start": 5,
+            "end": 8
+          },
+          {
+            "text": "chè",
+            "start": 10,
+            "end": 13
+          },
+          {
+            "text": "shǎ",
+            "start": 15,
+            "end": 18
+          },
+          {
+            "text": "zhù",
+            "start": 20,
+            "end": 23
+          },
+          {
+            "text": "zhě",
+            "start": 25,
+            "end": 28
+          },
+          {
+            "text": "chà",
+            "start": 30,
+            "end": 33
+          }
+        ]
+      },
+      {
+        "id": "L7-R1",
+        "section": "一、熟读下列音节。",
+        "line": 2,
+        "text": "chī  zhì  shǐ  zhí  shī  chǐ  shí",
+        "audio": "audio/teacher-08.m4a",
+        "parts": [
+          {
+            "text": "chī",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "zhì",
+            "start": 5,
+            "end": 8
+          },
+          {
+            "text": "shǐ",
+            "start": 10,
+            "end": 13
+          },
+          {
+            "text": "zhí",
+            "start": 15,
+            "end": 18
+          },
+          {
+            "text": "shī",
+            "start": 20,
+            "end": 23
+          },
+          {
+            "text": "chǐ",
+            "start": 25,
+            "end": 28
+          },
+          {
+            "text": "shí",
+            "start": 30,
+            "end": 33
+          }
+        ]
+      },
+      {
+        "id": "L7-R2",
+        "section": "二、熟读下列音节词。",
+        "line": 1,
+        "text": "rè chá   zhí shù   shā chē   zhī shi",
+        "audio": "audio/teacher-08.m4a",
+        "parts": [
+          {
+            "text": "rè chá",
+            "start": 0,
+            "end": 6
+          },
+          {
+            "text": "zhí shù",
+            "start": 9,
+            "end": 16
+          },
+          {
+            "text": "shā chē",
+            "start": 19,
+            "end": 26
+          },
+          {
+            "text": "zhī shi",
+            "start": 29,
+            "end": 36
+          }
+        ]
+      },
+      {
+        "id": "L7-R3",
+        "section": "二、熟读下列音节词。",
+        "line": 2,
+        "text": "rì chū   zhí rì    zhé zhǐ   zhú zi",
+        "audio": "audio/teacher-08.m4a",
+        "parts": [
+          {
+            "text": "rì chū",
+            "start": 0,
+            "end": 6
+          },
+          {
+            "text": "zhí rì",
+            "start": 9,
+            "end": 15
+          },
+          {
+            "text": "zhé zhǐ",
+            "start": 19,
+            "end": 26
+          },
+          {
+            "text": "zhú zi",
+            "start": 29,
+            "end": 35
+          }
+        ]
+      },
+      {
+        "id": "L7-R4",
+        "section": "二、熟读下列音节词。",
+        "line": 3,
+        "text": "chū zū chē    shě bù dé    ná pí chǐ",
+        "audio": "audio/teacher-08.m4a",
+        "parts": [
+          {
+            "text": "chū zū chē",
+            "start": 0,
+            "end": 10
+          },
+          {
+            "text": "shě bù dé",
+            "start": 14,
+            "end": 23
+          },
+          {
+            "text": "ná pí chǐ",
+            "start": 27,
+            "end": 36
+          }
+        ]
+      },
+      {
+        "id": "L7-R5",
+        "section": "二、熟读下列音节词。",
+        "line": 4,
+        "text": "zǐ   zhì   sí   shí  cì  chí  rì",
+        "audio": "audio/teacher-08.m4a",
+        "parts": [
+          {
+            "text": "zǐ",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "zhì",
+            "start": 5,
+            "end": 8
+          },
+          {
+            "text": "sí",
+            "start": 11,
+            "end": 13
+          },
+          {
+            "text": "shí",
+            "start": 16,
+            "end": 19
+          },
+          {
+            "text": "cì",
+            "start": 21,
+            "end": 23
+          },
+          {
+            "text": "chí",
+            "start": 25,
+            "end": 28
+          },
+          {
+            "text": "rì",
+            "start": 30,
+            "end": 32
+          }
+        ]
+      },
+      {
+        "id": "L7-R6",
+        "section": "二、熟读下列音节词。",
+        "line": 5,
+        "text": "yí   yù    wǔ   yǔ   yì  yú   wù",
+        "audio": "audio/teacher-08.m4a",
+        "parts": [
+          {
+            "text": "yí",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "yù",
+            "start": 5,
+            "end": 7
+          },
+          {
+            "text": "wǔ",
+            "start": 11,
+            "end": 13
+          },
+          {
+            "text": "yǔ",
+            "start": 16,
+            "end": 18
+          },
+          {
+            "text": "yì",
+            "start": 21,
+            "end": 23
+          },
+          {
+            "text": "yú",
+            "start": 25,
+            "end": 27
+          },
+          {
+            "text": "wù",
+            "start": 30,
+            "end": 32
+          }
+        ]
+      },
+      {
+        "id": "L7-R7",
+        "section": "二、熟读下列音节词。",
+        "line": 6,
+        "text": "jiǎ  ɡuó  zhuā  xiá  shuō  kuā  nuò",
+        "audio": "audio/teacher-08.m4a",
+        "parts": [
+          {
+            "text": "jiǎ",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "ɡuó",
+            "start": 5,
+            "end": 8
+          },
+          {
+            "text": "zhuā",
+            "start": 10,
+            "end": 14
+          },
+          {
+            "text": "xiá",
+            "start": 16,
+            "end": 19
+          },
+          {
+            "text": "shuō",
+            "start": 21,
+            "end": 25
+          },
+          {
+            "text": "kuā",
+            "start": 27,
+            "end": 30
+          },
+          {
+            "text": "nuò",
+            "start": 32,
+            "end": 35
+          }
+        ]
+      },
+      {
+        "id": "L7-R8",
+        "section": "三、熟读下列音节词。",
+        "line": 1,
+        "text": "jú huā   shuā yá    wū yā   hé huā",
+        "audio": "audio/teacher-08.m4a",
+        "parts": [
+          {
+            "text": "jú huā",
+            "start": 0,
+            "end": 6
+          },
+          {
+            "text": "shuā yá",
+            "start": 9,
+            "end": 16
+          },
+          {
+            "text": "wū yā",
+            "start": 20,
+            "end": 25
+          },
+          {
+            "text": "hé huā",
+            "start": 28,
+            "end": 34
+          }
+        ]
+      },
+      {
+        "id": "L7-R9",
+        "section": "三、熟读下列音节词。",
+        "line": 2,
+        "text": "dà huǒ   shuō huà   wà zi   xià yǔ",
+        "audio": "audio/teacher-08.m4a",
+        "parts": [
+          {
+            "text": "dà huǒ",
+            "start": 0,
+            "end": 6
+          },
+          {
+            "text": "shuō huà",
+            "start": 9,
+            "end": 17
+          },
+          {
+            "text": "wà zi",
+            "start": 20,
+            "end": 25
+          },
+          {
+            "text": "xià yǔ",
+            "start": 28,
+            "end": 34
+          }
+        ]
+      },
+      {
+        "id": "L7-R10",
+        "section": "三、熟读下列音节词。",
+        "line": 3,
+        "text": "sī ɡuā   huā duǒ    yā zi   zhú zi",
+        "audio": "audio/teacher-08.m4a",
+        "parts": [
+          {
+            "text": "sī ɡuā",
+            "start": 0,
+            "end": 6
+          },
+          {
+            "text": "huā duǒ",
+            "start": 9,
+            "end": 16
+          },
+          {
+            "text": "yā zi",
+            "start": 20,
+            "end": 25
+          },
+          {
+            "text": "zhú zi",
+            "start": 28,
+            "end": 34
+          }
+        ]
+      },
+      {
+        "id": "L7-R11",
+        "section": "三、熟读下列音节词。",
+        "line": 4,
+        "text": "ná pí chǐ           cā zhuō zi",
+        "audio": "audio/teacher-08.m4a",
+        "parts": [
+          {
+            "text": "ná pí chǐ",
+            "start": 0,
+            "end": 9
+          },
+          {
+            "text": "cā zhuō zi",
+            "start": 20,
+            "end": 30
+          }
+        ]
+      },
+      {
+        "id": "L7-R12",
+        "section": "三、熟读下列音节词。",
+        "line": 5,
+        "text": "zhuō dà xiā         dǎ huǒ jī",
+        "audio": "audio/teacher-08.m4a",
+        "parts": [
+          {
+            "text": "zhuō dà xiā",
+            "start": 0,
+            "end": 11
+          },
+          {
+            "text": "dǎ huǒ jī",
+            "start": 20,
+            "end": 29
+          }
+        ]
+      },
+      {
+        "id": "L7-R13",
+        "section": "三、熟读下列音节词。",
+        "line": 6,
+        "text": "zuò huǒ chē         chī xī ɡuā",
+        "audio": "audio/teacher-08.m4a",
+        "parts": [
+          {
+            "text": "zuò huǒ chē",
+            "start": 0,
+            "end": 11
+          },
+          {
+            "text": "chī xī ɡuā",
+            "start": 20,
+            "end": 30
+          }
+        ]
+      },
+      {
+        "id": "L7-R14",
+        "section": "四、认读生词",
+        "line": 1,
+        "text": "擦桌子      折纸    读书",
+        "audio": "audio/teacher-08.m4a",
+        "parts": [
+          {
+            "text": "擦桌子",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "折纸",
+            "start": 9,
+            "end": 11
+          },
+          {
+            "text": "读书",
+            "start": 15,
+            "end": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 8,
+    "title": "拼音练习8",
+    "rows": [
+      {
+        "id": "L8-R0",
+        "section": "一、熟读下列三拼音节。",
+        "line": 1,
+        "text": "duǒ  ɡuó  nuó  luò  tuō  ɡuǎ",
+        "audio": "audio/teacher-09.m4a",
+        "parts": [
+          {
+            "text": "duǒ",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "ɡuó",
+            "start": 5,
+            "end": 8
+          },
+          {
+            "text": "nuó",
+            "start": 10,
+            "end": 13
+          },
+          {
+            "text": "luò",
+            "start": 15,
+            "end": 18
+          },
+          {
+            "text": "tuō",
+            "start": 20,
+            "end": 23
+          },
+          {
+            "text": "ɡuǎ",
+            "start": 25,
+            "end": 28
+          }
+        ]
+      },
+      {
+        "id": "L8-R1",
+        "section": "一、熟读下列三拼音节。",
+        "line": 2,
+        "text": "kuò  huā  luó  kuā  nuò  jiǎ",
+        "audio": "audio/teacher-09.m4a",
+        "parts": [
+          {
+            "text": "kuò",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "huā",
+            "start": 5,
+            "end": 8
+          },
+          {
+            "text": "luó",
+            "start": 10,
+            "end": 13
+          },
+          {
+            "text": "kuā",
+            "start": 15,
+            "end": 18
+          },
+          {
+            "text": "nuò",
+            "start": 20,
+            "end": 23
+          },
+          {
+            "text": "jiǎ",
+            "start": 25,
+            "end": 28
+          }
+        ]
+      },
+      {
+        "id": "L8-R2",
+        "section": "一、熟读下列三拼音节。",
+        "line": 3,
+        "text": "tuó  duō  luō  kuà  huó  huà",
+        "audio": "audio/teacher-09.m4a",
+        "parts": [
+          {
+            "text": "tuó",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "duō",
+            "start": 5,
+            "end": 8
+          },
+          {
+            "text": "luō",
+            "start": 10,
+            "end": 13
+          },
+          {
+            "text": "kuà",
+            "start": 15,
+            "end": 18
+          },
+          {
+            "text": "huó",
+            "start": 20,
+            "end": 23
+          },
+          {
+            "text": "huà",
+            "start": 25,
+            "end": 28
+          }
+        ]
+      },
+      {
+        "id": "L8-R3",
+        "section": "一、熟读下列三拼音节。",
+        "line": 4,
+        "text": "qiā  jià  huǒ  huá  ɡuō  ɡuā",
+        "audio": "audio/teacher-09.m4a",
+        "parts": [
+          {
+            "text": "qiā",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "jià",
+            "start": 5,
+            "end": 8
+          },
+          {
+            "text": "huǒ",
+            "start": 10,
+            "end": 13
+          },
+          {
+            "text": "huá",
+            "start": 15,
+            "end": 18
+          },
+          {
+            "text": "ɡuō",
+            "start": 20,
+            "end": 23
+          },
+          {
+            "text": "ɡuā",
+            "start": 25,
+            "end": 28
+          }
+        ]
+      },
+      {
+        "id": "L8-R4",
+        "section": "二、熟读下列音节词。",
+        "line": 1,
+        "text": "zǔ ɡuó   luó bo   luò tuo   xī ɡuā",
+        "audio": "audio/teacher-09.m4a",
+        "parts": [
+          {
+            "text": "zǔ ɡuó",
+            "start": 0,
+            "end": 6
+          },
+          {
+            "text": "luó bo",
+            "start": 9,
+            "end": 15
+          },
+          {
+            "text": "luò tuo",
+            "start": 18,
+            "end": 25
+          },
+          {
+            "text": "xī ɡuā",
+            "start": 28,
+            "end": 34
+          }
+        ]
+      },
+      {
+        "id": "L8-R5",
+        "section": "二、熟读下列音节词。",
+        "line": 2,
+        "text": "kǔ ɡuā   jú huā   xǔ duō    tuō lā",
+        "audio": "audio/teacher-09.m4a",
+        "parts": [
+          {
+            "text": "kǔ ɡuā",
+            "start": 0,
+            "end": 6
+          },
+          {
+            "text": "jú huā",
+            "start": 9,
+            "end": 15
+          },
+          {
+            "text": "xǔ duō",
+            "start": 18,
+            "end": 24
+          },
+          {
+            "text": "tuō lā",
+            "start": 28,
+            "end": 34
+          }
+        ]
+      },
+      {
+        "id": "L8-R6",
+        "section": "二、熟读下列音节词。",
+        "line": 3,
+        "text": "ɡuó jiā  bō luó   ɡuò qù    ɡuā pí",
+        "audio": "audio/teacher-09.m4a",
+        "parts": [
+          {
+            "text": "ɡuó jiā",
+            "start": 0,
+            "end": 7
+          },
+          {
+            "text": "bō luó",
+            "start": 9,
+            "end": 15
+          },
+          {
+            "text": "ɡuò qù",
+            "start": 18,
+            "end": 24
+          },
+          {
+            "text": "ɡuā pí",
+            "start": 28,
+            "end": 34
+          }
+        ]
+      },
+      {
+        "id": "L8-R7",
+        "section": "二、熟读下列音节词。",
+        "line": 4,
+        "text": "fā huǒ   nuò mǐ   luò xià   rú ɡuǒ",
+        "audio": "audio/teacher-09.m4a",
+        "parts": [
+          {
+            "text": "fā huǒ",
+            "start": 0,
+            "end": 6
+          },
+          {
+            "text": "nuò mǐ",
+            "start": 9,
+            "end": 15
+          },
+          {
+            "text": "luò xià",
+            "start": 18,
+            "end": 25
+          },
+          {
+            "text": "rú ɡuǒ",
+            "start": 28,
+            "end": 34
+          }
+        ]
+      },
+      {
+        "id": "L8-R8",
+        "section": "二、熟读下列音节词。",
+        "line": 5,
+        "text": "shū jià    zhuā zhù   shuō huà",
+        "audio": "audio/teacher-09.m4a",
+        "parts": [
+          {
+            "text": "shū jià",
+            "start": 0,
+            "end": 7
+          },
+          {
+            "text": "zhuā zhù",
+            "start": 11,
+            "end": 19
+          },
+          {
+            "text": "shuō huà",
+            "start": 22,
+            "end": 30
+          }
+        ]
+      },
+      {
+        "id": "L8-R9",
+        "section": "二、熟读下列音节词。",
+        "line": 6,
+        "text": "kè zhuō    chuō pò    cā zhuō zi",
+        "audio": "audio/teacher-09.m4a",
+        "parts": [
+          {
+            "text": "kè zhuō",
+            "start": 0,
+            "end": 7
+          },
+          {
+            "text": "chuō pò",
+            "start": 11,
+            "end": 18
+          },
+          {
+            "text": "cā zhuō zi",
+            "start": 22,
+            "end": 32
+          }
+        ]
+      },
+      {
+        "id": "L8-R10",
+        "section": "二、熟读下列音节词。",
+        "line": 7,
+        "text": "suǒ yǐ   bǐ zhí  ɡuǒ zhī   zhè li  zhú zi   zhī zhū   là zhú  chǐ zi  hē chá    huǒ chē   chū qù   ɡù shi   shī zi   rì chū",
+        "audio": "audio/teacher-09.m4a",
+        "parts": [
+          {
+            "text": "suǒ yǐ",
+            "start": 0,
+            "end": 6
+          },
+          {
+            "text": "bǐ zhí",
+            "start": 9,
+            "end": 15
+          },
+          {
+            "text": "ɡuǒ zhī",
+            "start": 17,
+            "end": 24
+          },
+          {
+            "text": "zhè li",
+            "start": 27,
+            "end": 33
+          },
+          {
+            "text": "zhú zi",
+            "start": 35,
+            "end": 41
+          },
+          {
+            "text": "zhī zhū",
+            "start": 44,
+            "end": 51
+          },
+          {
+            "text": "là zhú",
+            "start": 54,
+            "end": 60
+          },
+          {
+            "text": "chǐ zi",
+            "start": 62,
+            "end": 68
+          },
+          {
+            "text": "hē chá",
+            "start": 70,
+            "end": 76
+          },
+          {
+            "text": "huǒ chē",
+            "start": 80,
+            "end": 87
+          },
+          {
+            "text": "chū qù",
+            "start": 90,
+            "end": 96
+          },
+          {
+            "text": "ɡù shi",
+            "start": 99,
+            "end": 105
+          },
+          {
+            "text": "shī zi",
+            "start": 108,
+            "end": 114
+          },
+          {
+            "text": "rì chū",
+            "start": 117,
+            "end": 123
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 9,
+    "title": "拼音练习9",
+    "rows": [
+      {
+        "id": "L9-R0",
+        "section": "一、复习带调复韵母。",
+        "line": 1,
+        "text": "āi   uí   ài   ěi   uì   èi",
+        "audio": "audio/teacher-10.m4a",
+        "parts": [
+          {
+            "text": "āi",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "uí",
+            "start": 5,
+            "end": 7
+          },
+          {
+            "text": "ài",
+            "start": 10,
+            "end": 12
+          },
+          {
+            "text": "ěi",
+            "start": 15,
+            "end": 17
+          },
+          {
+            "text": "uì",
+            "start": 20,
+            "end": 22
+          },
+          {
+            "text": "èi",
+            "start": 25,
+            "end": 27
+          }
+        ]
+      },
+      {
+        "id": "L9-R1",
+        "section": "一、复习带调复韵母。",
+        "line": 2,
+        "text": "ēi   ái   uī   ǎi   uǐ   éi",
+        "audio": "audio/teacher-10.m4a",
+        "parts": [
+          {
+            "text": "ēi",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "ái",
+            "start": 5,
+            "end": 7
+          },
+          {
+            "text": "uī",
+            "start": 10,
+            "end": 12
+          },
+          {
+            "text": "ǎi",
+            "start": 15,
+            "end": 17
+          },
+          {
+            "text": "uǐ",
+            "start": 20,
+            "end": 22
+          },
+          {
+            "text": "éi",
+            "start": 25,
+            "end": 27
+          }
+        ]
+      },
+      {
+        "id": "L9-R2",
+        "section": "二、熟读下列音节。",
+        "line": 1,
+        "text": "duì   měi   wài   huí    dǎi",
+        "audio": "audio/teacher-10.m4a",
+        "parts": [
+          {
+            "text": "duì",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "měi",
+            "start": 6,
+            "end": 9
+          },
+          {
+            "text": "wài",
+            "start": 12,
+            "end": 15
+          },
+          {
+            "text": "huí",
+            "start": 18,
+            "end": 21
+          },
+          {
+            "text": "dǎi",
+            "start": 25,
+            "end": 28
+          }
+        ]
+      },
+      {
+        "id": "L9-R3",
+        "section": "二、熟读下列音节。",
+        "line": 2,
+        "text": "nèi   mái   fēi   zhuī   chái",
+        "audio": "audio/teacher-10.m4a",
+        "parts": [
+          {
+            "text": "nèi",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "mái",
+            "start": 6,
+            "end": 9
+          },
+          {
+            "text": "fēi",
+            "start": 12,
+            "end": 15
+          },
+          {
+            "text": "zhuī",
+            "start": 18,
+            "end": 22
+          },
+          {
+            "text": "chái",
+            "start": 25,
+            "end": 29
+          }
+        ]
+      },
+      {
+        "id": "L9-R4",
+        "section": "二、熟读下列音节。",
+        "line": 3,
+        "text": "ɡuāi  kuài  shuāi  huái  chuài",
+        "audio": "audio/teacher-10.m4a",
+        "parts": [
+          {
+            "text": "ɡuāi",
+            "start": 0,
+            "end": 4
+          },
+          {
+            "text": "kuài",
+            "start": 6,
+            "end": 10
+          },
+          {
+            "text": "shuāi",
+            "start": 12,
+            "end": 17
+          },
+          {
+            "text": "huái",
+            "start": 19,
+            "end": 23
+          },
+          {
+            "text": "chuài",
+            "start": 25,
+            "end": 30
+          }
+        ]
+      },
+      {
+        "id": "L9-R5",
+        "section": "三、熟读下列音节词。",
+        "line": 1,
+        "text": "nǎi nɑi   mèi mei  bái tù  皮 fū",
+        "audio": "audio/teacher-10.m4a",
+        "parts": [
+          {
+            "text": "nǎi nɑi",
+            "start": 0,
+            "end": 7
+          },
+          {
+            "text": "mèi mei",
+            "start": 10,
+            "end": 17
+          },
+          {
+            "text": "bái tù",
+            "start": 19,
+            "end": 25
+          },
+          {
+            "text": "皮 fū",
+            "start": 27,
+            "end": 31
+          }
+        ]
+      },
+      {
+        "id": "L9-R6",
+        "section": "三、熟读下列音节词。",
+        "line": 2,
+        "text": "pái duì   fēi jī   cì wei  huí jiā",
+        "audio": "audio/teacher-10.m4a",
+        "parts": [
+          {
+            "text": "pái duì",
+            "start": 0,
+            "end": 7
+          },
+          {
+            "text": "fēi jī",
+            "start": 10,
+            "end": 16
+          },
+          {
+            "text": "cì wei",
+            "start": 19,
+            "end": 25
+          },
+          {
+            "text": "huí jiā",
+            "start": 27,
+            "end": 34
+          }
+        ]
+      },
+      {
+        "id": "L9-R7",
+        "section": "三、熟读下列音节词。",
+        "line": 3,
+        "text": "dài shǔ   shū ɡuì  zuǐ bɑ  qí ɡuài",
+        "audio": "audio/teacher-10.m4a",
+        "parts": [
+          {
+            "text": "dài shǔ",
+            "start": 0,
+            "end": 7
+          },
+          {
+            "text": "shū ɡuì",
+            "start": 10,
+            "end": 17
+          },
+          {
+            "text": "zuǐ bɑ",
+            "start": 19,
+            "end": 25
+          },
+          {
+            "text": "qí ɡuài",
+            "start": 27,
+            "end": 34
+          }
+        ]
+      },
+      {
+        "id": "L9-R8",
+        "section": "三、熟读下列音节词。",
+        "line": 4,
+        "text": "kuài lè   bēi zi   hái zi  wěi bɑ",
+        "audio": "audio/teacher-10.m4a",
+        "parts": [
+          {
+            "text": "kuài lè",
+            "start": 0,
+            "end": 7
+          },
+          {
+            "text": "bēi zi",
+            "start": 10,
+            "end": 16
+          },
+          {
+            "text": "hái zi",
+            "start": 19,
+            "end": 25
+          },
+          {
+            "text": "wěi bɑ",
+            "start": 27,
+            "end": 33
+          }
+        ]
+      },
+      {
+        "id": "L9-R9",
+        "section": "四、读熟下列句子。",
+        "line": 1,
+        "text": "1、奶奶 qù mǎi cài.",
+        "audio": "audio/teacher-10.m4a",
+        "parts": [
+          {
+            "text": "奶奶 qù mǎi cài.",
+            "start": 2,
+            "end": 16
+          }
+        ]
+      },
+      {
+        "id": "L9-R10",
+        "section": "四、读熟下列句子。",
+        "line": 2,
+        "text": "2、měi lì de méi 花 kāi le.",
+        "audio": "audio/teacher-10.m4a",
+        "parts": [
+          {
+            "text": "měi lì de méi 花 kāi le.",
+            "start": 2,
+            "end": 25
+          }
+        ]
+      },
+      {
+        "id": "L9-R11",
+        "section": "四、读熟下列句子。",
+        "line": 3,
+        "text": "3、白 tù zhuī 小 wū ɡuī.",
+        "audio": "audio/teacher-10.m4a",
+        "parts": [
+          {
+            "text": "白 tù zhuī 小 wū ɡuī.",
+            "start": 2,
+            "end": 21
+          }
+        ]
+      },
+      {
+        "id": "L9-R12",
+        "section": "四、读熟下列句子。",
+        "line": 4,
+        "text": "4、妹妹坐zài yǐ 子 上hē 水 .",
+        "audio": "audio/teacher-10.m4a",
+        "parts": [
+          {
+            "text": "妹妹坐zài yǐ 子 上hē 水 .",
+            "start": 2,
+            "end": 21
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 10,
+    "title": "拼音练习10",
+    "rows": [
+      {
+        "id": "L10-R0",
+        "section": "一、读熟带调复韵母。",
+        "line": 1,
+        "text": "ǎo  èi  iú   iù  ào   ái   ōu   iū",
+        "audio": "audio/teacher-11.m4a",
+        "parts": [
+          {
+            "text": "ǎo",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "èi",
+            "start": 4,
+            "end": 6
+          },
+          {
+            "text": "iú",
+            "start": 8,
+            "end": 10
+          },
+          {
+            "text": "iù",
+            "start": 13,
+            "end": 15
+          },
+          {
+            "text": "ào",
+            "start": 17,
+            "end": 19
+          },
+          {
+            "text": "ái",
+            "start": 22,
+            "end": 24
+          },
+          {
+            "text": "ōu",
+            "start": 27,
+            "end": 29
+          },
+          {
+            "text": "iū",
+            "start": 32,
+            "end": 34
+          }
+        ]
+      },
+      {
+        "id": "L10-R1",
+        "section": "一、读熟带调复韵母。",
+        "line": 2,
+        "text": "áo  uǐ  ǒu   uǐ  éi   òu   iǔ   óu",
+        "audio": "audio/teacher-11.m4a",
+        "parts": [
+          {
+            "text": "áo",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "uǐ",
+            "start": 4,
+            "end": 6
+          },
+          {
+            "text": "ǒu",
+            "start": 8,
+            "end": 10
+          },
+          {
+            "text": "uǐ",
+            "start": 13,
+            "end": 15
+          },
+          {
+            "text": "éi",
+            "start": 17,
+            "end": 19
+          },
+          {
+            "text": "òu",
+            "start": 22,
+            "end": 24
+          },
+          {
+            "text": "iǔ",
+            "start": 27,
+            "end": 29
+          },
+          {
+            "text": "óu",
+            "start": 32,
+            "end": 34
+          }
+        ]
+      },
+      {
+        "id": "L10-R2",
+        "section": "二、熟读下列带调音节。",
+        "line": 1,
+        "text": "dào   bāo   cài   chái   ɡǒu   hòu",
+        "audio": "audio/teacher-11.m4a",
+        "parts": [
+          {
+            "text": "dào",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "bāo",
+            "start": 6,
+            "end": 9
+          },
+          {
+            "text": "cài",
+            "start": 12,
+            "end": 15
+          },
+          {
+            "text": "chái",
+            "start": 18,
+            "end": 22
+          },
+          {
+            "text": "ɡǒu",
+            "start": 25,
+            "end": 28
+          },
+          {
+            "text": "hòu",
+            "start": 31,
+            "end": 34
+          }
+        ]
+      },
+      {
+        "id": "L10-R3",
+        "section": "二、熟读下列带调音节。",
+        "line": 2,
+        "text": "jiǔ   niú   kuí   zhuī   nèi   měi",
+        "audio": "audio/teacher-11.m4a",
+        "parts": [
+          {
+            "text": "jiǔ",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "niú",
+            "start": 6,
+            "end": 9
+          },
+          {
+            "text": "kuí",
+            "start": 12,
+            "end": 15
+          },
+          {
+            "text": "zhuī",
+            "start": 18,
+            "end": 22
+          },
+          {
+            "text": "nèi",
+            "start": 25,
+            "end": 28
+          },
+          {
+            "text": "měi",
+            "start": 31,
+            "end": 34
+          }
+        ]
+      },
+      {
+        "id": "L10-R4",
+        "section": "二、熟读下列带调音节。",
+        "line": 3,
+        "text": "yóu   ròu   sōu   lòu    diū   shuǐ",
+        "audio": "audio/teacher-11.m4a",
+        "parts": [
+          {
+            "text": "yóu",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "ròu",
+            "start": 6,
+            "end": 9
+          },
+          {
+            "text": "sōu",
+            "start": 12,
+            "end": 15
+          },
+          {
+            "text": "lòu",
+            "start": 18,
+            "end": 21
+          },
+          {
+            "text": "diū",
+            "start": 25,
+            "end": 28
+          },
+          {
+            "text": "shuǐ",
+            "start": 31,
+            "end": 35
+          }
+        ]
+      },
+      {
+        "id": "L10-R5",
+        "section": "二、熟读下列带调音节。",
+        "line": 4,
+        "text": "tiāo  niǎo  xiào  piāo   liáo  jiào",
+        "audio": "audio/teacher-11.m4a",
+        "parts": [
+          {
+            "text": "tiāo",
+            "start": 0,
+            "end": 4
+          },
+          {
+            "text": "niǎo",
+            "start": 6,
+            "end": 10
+          },
+          {
+            "text": "xiào",
+            "start": 12,
+            "end": 16
+          },
+          {
+            "text": "piāo",
+            "start": 18,
+            "end": 22
+          },
+          {
+            "text": "liáo",
+            "start": 25,
+            "end": 29
+          },
+          {
+            "text": "jiào",
+            "start": 31,
+            "end": 35
+          }
+        ]
+      },
+      {
+        "id": "L10-R6",
+        "section": "三、熟读下列音节词。",
+        "line": 1,
+        "text": "xiǎo qiáo     liú shuǐ     chuí liǔ",
+        "audio": "audio/teacher-11.m4a",
+        "parts": [
+          {
+            "text": "xiǎo qiáo",
+            "start": 0,
+            "end": 9
+          },
+          {
+            "text": "liú shuǐ",
+            "start": 14,
+            "end": 22
+          },
+          {
+            "text": "chuí liǔ",
+            "start": 27,
+            "end": 35
+          }
+        ]
+      },
+      {
+        "id": "L10-R7",
+        "section": "三、熟读下列音节词。",
+        "line": 2,
+        "text": "táo huā       pí qiú       xiǎo niú",
+        "audio": "audio/teacher-11.m4a",
+        "parts": [
+          {
+            "text": "táo huā",
+            "start": 0,
+            "end": 7
+          },
+          {
+            "text": "pí qiú",
+            "start": 14,
+            "end": 20
+          },
+          {
+            "text": "xiǎo niú",
+            "start": 27,
+            "end": 35
+          }
+        ]
+      },
+      {
+        "id": "L10-R8",
+        "section": "三、熟读下列音节词。",
+        "line": 3,
+        "text": "hǎi ōu        chī cǎo      nǐ hǎo",
+        "audio": "audio/teacher-11.m4a",
+        "parts": [
+          {
+            "text": "hǎi ōu",
+            "start": 0,
+            "end": 6
+          },
+          {
+            "text": "chī cǎo",
+            "start": 14,
+            "end": 21
+          },
+          {
+            "text": "nǐ hǎo",
+            "start": 27,
+            "end": 33
+          }
+        ]
+      },
+      {
+        "id": "L10-R9",
+        "section": "三、熟读下列音节词。",
+        "line": 4,
+        "text": "yóu xì        zǎo cāo      yōu xiù",
+        "audio": "audio/teacher-11.m4a",
+        "parts": [
+          {
+            "text": "yóu xì",
+            "start": 0,
+            "end": 6
+          },
+          {
+            "text": "zǎo cāo",
+            "start": 14,
+            "end": 21
+          },
+          {
+            "text": "yōu xiù",
+            "start": 27,
+            "end": 34
+          }
+        ]
+      },
+      {
+        "id": "L10-R10",
+        "section": "三、熟读下列音节词。",
+        "line": 5,
+        "text": "cǎo  méi      jiào shì     lǎo shī",
+        "audio": "audio/teacher-11.m4a",
+        "parts": [
+          {
+            "text": "cǎo",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "méi",
+            "start": 5,
+            "end": 8
+          },
+          {
+            "text": "jiào shì",
+            "start": 14,
+            "end": 22
+          },
+          {
+            "text": "lǎo shī",
+            "start": 27,
+            "end": 34
+          }
+        ]
+      },
+      {
+        "id": "L10-R11",
+        "section": "四、熟读下列句子。",
+        "line": 1,
+        "text": "1、小hóu ɡuò 小桥 .",
+        "audio": "audio/teacher-11.m4a",
+        "parts": [
+          {
+            "text": "小hóu ɡuò 小桥 .",
+            "start": 2,
+            "end": 15
+          }
+        ]
+      },
+      {
+        "id": "L10-R12",
+        "section": "四、熟读下列句子。",
+        "line": 2,
+        "text": "2、大jiā zuò zǎo cāo .",
+        "audio": "audio/teacher-11.m4a",
+        "parts": [
+          {
+            "text": "大jiā zuò zǎo cāo .",
+            "start": 2,
+            "end": 20
+          }
+        ]
+      },
+      {
+        "id": "L10-R13",
+        "section": "四、熟读下列句子。",
+        "line": 3,
+        "text": "3、小 nǚ hái zài wǔ 台 上tiào wǔ .",
+        "audio": "audio/teacher-11.m4a",
+        "parts": [
+          {
+            "text": "小 nǚ hái zài wǔ 台 上tiào wǔ .",
+            "start": 2,
+            "end": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 11,
+    "title": "拼音练习11",
+    "rows": [
+      {
+        "id": "L11-R0",
+        "section": "一、熟读下列韵母。",
+        "line": 1,
+        "text": "ái  èi  uǐ  áo  ōu  iù  iè  üè  èr",
+        "audio": "audio/teacher-12.m4a",
+        "parts": [
+          {
+            "text": "ái",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "èi",
+            "start": 4,
+            "end": 6
+          },
+          {
+            "text": "uǐ",
+            "start": 8,
+            "end": 10
+          },
+          {
+            "text": "áo",
+            "start": 12,
+            "end": 14
+          },
+          {
+            "text": "ōu",
+            "start": 16,
+            "end": 18
+          },
+          {
+            "text": "iù",
+            "start": 20,
+            "end": 22
+          },
+          {
+            "text": "iè",
+            "start": 24,
+            "end": 26
+          },
+          {
+            "text": "üè",
+            "start": 28,
+            "end": 30
+          },
+          {
+            "text": "èr",
+            "start": 32,
+            "end": 34
+          }
+        ]
+      },
+      {
+        "id": "L11-R1",
+        "section": "二、熟读下列音节。",
+        "line": 1,
+        "text": "bié   diē   jiè   xiě   nüē   lüè",
+        "audio": "audio/teacher-12.m4a",
+        "parts": [
+          {
+            "text": "bié",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "diē",
+            "start": 6,
+            "end": 9
+          },
+          {
+            "text": "jiè",
+            "start": 12,
+            "end": 15
+          },
+          {
+            "text": "xiě",
+            "start": 18,
+            "end": 21
+          },
+          {
+            "text": "nüē",
+            "start": 24,
+            "end": 27
+          },
+          {
+            "text": "lüè",
+            "start": 30,
+            "end": 33
+          }
+        ]
+      },
+      {
+        "id": "L11-R2",
+        "section": "二、熟读下列音节。",
+        "line": 2,
+        "text": "què   jué   xuě   yè    yuè   ěr",
+        "audio": "audio/teacher-12.m4a",
+        "parts": [
+          {
+            "text": "què",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "jué",
+            "start": 6,
+            "end": 9
+          },
+          {
+            "text": "xuě",
+            "start": 12,
+            "end": 15
+          },
+          {
+            "text": "yè",
+            "start": 18,
+            "end": 20
+          },
+          {
+            "text": "yuè",
+            "start": 24,
+            "end": 27
+          },
+          {
+            "text": "ěr",
+            "start": 30,
+            "end": 32
+          }
+        ]
+      },
+      {
+        "id": "L11-R3",
+        "section": "三、熟读下列音节词。",
+        "line": 1,
+        "text": "yè sè     xuě huā     yuè yá     ěr duo",
+        "audio": "audio/teacher-12.m4a",
+        "parts": [
+          {
+            "text": "yè sè",
+            "start": 0,
+            "end": 5
+          },
+          {
+            "text": "xuě huā",
+            "start": 10,
+            "end": 17
+          },
+          {
+            "text": "yuè yá",
+            "start": 22,
+            "end": 28
+          },
+          {
+            "text": "ěr duo",
+            "start": 33,
+            "end": 39
+          }
+        ]
+      },
+      {
+        "id": "L11-R4",
+        "section": "三、熟读下列音节词。",
+        "line": 2,
+        "text": "rì yuè    hú dié      yú er      yuè er",
+        "audio": "audio/teacher-12.m4a",
+        "parts": [
+          {
+            "text": "rì yuè",
+            "start": 0,
+            "end": 6
+          },
+          {
+            "text": "hú dié",
+            "start": 10,
+            "end": 16
+          },
+          {
+            "text": "yú er",
+            "start": 22,
+            "end": 27
+          },
+          {
+            "text": "yuè er",
+            "start": 33,
+            "end": 39
+          }
+        ]
+      },
+      {
+        "id": "L11-R5",
+        "section": "三、熟读下列音节词。",
+        "line": 3,
+        "text": "pí xuē    bù xié      xiě zì     yé ye",
+        "audio": "audio/teacher-12.m4a",
+        "parts": [
+          {
+            "text": "pí xuē",
+            "start": 0,
+            "end": 6
+          },
+          {
+            "text": "bù xié",
+            "start": 10,
+            "end": 16
+          },
+          {
+            "text": "xiě zì",
+            "start": 22,
+            "end": 28
+          },
+          {
+            "text": "yé ye",
+            "start": 33,
+            "end": 38
+          }
+        ]
+      },
+      {
+        "id": "L11-R6",
+        "section": "三、熟读下列音节词。",
+        "line": 4,
+        "text": "xué xí    xǐ què      yuè dú     ér nǚ",
+        "audio": "audio/teacher-12.m4a",
+        "parts": [
+          {
+            "text": "xué xí",
+            "start": 0,
+            "end": 6
+          },
+          {
+            "text": "xǐ què",
+            "start": 10,
+            "end": 16
+          },
+          {
+            "text": "yuè dú",
+            "start": 22,
+            "end": 28
+          },
+          {
+            "text": "ér nǚ",
+            "start": 33,
+            "end": 38
+          }
+        ]
+      },
+      {
+        "id": "L11-R7",
+        "section": "四、读熟下列句子。",
+        "line": 1,
+        "text": "我zài xiě zuò yè .",
+        "audio": "audio/teacher-12.m4a",
+        "parts": [
+          {
+            "text": "我zài xiě zuò yè .",
+            "start": 0,
+            "end": 17
+          }
+        ]
+      },
+      {
+        "id": "L11-R8",
+        "section": "四、读熟下列句子。",
+        "line": 2,
+        "text": "měi lì de雪花piāo ya piāo .",
+        "audio": "audio/teacher-12.m4a",
+        "parts": [
+          {
+            "text": "měi lì de雪花piāo ya piāo .",
+            "start": 0,
+            "end": 25
+          }
+        ]
+      },
+      {
+        "id": "L11-R9",
+        "section": "四、读熟下列句子。",
+        "line": 3,
+        "text": "3、hú dié fēi ,鸟儿 jiào, 花儿 xiào .",
+        "audio": "audio/teacher-12.m4a",
+        "parts": [
+          {
+            "text": "hú dié fēi ,鸟儿 jiào, 花儿 xiào .",
+            "start": 2,
+            "end": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 12,
+    "title": "拼音练习12",
+    "rows": [
+      {
+        "id": "L12-R0",
+        "section": "一、读准前鼻韵母和整体认读音节",
+        "line": 1,
+        "text": "àn    ēn      ín    ūn     ǚn",
+        "audio": "audio/teacher-13.m4a",
+        "parts": [
+          {
+            "text": "àn",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "text": "ēn",
+            "start": 6,
+            "end": 8
+          },
+          {
+            "text": "ín",
+            "start": 14,
+            "end": 16
+          },
+          {
+            "text": "ūn",
+            "start": 20,
+            "end": 22
+          },
+          {
+            "text": "ǚn",
+            "start": 27,
+            "end": 29
+          }
+        ]
+      },
+      {
+        "id": "L12-R1",
+        "section": "一、读准前鼻韵母和整体认读音节",
+        "line": 2,
+        "text": "yǐn   yín    yuán   yùn   yuǎn",
+        "audio": "audio/teacher-13.m4a",
+        "parts": [
+          {
+            "text": "yǐn",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "yín",
+            "start": 6,
+            "end": 9
+          },
+          {
+            "text": "yuán",
+            "start": 13,
+            "end": 17
+          },
+          {
+            "text": "yùn",
+            "start": 20,
+            "end": 23
+          },
+          {
+            "text": "yuǎn",
+            "start": 26,
+            "end": 30
+          }
+        ]
+      },
+      {
+        "id": "L12-R2",
+        "section": "二、熟读下列音节。",
+        "line": 1,
+        "text": "bān    dàn    cān     shàn     yǎn",
+        "audio": "audio/teacher-13.m4a",
+        "parts": [
+          {
+            "text": "bān",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "dàn",
+            "start": 7,
+            "end": 10
+          },
+          {
+            "text": "cān",
+            "start": 14,
+            "end": 17
+          },
+          {
+            "text": "shàn",
+            "start": 22,
+            "end": 26
+          },
+          {
+            "text": "yǎn",
+            "start": 31,
+            "end": 34
+          }
+        ]
+      },
+      {
+        "id": "L12-R3",
+        "section": "二、熟读下列音节。",
+        "line": 2,
+        "text": "sēn    rén    chén     nín     pīn",
+        "audio": "audio/teacher-13.m4a",
+        "parts": [
+          {
+            "text": "sēn",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "rén",
+            "start": 7,
+            "end": 10
+          },
+          {
+            "text": "chén",
+            "start": 14,
+            "end": 18
+          },
+          {
+            "text": "nín",
+            "start": 23,
+            "end": 26
+          },
+          {
+            "text": "pīn",
+            "start": 31,
+            "end": 34
+          }
+        ]
+      },
+      {
+        "id": "L12-R4",
+        "section": "二、熟读下列音节。",
+        "line": 3,
+        "text": "lún    sǔn    xún      jùn     qún",
+        "audio": "audio/teacher-13.m4a",
+        "parts": [
+          {
+            "text": "lún",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "sǔn",
+            "start": 7,
+            "end": 10
+          },
+          {
+            "text": "xún",
+            "start": 14,
+            "end": 17
+          },
+          {
+            "text": "jùn",
+            "start": 23,
+            "end": 26
+          },
+          {
+            "text": "qún",
+            "start": 31,
+            "end": 34
+          }
+        ]
+      },
+      {
+        "id": "L12-R5",
+        "section": "二、熟读下列音节。",
+        "line": 4,
+        "text": "diàn     liǎn      nuǎn      kuān",
+        "audio": "audio/teacher-13.m4a",
+        "parts": [
+          {
+            "text": "diàn",
+            "start": 0,
+            "end": 4
+          },
+          {
+            "text": "liǎn",
+            "start": 9,
+            "end": 13
+          },
+          {
+            "text": "nuǎn",
+            "start": 19,
+            "end": 23
+          },
+          {
+            "text": "kuān",
+            "start": 29,
+            "end": 33
+          }
+        ]
+      },
+      {
+        "id": "L12-R6",
+        "section": "二、熟读下列音节。",
+        "line": 5,
+        "text": "chuān    juǎn      quān      xuǎn",
+        "audio": "audio/teacher-13.m4a",
+        "parts": [
+          {
+            "text": "chuān",
+            "start": 0,
+            "end": 5
+          },
+          {
+            "text": "juǎn",
+            "start": 9,
+            "end": 13
+          },
+          {
+            "text": "quān",
+            "start": 19,
+            "end": 23
+          },
+          {
+            "text": "xuǎn",
+            "start": 29,
+            "end": 33
+          }
+        ]
+      },
+      {
+        "id": "L12-R7",
+        "section": "三、熟读下列音节词。",
+        "line": 1,
+        "text": "lán tiān    bái yún    cǎo yuán    sēn lín",
+        "audio": "audio/teacher-13.m4a",
+        "parts": [
+          {
+            "text": "lán tiān",
+            "start": 0,
+            "end": 8
+          },
+          {
+            "text": "bái yún",
+            "start": 12,
+            "end": 19
+          },
+          {
+            "text": "cǎo yuán",
+            "start": 23,
+            "end": 31
+          },
+          {
+            "text": "sēn lín",
+            "start": 35,
+            "end": 42
+          }
+        ]
+      },
+      {
+        "id": "L12-R8",
+        "section": "三、熟读下列音节词。",
+        "line": 2,
+        "text": "tán qín     pīn yīn    zhěn tou    qiān bǐ",
+        "audio": "audio/teacher-13.m4a",
+        "parts": [
+          {
+            "text": "tán qín",
+            "start": 0,
+            "end": 7
+          },
+          {
+            "text": "pīn yīn",
+            "start": 12,
+            "end": 19
+          },
+          {
+            "text": "zhěn tou",
+            "start": 23,
+            "end": 31
+          },
+          {
+            "text": "qiān bǐ",
+            "start": 35,
+            "end": 42
+          }
+        ]
+      },
+      {
+        "id": "L12-R9",
+        "section": "三、熟读下列音节词。",
+        "line": 3,
+        "text": "yàn  zi     jīn yú     tái wān     jùn mǎ",
+        "audio": "audio/teacher-13.m4a",
+        "parts": [
+          {
+            "text": "yàn",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "zi",
+            "start": 5,
+            "end": 7
+          },
+          {
+            "text": "jīn yú",
+            "start": 12,
+            "end": 18
+          },
+          {
+            "text": "tái wān",
+            "start": 23,
+            "end": 30
+          },
+          {
+            "text": "jùn mǎ",
+            "start": 35,
+            "end": 41
+          }
+        ]
+      },
+      {
+        "id": "L12-R10",
+        "section": "三、熟读下列音节词。",
+        "line": 4,
+        "text": "yuán quān     lún chuán     yí shàn mén",
+        "audio": "audio/teacher-13.m4a",
+        "parts": [
+          {
+            "text": "yuán quān",
+            "start": 0,
+            "end": 9
+          },
+          {
+            "text": "lún chuán",
+            "start": 14,
+            "end": 23
+          },
+          {
+            "text": "yí shàn mén",
+            "start": 28,
+            "end": 39
+          }
+        ]
+      },
+      {
+        "id": "L12-R11",
+        "section": "四、读熟下列句子。",
+        "line": 1,
+        "text": "1、我 men 是 zǔ ɡuó de 花 duǒ ,",
+        "audio": "audio/teacher-13.m4a",
+        "parts": [
+          {
+            "text": "我 men 是 zǔ ɡuó de 花 duǒ ,",
+            "start": 2,
+            "end": 27
+          }
+        ]
+      },
+      {
+        "id": "L12-R12",
+        "section": "四、读熟下列句子。",
+        "line": 2,
+        "text": "zǔ ɡuó jiù 是 我 men de家 .",
+        "audio": "audio/teacher-13.m4a",
+        "parts": [
+          {
+            "text": "zǔ ɡuó jiù 是 我 men de家 .",
+            "start": 0,
+            "end": 24
+          }
+        ]
+      },
+      {
+        "id": "L12-R13",
+        "section": "四、读熟下列句子。",
+        "line": 3,
+        "text": "2、chūn tiān lái le ,草 儿 lǜ le, 花儿 kāi le .",
+        "audio": "audio/teacher-13.m4a",
+        "parts": [
+          {
+            "text": "chūn tiān lái le ,草 儿 lǜ le, 花儿 kāi le .",
+            "start": 2,
+            "end": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "lesson": 13,
+    "title": "拼音练习13",
+    "rows": [
+      {
+        "id": "L13-R0",
+        "section": "一、读准带调韵母。",
+        "line": 1,
+        "text": "ànɡ   ēnɡ   ǐnɡ   óng   ánɡ   ènɡ",
+        "audio": "audio/teacher-14.m4a",
+        "parts": [
+          {
+            "text": "ànɡ",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "ēnɡ",
+            "start": 6,
+            "end": 9
+          },
+          {
+            "text": "ǐnɡ",
+            "start": 12,
+            "end": 15
+          },
+          {
+            "text": "óng",
+            "start": 18,
+            "end": 21
+          },
+          {
+            "text": "ánɡ",
+            "start": 24,
+            "end": 27
+          },
+          {
+            "text": "ènɡ",
+            "start": 30,
+            "end": 33
+          }
+        ]
+      },
+      {
+        "id": "L13-R1",
+        "section": "一、读准带调韵母。",
+        "line": 2,
+        "text": "ìnɡ   ǒnɡ   ānɡ   ěnɡ   īnɡ   ònɡ",
+        "audio": "audio/teacher-14.m4a",
+        "parts": [
+          {
+            "text": "ìnɡ",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "ǒnɡ",
+            "start": 6,
+            "end": 9
+          },
+          {
+            "text": "ānɡ",
+            "start": 12,
+            "end": 15
+          },
+          {
+            "text": "ěnɡ",
+            "start": 18,
+            "end": 21
+          },
+          {
+            "text": "īnɡ",
+            "start": 24,
+            "end": 27
+          },
+          {
+            "text": "ònɡ",
+            "start": 30,
+            "end": 33
+          }
+        ]
+      },
+      {
+        "id": "L13-R2",
+        "section": "二、熟读音节。",
+        "line": 1,
+        "text": "pànɡ  chǎnɡ  lěnɡ   děnɡ   cénɡ   yǐnɡ",
+        "audio": "audio/teacher-14.m4a",
+        "parts": [
+          {
+            "text": "pànɡ",
+            "start": 0,
+            "end": 4
+          },
+          {
+            "text": "chǎnɡ",
+            "start": 6,
+            "end": 11
+          },
+          {
+            "text": "lěnɡ",
+            "start": 13,
+            "end": 17
+          },
+          {
+            "text": "děnɡ",
+            "start": 20,
+            "end": 24
+          },
+          {
+            "text": "cénɡ",
+            "start": 27,
+            "end": 31
+          },
+          {
+            "text": "yǐnɡ",
+            "start": 34,
+            "end": 38
+          }
+        ]
+      },
+      {
+        "id": "L13-R3",
+        "section": "二、熟读音节。",
+        "line": 2,
+        "text": "tínɡ   qǐnɡ  dìnɡ   ɡònɡ   rónɡ   yìnɡ",
+        "audio": "audio/teacher-14.m4a",
+        "parts": [
+          {
+            "text": "tínɡ",
+            "start": 0,
+            "end": 4
+          },
+          {
+            "text": "qǐnɡ",
+            "start": 7,
+            "end": 11
+          },
+          {
+            "text": "dìnɡ",
+            "start": 13,
+            "end": 17
+          },
+          {
+            "text": "ɡònɡ",
+            "start": 20,
+            "end": 24
+          },
+          {
+            "text": "rónɡ",
+            "start": 27,
+            "end": 31
+          },
+          {
+            "text": "yìnɡ",
+            "start": 34,
+            "end": 38
+          }
+        ]
+      },
+      {
+        "id": "L13-R4",
+        "section": "三、熟读音节词。",
+        "line": 1,
+        "text": "fánɡ wū     huā shēnɡ    shuǐ pínɡ",
+        "audio": "audio/teacher-14.m4a",
+        "parts": [
+          {
+            "text": "fánɡ wū",
+            "start": 0,
+            "end": 7
+          },
+          {
+            "text": "huā shēnɡ",
+            "start": 12,
+            "end": 21
+          },
+          {
+            "text": "shuǐ pínɡ",
+            "start": 25,
+            "end": 34
+          }
+        ]
+      },
+      {
+        "id": "L13-R5",
+        "section": "三、熟读音节词。",
+        "line": 2,
+        "text": "hónɡ qí     mì fēnɡ      xiónɡ māo",
+        "audio": "audio/teacher-14.m4a",
+        "parts": [
+          {
+            "text": "hónɡ qí",
+            "start": 0,
+            "end": 7
+          },
+          {
+            "text": "mì fēnɡ",
+            "start": 12,
+            "end": 19
+          },
+          {
+            "text": "xiónɡ māo",
+            "start": 25,
+            "end": 34
+          }
+        ]
+      },
+      {
+        "id": "L13-R6",
+        "section": "三、熟读音节词。",
+        "line": 3,
+        "text": "tái dēnɡ    tài yánɡ     fēnɡ zhenɡ",
+        "audio": "audio/teacher-14.m4a",
+        "parts": [
+          {
+            "text": "tái dēnɡ",
+            "start": 0,
+            "end": 8
+          },
+          {
+            "text": "tài yánɡ",
+            "start": 12,
+            "end": 20
+          },
+          {
+            "text": "fēnɡ zhenɡ",
+            "start": 25,
+            "end": 35
+          }
+        ]
+      },
+      {
+        "id": "L13-R7",
+        "section": "三、熟读音节词。",
+        "line": 4,
+        "text": "lǎo yīnɡ    pínɡ ɡuǒ     diàn dēnɡ",
+        "audio": "audio/teacher-14.m4a",
+        "parts": [
+          {
+            "text": "lǎo yīnɡ",
+            "start": 0,
+            "end": 8
+          },
+          {
+            "text": "pínɡ ɡuǒ",
+            "start": 12,
+            "end": 20
+          },
+          {
+            "text": "diàn dēnɡ",
+            "start": 25,
+            "end": 34
+          }
+        ]
+      },
+      {
+        "id": "L13-R8",
+        "section": "三、熟读音节词。",
+        "line": 5,
+        "text": "dà xiànɡ    qīnɡ wā      mínɡ liànɡ",
+        "audio": "audio/teacher-14.m4a",
+        "parts": [
+          {
+            "text": "dà xiànɡ",
+            "start": 0,
+            "end": 8
+          },
+          {
+            "text": "qīnɡ wā",
+            "start": 12,
+            "end": 19
+          },
+          {
+            "text": "mínɡ liànɡ",
+            "start": 25,
+            "end": 35
+          }
+        ]
+      },
+      {
+        "id": "L13-R9",
+        "section": "四、熟读下列句子。",
+        "line": 1,
+        "text": "1、大 xiànɡ qí zì xínɡ 车。",
+        "audio": "audio/teacher-14.m4a",
+        "parts": [
+          {
+            "text": "大 xiànɡ qí zì xínɡ 车。",
+            "start": 2,
+            "end": 23
+          }
+        ]
+      },
+      {
+        "id": "L13-R10",
+        "section": "四、熟读下列句子。",
+        "line": 2,
+        "text": "2、山羊走 dú 木桥,白tù 也走 dú 木桥。",
+        "audio": "audio/teacher-14.m4a",
+        "parts": [
+          {
+            "text": "山羊走 dú 木桥,白tù 也走 dú 木桥。",
+            "start": 2,
+            "end": 25
+          }
+        ]
+      },
+      {
+        "id": "L13-R11",
+        "section": "四、熟读下列句子。",
+        "line": 3,
+        "text": "3、 jiānɡ nán sì jì hǎo 风 ɡuānɡ ,我 men",
+        "audio": "audio/teacher-14.m4a",
+        "parts": [
+          {
+            "text": "jiānɡ nán sì jì hǎo 风 ɡuānɡ ,我 men",
+            "start": 3,
+            "end": 37
+          }
+        ]
+      },
+      {
+        "id": "L13-R12",
+        "section": "四、熟读下列句子。",
+        "line": 4,
+        "text": "yào rànɡ shù ɡènɡ lǜ , 水 ɡènɡ qīnɡ,",
+        "audio": "audio/teacher-14.m4a",
+        "parts": [
+          {
+            "text": "yào rànɡ shù ɡènɡ lǜ , 水 ɡènɡ qīnɡ,",
+            "start": 0,
+            "end": 35
+          }
+        ]
+      },
+      {
+        "id": "L13-R13",
+        "section": "四、熟读下列句子。",
+        "line": 5,
+        "text": "rànɡ 我 men de 家 xiānɡ ɡènɡ měi lì.",
+        "audio": "audio/teacher-14.m4a",
+        "parts": [
+          {
+            "text": "rànɡ 我 men de 家 xiānɡ ɡènɡ měi lì.",
+            "start": 0,
+            "end": 34
+          }
+        ]
+      }
+    ]
+  }
+]

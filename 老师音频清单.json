@@ -1,0 +1,80 @@
+[
+  {
+    "name": "拼音练习1",
+    "src": "audio/teacher-01.m4a",
+    "original": "拼音练习1.m4a",
+    "converted": false
+  },
+  {
+    "name": "拼音练习2",
+    "src": "audio/teacher-03.m4a",
+    "original": "拼音练习2.m4a",
+    "converted": false
+  },
+  {
+    "name": "拼音练习3",
+    "src": "audio/teacher-04.m4a",
+    "original": "拼音练习3.m4a",
+    "converted": false
+  },
+  {
+    "name": "拼音练习4",
+    "src": "audio/teacher-05.m4a",
+    "original": "拼音练习4.mp3",
+    "converted": true
+  },
+  {
+    "name": "拼音练习5",
+    "src": "audio/teacher-06.m4a",
+    "original": "拼音练习5.m4a",
+    "converted": false
+  },
+  {
+    "name": "拼音练习6",
+    "src": "audio/teacher-07.m4a",
+    "original": "拼音练习6.m4a",
+    "converted": false
+  },
+  {
+    "name": "拼音练习7",
+    "src": "audio/teacher-08.m4a",
+    "original": "拼音练习7.m4a",
+    "converted": false
+  },
+  {
+    "name": "拼音练习8",
+    "src": "audio/teacher-09.m4a",
+    "original": "拼音练习8.m4a",
+    "converted": false
+  },
+  {
+    "name": "拼音练习9",
+    "src": "audio/teacher-10.m4a",
+    "original": "拼音练习9.m4a",
+    "converted": false
+  },
+  {
+    "name": "拼音练习10",
+    "src": "audio/teacher-11.m4a",
+    "original": "拼音练习10.m4a",
+    "converted": false
+  },
+  {
+    "name": "拼音练习11",
+    "src": "audio/teacher-12.m4a",
+    "original": "拼音练习11.m4a",
+    "converted": false
+  },
+  {
+    "name": "拼音练习12",
+    "src": "audio/teacher-13.m4a",
+    "original": "拼音练习12.m4a",
+    "converted": false
+  },
+  {
+    "name": "拼音练习13",
+    "src": "audio/teacher-14.m4a",
+    "original": "拼音练习13.m4a",
+    "converted": false
+  }
+]
