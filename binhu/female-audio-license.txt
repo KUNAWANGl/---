@@ -1,0 +1,7 @@
+Supplementary female Mandarin TTS samples
+Source: https://github.com/cjhoward/cedict-tts/tree/master/female
+Author: Christopher J. Howard; generated using Baidu Speech female voice.
+MP3 license declared upstream: CC0 1.0 Universal.
+https://creativecommons.org/publicdomain/zero/1.0/
+
+These samples are supplementary synthesized demonstrations, not recordings or a clone of the teacher. Pinyin filenames encode pronunciation and tones; tone changes, neutral tones, polyphonic characters and textbook conventions still require listening review.
