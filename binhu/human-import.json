@@ -1,0 +1,2189 @@
+{
+  "source": "https://github.com/hugolpz/audio-cmn",
+  "syllableSpeaker": "Chen Wang",
+  "wordSpeaker": "Yue Tan",
+  "license": "CC BY-SA, as stated in upstream README; version unspecified for syllables",
+  "candidates": [
+    {
+      "page": 1,
+      "id": "BH1-U27",
+      "source": "64k/hsk/cmn-手.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de6898b2e6d7033.mp3",
+      "text": "手",
+      "reading": "手"
+    },
+    {
+      "page": 1,
+      "id": "BH1-U30",
+      "source": "64k/hsk/cmn-牙.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de789992e6d7033.mp3",
+      "text": "牙",
+      "reading": "牙"
+    },
+    {
+      "page": 1,
+      "id": "BH1-U37",
+      "source": "64k/hsk/cmn-山.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5b1b12e6d7033.mp3",
+      "text": "山",
+      "reading": "山"
+    },
+    {
+      "page": 1,
+      "id": "BH1-U39",
+      "source": "64k/hsk/cmn-田.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de794b02e6d7033.mp3",
+      "text": "田",
+      "reading": "田"
+    },
+    {
+      "page": 2,
+      "id": "BH2-U18",
+      "source": "64k/syllabs/cmn-pu4.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7075342e6d7033.mp3",
+      "text": "pù",
+      "reading": "pù"
+    },
+    {
+      "page": 2,
+      "id": "BH2-U27",
+      "source": "64k/syllabs/cmn-mu3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6d75332e6d7033.mp3",
+      "text": "mǔ",
+      "reading": "mǔ"
+    },
+    {
+      "page": 2,
+      "id": "BH2-U31",
+      "source": "64k/syllabs/cmn-fu3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6675332e6d7033.mp3",
+      "text": "fǔ",
+      "reading": "fǔ"
+    },
+    {
+      "page": 3,
+      "id": "BH3-U16",
+      "source": "64k/syllabs/cmn-di3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6469332e6d7033.mp3",
+      "text": "dǐ",
+      "reading": "dǐ"
+    },
+    {
+      "page": 3,
+      "id": "BH3-U17",
+      "source": "64k/syllabs/cmn-na2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6e61322e6d7033.mp3",
+      "text": "ná",
+      "reading": "ná"
+    },
+    {
+      "page": 3,
+      "id": "BH3-U20",
+      "source": "64k/syllabs/cmn-da4.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6461342e6d7033.mp3",
+      "text": "dà",
+      "reading": "dà"
+    },
+    {
+      "page": 3,
+      "id": "BH3-U24",
+      "source": "64k/syllabs/cmn-lu3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6c75332e6d7033.mp3",
+      "text": "lǔ",
+      "reading": "lǔ"
+    },
+    {
+      "page": 3,
+      "id": "BH3-U25",
+      "source": "64k/syllabs/cmn-ti1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7469312e6d7033.mp3",
+      "text": "tī",
+      "reading": "tī"
+    },
+    {
+      "page": 3,
+      "id": "BH3-U26",
+      "source": "64k/syllabs/cmn-du3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6475332e6d7033.mp3",
+      "text": "dǔ",
+      "reading": "dǔ"
+    },
+    {
+      "page": 3,
+      "id": "BH3-U27",
+      "source": "64k/syllabs/cmn-ne2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6e65322e6d7033.mp3",
+      "text": "né",
+      "reading": "né"
+    },
+    {
+      "page": 3,
+      "id": "BH3-U60",
+      "source": "64k/hsk/cmn-大陆.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5a4a7e999862e6d7033.mp3",
+      "text": "大陆",
+      "reading": "dà lù"
+    },
+    {
+      "page": 4,
+      "id": "BH4-U1",
+      "source": "64k/syllabs/cmn-ka3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6b61332e6d7033.mp3",
+      "text": "kǎ",
+      "reading": "kǎ"
+    },
+    {
+      "page": 4,
+      "id": "BH4-U3",
+      "source": "64k/syllabs/cmn-ka1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6b61312e6d7033.mp3",
+      "text": "kā",
+      "reading": "kā"
+    },
+    {
+      "page": 4,
+      "id": "BH4-U5",
+      "source": "64k/syllabs/cmn-gu4.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6775342e6d7033.mp3",
+      "text": "ɡù",
+      "reading": "ɡù"
+    },
+    {
+      "page": 4,
+      "id": "BH4-U6",
+      "source": "64k/syllabs/cmn-ku1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6b75312e6d7033.mp3",
+      "text": "kū",
+      "reading": "kū"
+    },
+    {
+      "page": 4,
+      "id": "BH4-U13",
+      "source": "64k/syllabs/cmn-he1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6865312e6d7033.mp3",
+      "text": "hē",
+      "reading": "hē"
+    },
+    {
+      "page": 4,
+      "id": "BH4-U15",
+      "source": "64k/syllabs/cmn-ge4.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6765342e6d7033.mp3",
+      "text": "ɡè",
+      "reading": "ɡè"
+    },
+    {
+      "page": 4,
+      "id": "BH4-U16",
+      "source": "64k/syllabs/cmn-ha1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6861312e6d7033.mp3",
+      "text": "hā",
+      "reading": "hā"
+    },
+    {
+      "page": 4,
+      "id": "BH4-U17",
+      "source": "64k/syllabs/cmn-ke4.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6b65342e6d7033.mp3",
+      "text": "kè",
+      "reading": "kè"
+    },
+    {
+      "page": 4,
+      "id": "BH4-U18",
+      "source": "64k/syllabs/cmn-gu1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6775312e6d7033.mp3",
+      "text": "ɡū",
+      "reading": "ɡū"
+    },
+    {
+      "page": 6,
+      "id": "BH6-U8",
+      "source": "64k/syllabs/cmn-si3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7369332e6d7033.mp3",
+      "text": "sǐ",
+      "reading": "sǐ"
+    },
+    {
+      "page": 6,
+      "id": "BH6-U10",
+      "source": "64k/syllabs/cmn-ji1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6a69312e6d7033.mp3",
+      "text": "jī",
+      "reading": "jī"
+    },
+    {
+      "page": 6,
+      "id": "BH6-U11",
+      "source": "64k/syllabs/cmn-ci3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6369332e6d7033.mp3",
+      "text": "cǐ",
+      "reading": "cǐ"
+    },
+    {
+      "page": 6,
+      "id": "BH6-U14",
+      "source": "64k/syllabs/cmn-za1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7a61312e6d7033.mp3",
+      "text": "zā",
+      "reading": "zā"
+    },
+    {
+      "page": 6,
+      "id": "BH6-U16",
+      "source": "64k/syllabs/cmn-su4.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7375342e6d7033.mp3",
+      "text": "sù",
+      "reading": "sù"
+    },
+    {
+      "page": 6,
+      "id": "BH6-U17",
+      "source": "64k/syllabs/cmn-zi4.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7a69342e6d7033.mp3",
+      "text": "zì",
+      "reading": "zì"
+    },
+    {
+      "page": 6,
+      "id": "BH6-U18",
+      "source": "64k/syllabs/cmn-cu4.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6375342e6d7033.mp3",
+      "text": "cù",
+      "reading": "cù"
+    },
+    {
+      "page": 6,
+      "id": "BH6-U20",
+      "source": "64k/syllabs/cmn-zu3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7a75332e6d7033.mp3",
+      "text": "zǔ",
+      "reading": "zǔ"
+    },
+    {
+      "page": 6,
+      "id": "BH6-U21",
+      "source": "64k/syllabs/cmn-zu1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7a75312e6d7033.mp3",
+      "text": "zū",
+      "reading": "zū"
+    },
+    {
+      "page": 6,
+      "id": "BH6-U22",
+      "source": "64k/syllabs/cmn-ci1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6369312e6d7033.mp3",
+      "text": "cī",
+      "reading": "cī"
+    },
+    {
+      "page": 6,
+      "id": "BH6-U23",
+      "source": "64k/syllabs/cmn-su1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7375312e6d7033.mp3",
+      "text": "sū",
+      "reading": "sū"
+    },
+    {
+      "page": 6,
+      "id": "BH6-U24",
+      "source": "64k/syllabs/cmn-ze1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7a65312e6d7033.mp3",
+      "text": "zē",
+      "reading": "zē"
+    },
+    {
+      "page": 6,
+      "id": "BH6-U31",
+      "source": "64k/hsk/cmn-负责.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de8b49fe8b4a32e6d7033.mp3",
+      "text": "负责",
+      "reading": "fù zé"
+    },
+    {
+      "page": 6,
+      "id": "BH6-U42",
+      "source": "64k/hsk/cmn-速度.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de9809fe5baa62e6d7033.mp3",
+      "text": "速度",
+      "reading": "sù dù"
+    },
+    {
+      "page": 7,
+      "id": "BH7-U2",
+      "source": "64k/syllabs/cmn-za1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7a61312e6d7033.mp3",
+      "text": "zā",
+      "reading": "zā"
+    },
+    {
+      "page": 7,
+      "id": "BH7-U4",
+      "source": "64k/syllabs/cmn-su4.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7375342e6d7033.mp3",
+      "text": "sù",
+      "reading": "sù"
+    },
+    {
+      "page": 7,
+      "id": "BH7-U5",
+      "source": "64k/syllabs/cmn-zi4.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7a69342e6d7033.mp3",
+      "text": "zì",
+      "reading": "zì"
+    },
+    {
+      "page": 7,
+      "id": "BH7-U6",
+      "source": "64k/syllabs/cmn-cu4.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6375342e6d7033.mp3",
+      "text": "cù",
+      "reading": "cù"
+    },
+    {
+      "page": 7,
+      "id": "BH7-U8",
+      "source": "64k/syllabs/cmn-zu3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7a75332e6d7033.mp3",
+      "text": "zǔ",
+      "reading": "zǔ"
+    },
+    {
+      "page": 7,
+      "id": "BH7-U9",
+      "source": "64k/syllabs/cmn-zu1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7a75312e6d7033.mp3",
+      "text": "zū",
+      "reading": "zū"
+    },
+    {
+      "page": 7,
+      "id": "BH7-U10",
+      "source": "64k/syllabs/cmn-ci1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6369312e6d7033.mp3",
+      "text": "cī",
+      "reading": "cī"
+    },
+    {
+      "page": 7,
+      "id": "BH7-U11",
+      "source": "64k/syllabs/cmn-su1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7375312e6d7033.mp3",
+      "text": "sū",
+      "reading": "sū"
+    },
+    {
+      "page": 7,
+      "id": "BH7-U12",
+      "source": "64k/syllabs/cmn-ze1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7a65312e6d7033.mp3",
+      "text": "zē",
+      "reading": "zē"
+    },
+    {
+      "page": 7,
+      "id": "BH7-U46",
+      "source": "64k/hsk/cmn-出.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de587ba2e6d7033.mp3",
+      "text": "出",
+      "reading": "出"
+    },
+    {
+      "page": 7,
+      "id": "BH7-U47",
+      "source": "64k/hsk/cmn-租.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de7a79f2e6d7033.mp3",
+      "text": "租",
+      "reading": "租"
+    },
+    {
+      "page": 7,
+      "id": "BH7-U48",
+      "source": "64k/hsk/cmn-车.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de8bda62e6d7033.mp3",
+      "text": "车",
+      "reading": "车"
+    },
+    {
+      "page": 7,
+      "id": "BH7-U49",
+      "source": "64k/hsk/cmn-舍.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de8888d2e6d7033.mp3",
+      "text": "舍",
+      "reading": "舍"
+    },
+    {
+      "page": 7,
+      "id": "BH7-U50",
+      "source": "64k/hsk/cmn-不得.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de4b88de5be972e6d7033.mp3",
+      "text": "不得",
+      "reading": "不得"
+    },
+    {
+      "page": 8,
+      "id": "BH8-U31",
+      "source": "64k/hsk/cmn-卜.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de58d9c2e6d7033.mp3",
+      "text": "卜",
+      "reading": "卜"
+    },
+    {
+      "page": 8,
+      "id": "BH8-U50",
+      "source": "64k/hsk/cmn-家.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5aeb62e6d7033.mp3",
+      "text": "家",
+      "reading": "家"
+    },
+    {
+      "page": 8,
+      "id": "BH8-U53",
+      "source": "64k/hsk/cmn-过.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de8bf872e6d7033.mp3",
+      "text": "过",
+      "reading": "过"
+    },
+    {
+      "page": 8,
+      "id": "BH8-U54",
+      "source": "64k/hsk/cmn-去.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de58ebb2e6d7033.mp3",
+      "text": "去",
+      "reading": "去"
+    },
+    {
+      "page": 8,
+      "id": "BH8-U63",
+      "source": "64k/hsk/cmn-米.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de7b1b32e6d7033.mp3",
+      "text": "米",
+      "reading": "米"
+    },
+    {
+      "page": 8,
+      "id": "BH8-U65",
+      "source": "64k/hsk/cmn-下.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de4b88b2e6d7033.mp3",
+      "text": "下",
+      "reading": "下"
+    },
+    {
+      "page": 8,
+      "id": "BH8-U66",
+      "source": "64k/hsk/cmn-如.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5a6822e6d7033.mp3",
+      "text": "如",
+      "reading": "如"
+    },
+    {
+      "page": 8,
+      "id": "BH8-U72",
+      "source": "64k/hsk/cmn-书.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de4b9a62e6d7033.mp3",
+      "text": "书",
+      "reading": "书"
+    },
+    {
+      "page": 8,
+      "id": "BH8-U78",
+      "source": "64k/hsk/cmn-孤独.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5ada4e78bac2e6d7033.mp3",
+      "text": "孤独",
+      "reading": "ɡū dú"
+    },
+    {
+      "page": 8,
+      "id": "BH8-U83",
+      "source": "64k/hsk/cmn-课.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de8afbe2e6d7033.mp3",
+      "text": "课",
+      "reading": "课"
+    },
+    {
+      "page": 9,
+      "id": "BH9-U32",
+      "source": "64k/hsk/cmn-刷.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de588b72e6d7033.mp3",
+      "text": "刷",
+      "reading": "刷"
+    },
+    {
+      "page": 9,
+      "id": "BH9-U33",
+      "source": "64k/hsk/cmn-牙.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de789992e6d7033.mp3",
+      "text": "牙",
+      "reading": "牙"
+    },
+    {
+      "page": 9,
+      "id": "BH9-U45",
+      "source": "64k/hsk/cmn-下.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de4b88b2e6d7033.mp3",
+      "text": "下",
+      "reading": "下"
+    },
+    {
+      "page": 9,
+      "id": "BH9-U64",
+      "source": "64k/hsk/cmn-捉.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de68d892e6d7033.mp3",
+      "text": "捉",
+      "reading": "捉"
+    },
+    {
+      "page": 9,
+      "id": "BH9-U65",
+      "source": "64k/hsk/cmn-大.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5a4a72e6d7033.mp3",
+      "text": "大",
+      "reading": "大"
+    },
+    {
+      "page": 9,
+      "id": "BH9-U66",
+      "source": "64k/hsk/cmn-虾.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de899be2e6d7033.mp3",
+      "text": "虾",
+      "reading": "虾"
+    },
+    {
+      "page": 9,
+      "id": "BH9-U71",
+      "source": "64k/hsk/cmn-机.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de69cba2e6d7033.mp3",
+      "text": "机",
+      "reading": "机"
+    },
+    {
+      "page": 9,
+      "id": "BH9-U72",
+      "source": "64k/hsk/cmn-坐.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de59d902e6d7033.mp3",
+      "text": "坐",
+      "reading": "坐"
+    },
+    {
+      "page": 9,
+      "id": "BH9-U74",
+      "source": "64k/hsk/cmn-车.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de8bda62e6d7033.mp3",
+      "text": "车",
+      "reading": "车"
+    },
+    {
+      "page": 10,
+      "id": "BH10-U18",
+      "source": "64k/syllabs/cmn-hai3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d686169332e6d7033.mp3",
+      "text": "hǎi",
+      "reading": "hǎi"
+    },
+    {
+      "page": 10,
+      "id": "BH10-U33",
+      "source": "64k/hsk/cmn-排.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de68e922e6d7033.mp3",
+      "text": "排",
+      "reading": "排"
+    },
+    {
+      "page": 10,
+      "id": "BH10-U35",
+      "source": "64k/hsk/cmn-白.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de799bd2e6d7033.mp3",
+      "text": "白",
+      "reading": "白"
+    },
+    {
+      "page": 10,
+      "id": "BH10-U38",
+      "source": "64k/hsk/cmn-机.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de69cba2e6d7033.mp3",
+      "text": "机",
+      "reading": "机"
+    },
+    {
+      "page": 10,
+      "id": "BH10-U44",
+      "source": "64k/hsk/cmn-开.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5bc802e6d7033.mp3",
+      "text": "开",
+      "reading": "开"
+    },
+    {
+      "page": 10,
+      "id": "BH10-U45",
+      "source": "64k/hsk/cmn-会.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de4bc9a2e6d7033.mp3",
+      "text": "会",
+      "reading": "会"
+    },
+    {
+      "page": 10,
+      "id": "BH10-U50",
+      "source": "64k/hsk/cmn-家.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5aeb62e6d7033.mp3",
+      "text": "家",
+      "reading": "家"
+    },
+    {
+      "page": 10,
+      "id": "BH10-U55",
+      "source": "64k/hsk/cmn-袋.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de8a28b2e6d7033.mp3",
+      "text": "袋",
+      "reading": "袋"
+    },
+    {
+      "page": 10,
+      "id": "BH10-U59",
+      "source": "64k/hsk/cmn-来回.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de69da5e59b9e2e6d7033.mp3",
+      "text": "来回",
+      "reading": "lái huí"
+    },
+    {
+      "page": 10,
+      "id": "BH10-U66",
+      "source": "64k/hsk/cmn-退步.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de98080e6ada52e6d7033.mp3",
+      "text": "退步",
+      "reading": "tuì bù"
+    },
+    {
+      "page": 10,
+      "id": "BH10-U68",
+      "source": "64k/hsk/cmn-怪.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de680aa2e6d7033.mp3",
+      "text": "怪",
+      "reading": "怪"
+    },
+    {
+      "page": 10,
+      "id": "BH10-U70",
+      "source": "64k/hsk/cmn-乐.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de4b9902e6d7033.mp3",
+      "text": "乐",
+      "reading": "乐"
+    },
+    {
+      "page": 10,
+      "id": "BH10-U87",
+      "source": "64k/hsk/cmn-玫瑰.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de78eabe791b02e6d7033.mp3",
+      "text": "玫瑰",
+      "reading": "méi ɡui"
+    },
+    {
+      "page": 10,
+      "id": "BH10-U93",
+      "source": "64k/syllabs/cmn-rui3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d727569332e6d7033.mp3",
+      "text": "ruǐ",
+      "reading": "ruǐ"
+    },
+    {
+      "page": 10,
+      "id": "BH10-U95",
+      "source": "64k/hsk/cmn-家.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5aeb62e6d7033.mp3",
+      "text": "家",
+      "reading": "家"
+    },
+    {
+      "page": 10,
+      "id": "BH10-U97",
+      "source": "64k/hsk/cmn-壳.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5a3b32e6d7033.mp3",
+      "text": "壳",
+      "reading": "壳"
+    },
+    {
+      "page": 10,
+      "id": "BH10-U98",
+      "source": "64k/hsk/cmn-白菜.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de799bde88f9c2e6d7033.mp3",
+      "text": "白菜",
+      "reading": "bái cài"
+    },
+    {
+      "page": 12,
+      "id": "BH12-U6",
+      "source": "64k/syllabs/cmn-er2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6572322e6d7033.mp3",
+      "text": "ér",
+      "reading": "ér"
+    },
+    {
+      "page": 12,
+      "id": "BH12-U11",
+      "source": "64k/syllabs/cmn-yue1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d797565312e6d7033.mp3",
+      "text": "yuē",
+      "reading": "yuē"
+    },
+    {
+      "page": 12,
+      "id": "BH12-U12",
+      "source": "64k/syllabs/cmn-ye2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7965322e6d7033.mp3",
+      "text": "yé",
+      "reading": "yé"
+    },
+    {
+      "page": 12,
+      "id": "BH12-U14",
+      "source": "64k/syllabs/cmn-ye3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7965332e6d7033.mp3",
+      "text": "yě",
+      "reading": "yě"
+    },
+    {
+      "page": 12,
+      "id": "BH12-U15",
+      "source": "64k/syllabs/cmn-ye1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7965312e6d7033.mp3",
+      "text": "yē",
+      "reading": "yē"
+    },
+    {
+      "page": 12,
+      "id": "BH12-U20",
+      "source": "64k/hsk/cmn-叶子.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de58fb6e5ad902e6d7033.mp3",
+      "text": "叶子",
+      "reading": "yè zi"
+    },
+    {
+      "page": 12,
+      "id": "BH12-U23",
+      "source": "64k/hsk/cmn-夜晚.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5a49ce6999a2e6d7033.mp3",
+      "text": "夜晚",
+      "reading": "yè wǎn"
+    },
+    {
+      "page": 12,
+      "id": "BH12-U31",
+      "source": "64k/hsk/cmn-约会.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de7baa6e4bc9a2e6d7033.mp3",
+      "text": "约会",
+      "reading": "yuē huì"
+    },
+    {
+      "page": 12,
+      "id": "BH12-U36",
+      "source": "64k/hsk/cmn-乐.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de4b9902e6d7033.mp3",
+      "text": "乐",
+      "reading": "乐"
+    },
+    {
+      "page": 12,
+      "id": "BH12-U37",
+      "source": "64k/hsk/cmn-器.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de599a82e6d7033.mp3",
+      "text": "器",
+      "reading": "器"
+    },
+    {
+      "page": 12,
+      "id": "BH12-U54",
+      "source": "64k/hsk/cmn-茄子.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de88c84e5ad902e6d7033.mp3",
+      "text": "茄子",
+      "reading": "qié zi"
+    },
+    {
+      "page": 12,
+      "id": "BH12-U76",
+      "source": "64k/syllabs/cmn-ao5.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d616f352e6d7033.mp3",
+      "text": "ɑo",
+      "reading": "ɑo"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U22",
+      "source": "64k/syllabs/cmn-yun2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d79756e322e6d7033.mp3",
+      "text": "yún",
+      "reading": "yún"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U24",
+      "source": "64k/syllabs/cmn-yue1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d797565312e6d7033.mp3",
+      "text": "yuē",
+      "reading": "yuē"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U29",
+      "source": "64k/syllabs/cmn-yuan4.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7975616e342e6d7033.mp3",
+      "text": "yuàn",
+      "reading": "yuàn"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U31",
+      "source": "64k/syllabs/cmn-yun1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d79756e312e6d7033.mp3",
+      "text": "yūn",
+      "reading": "yūn"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U32",
+      "source": "64k/syllabs/cmn-yuan1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7975616e312e6d7033.mp3",
+      "text": "yuān",
+      "reading": "yuān"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U33",
+      "source": "64k/syllabs/cmn-yun3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d79756e332e6d7033.mp3",
+      "text": "yǔn",
+      "reading": "yǔn"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U36",
+      "source": "64k/syllabs/cmn-tun2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d74756e322e6d7033.mp3",
+      "text": "tún",
+      "reading": "tún"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U37",
+      "source": "64k/syllabs/cmn-cun1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d63756e312e6d7033.mp3",
+      "text": "cūn",
+      "reading": "cūn"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U38",
+      "source": "64k/syllabs/cmn-chun1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6368756e312e6d7033.mp3",
+      "text": "chūn",
+      "reading": "chūn"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U39",
+      "source": "64k/syllabs/cmn-dun4.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d64756e342e6d7033.mp3",
+      "text": "dùn",
+      "reading": "dùn"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U40",
+      "source": "64k/syllabs/cmn-jun1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6a756e312e6d7033.mp3",
+      "text": "jūn",
+      "reading": "jūn"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U43",
+      "source": "64k/syllabs/cmn-xun4.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d78756e342e6d7033.mp3",
+      "text": "xùn",
+      "reading": "xùn"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U47",
+      "source": "64k/hsk/cmn-客.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5aea22e6d7033.mp3",
+      "text": "客",
+      "reading": "客"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U52",
+      "source": "64k/hsk/cmn-院.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de999a22e6d7033.mp3",
+      "text": "院",
+      "reading": "院"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U56",
+      "source": "64k/hsk/cmn-海.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de6b5b72e6d7033.mp3",
+      "text": "海",
+      "reading": "海"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U57",
+      "source": "64k/hsk/cmn-军.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5869b2e6d7033.mp3",
+      "text": "军",
+      "reading": "军"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U58",
+      "source": "64k/hsk/cmn-帆.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5b8862e6d7033.mp3",
+      "text": "帆",
+      "reading": "帆"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U59",
+      "source": "64k/hsk/cmn-船.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de888b92e6d7033.mp3",
+      "text": "船",
+      "reading": "船"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U66",
+      "source": "64k/hsk/cmn-马.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de9a9ac2e6d7033.mp3",
+      "text": "马",
+      "reading": "马"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U67",
+      "source": "64k/hsk/cmn-春.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de698a52e6d7033.mp3",
+      "text": "春",
+      "reading": "春"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U68",
+      "source": "64k/hsk/cmn-天.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5a4a92e6d7033.mp3",
+      "text": "天",
+      "reading": "天"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U70",
+      "source": "64k/hsk/cmn-山.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5b1b12e6d7033.mp3",
+      "text": "山",
+      "reading": "山"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U74",
+      "source": "64k/hsk/cmn-海.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de6b5b72e6d7033.mp3",
+      "text": "海",
+      "reading": "海"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U77",
+      "source": "64k/hsk/cmn-船.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de888b92e6d7033.mp3",
+      "text": "船",
+      "reading": "船"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U78",
+      "source": "64k/hsk/cmn-军.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5869b2e6d7033.mp3",
+      "text": "军",
+      "reading": "军"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U82",
+      "source": "64k/hsk/cmn-小.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5b08f2e6d7033.mp3",
+      "text": "小",
+      "reading": "小"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U84",
+      "source": "64k/hsk/cmn-琴.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de790b42e6d7033.mp3",
+      "text": "琴",
+      "reading": "琴"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U85",
+      "source": "64k/hsk/cmn-文.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de696872e6d7033.mp3",
+      "text": "文",
+      "reading": "文"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U89",
+      "source": "64k/hsk/cmn-转.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de8bdac2e6d7033.mp3",
+      "text": "转",
+      "reading": "转"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U91",
+      "source": "64k/hsk/cmn-温.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de6b8a92e6d7033.mp3",
+      "text": "温",
+      "reading": "温"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U95",
+      "source": "64k/hsk/cmn-小.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5b08f2e6d7033.mp3",
+      "text": "小",
+      "reading": "小"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U98",
+      "source": "64k/hsk/cmn-白.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de799bd2e6d7033.mp3",
+      "text": "白",
+      "reading": "白"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U99",
+      "source": "64k/hsk/cmn-云.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de4ba912e6d7033.mp3",
+      "text": "云",
+      "reading": "云"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U13",
+      "source": "64k/syllabs/cmn-ying1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d79696e67312e6d7033.mp3",
+      "text": "yīnɡ",
+      "reading": "yīnɡ"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U18",
+      "source": "64k/syllabs/cmn-mang2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6d616e67322e6d7033.mp3",
+      "text": "mánɡ",
+      "reading": "mánɡ"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U19",
+      "source": "64k/syllabs/cmn-gang3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d67616e67332e6d7033.mp3",
+      "text": "ɡǎnɡ",
+      "reading": "ɡǎnɡ"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U20",
+      "source": "64k/syllabs/cmn-hang2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d68616e67322e6d7033.mp3",
+      "text": "hánɡ",
+      "reading": "hánɡ"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U24",
+      "source": "64k/syllabs/cmn-keng1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6b656e67312e6d7033.mp3",
+      "text": "kēnɡ",
+      "reading": "kēnɡ"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U26",
+      "source": "64k/syllabs/cmn-zheng3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7a68656e67332e6d7033.mp3",
+      "text": "zhěnɡ",
+      "reading": "zhěnɡ"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U28",
+      "source": "64k/syllabs/cmn-ling3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6c696e67332e6d7033.mp3",
+      "text": "lǐnɡ",
+      "reading": "lǐnɡ"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U29",
+      "source": "64k/syllabs/cmn-xing2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d78696e67322e6d7033.mp3",
+      "text": "xínɡ",
+      "reading": "xínɡ"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U32",
+      "source": "64k/syllabs/cmn-tong2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d746f6e67322e6d7033.mp3",
+      "text": "tónɡ",
+      "reading": "tónɡ"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U33",
+      "source": "64k/syllabs/cmn-long2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6c6f6e67322e6d7033.mp3",
+      "text": "lónɡ",
+      "reading": "lónɡ"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U35",
+      "source": "64k/syllabs/cmn-hong2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d686f6e67322e6d7033.mp3",
+      "text": "hónɡ",
+      "reading": "hónɡ"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U43",
+      "source": "64k/hsk/cmn-生.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de7949f2e6d7033.mp3",
+      "text": "生",
+      "reading": "生"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U45",
+      "source": "64k/hsk/cmn-平.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5b9b32e6d7033.mp3",
+      "text": "平",
+      "reading": "平"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U49",
+      "source": "64k/hsk/cmn-红.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de7baa22e6d7033.mp3",
+      "text": "红",
+      "reading": "红"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U52",
+      "source": "64k/hsk/cmn-丛.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de4b89b2e6d7033.mp3",
+      "text": "丛",
+      "reading": "丛"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U53",
+      "source": "64k/hsk/cmn-长.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de995bf2e6d7033.mp3",
+      "text": "长",
+      "reading": "长"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U54",
+      "source": "64k/hsk/cmn-江.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de6b19f2e6d7033.mp3",
+      "text": "江",
+      "reading": "江"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U59",
+      "source": "64k/hsk/cmn-蜂.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de89c822e6d7033.mp3",
+      "text": "蜂",
+      "reading": "蜂"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U62",
+      "source": "64k/hsk/cmn-熊.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de7868a2e6d7033.mp3",
+      "text": "熊",
+      "reading": "熊"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U63",
+      "source": "64k/hsk/cmn-猫.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de78cab2e6d7033.mp3",
+      "text": "猫",
+      "reading": "猫"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U67",
+      "source": "64k/hsk/cmn-台.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de58fb02e6d7033.mp3",
+      "text": "台",
+      "reading": "台"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U68",
+      "source": "64k/hsk/cmn-灯.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de781af2e6d7033.mp3",
+      "text": "灯",
+      "reading": "灯"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U70",
+      "source": "64k/hsk/cmn-黄.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de9bb842e6d7033.mp3",
+      "text": "黄",
+      "reading": "黄"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U72",
+      "source": "64k/hsk/cmn-龙.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de9be992e6d7033.mp3",
+      "text": "龙",
+      "reading": "龙"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U74",
+      "source": "64k/hsk/cmn-太.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5a4aa2e6d7033.mp3",
+      "text": "太",
+      "reading": "太"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U75",
+      "source": "64k/hsk/cmn-阳.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de998b32e6d7033.mp3",
+      "text": "阳",
+      "reading": "阳"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U78",
+      "source": "64k/hsk/cmn-老.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de880812e6d7033.mp3",
+      "text": "老",
+      "reading": "老"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U79",
+      "source": "64k/hsk/cmn-鹰.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de9b9b02e6d7033.mp3",
+      "text": "鹰",
+      "reading": "鹰"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U81",
+      "source": "64k/hsk/cmn-亮.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de4baae2e6d7033.mp3",
+      "text": "亮",
+      "reading": "亮"
+    },
+    {
+      "page": 15,
+      "id": "BH15-U11",
+      "source": "64k/syllabs/cmn-an5.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d616e352e6d7033.mp3",
+      "text": "ɑn",
+      "reading": "ɑn"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U12",
+      "source": "64k/syllabs/cmn-en3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d656e332e6d7033.mp3",
+      "text": "ěn",
+      "reading": "ěn"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U27",
+      "source": "64k/hsk/cmn-海.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de6b5b72e6d7033.mp3",
+      "text": "海",
+      "reading": "海"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U29",
+      "source": "64k/hsk/cmn-粗细.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de7b297e7bb862e6d7033.mp3",
+      "text": "粗细",
+      "reading": "cū xì"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U30",
+      "source": "64k/hsk/cmn-本.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de69cac2e6d7033.mp3",
+      "text": "本",
+      "reading": "本"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U31",
+      "source": "64k/hsk/cmn-领.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de9a2862e6d7033.mp3",
+      "text": "领",
+      "reading": "领"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U40",
+      "source": "64k/hsk/cmn-枝.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de69e9d2e6d7033.mp3",
+      "text": "枝",
+      "reading": "枝"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U43",
+      "source": "64k/hsk/cmn-孔.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5ad942e6d7033.mp3",
+      "text": "孔",
+      "reading": "孔"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U46",
+      "source": "64k/hsk/cmn-丛.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de4b89b2e6d7033.mp3",
+      "text": "丛",
+      "reading": "丛"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U47",
+      "source": "64k/hsk/cmn-中.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de4b8ad2e6d7033.mp3",
+      "text": "中",
+      "reading": "中"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U52",
+      "source": "64k/hsk/cmn-云.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de4ba912e6d7033.mp3",
+      "text": "云",
+      "reading": "云"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U57",
+      "source": "64k/hsk/cmn-出.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de587ba2e6d7033.mp3",
+      "text": "出",
+      "reading": "出"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U58",
+      "source": "64k/hsk/cmn-中.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de4b8ad2e6d7033.mp3",
+      "text": "中",
+      "reading": "中"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U59",
+      "source": "64k/hsk/cmn-秋.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de7a78b2e6d7033.mp3",
+      "text": "秋",
+      "reading": "秋"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U64",
+      "source": "64k/hsk/cmn-举.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de4b8be2e6d7033.mp3",
+      "text": "举",
+      "reading": "举"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U65",
+      "source": "64k/hsk/cmn-手.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de6898b2e6d7033.mp3",
+      "text": "手",
+      "reading": "手"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U68",
+      "source": "64k/hsk/cmn-红.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de7baa22e6d7033.mp3",
+      "text": "红",
+      "reading": "红"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U69",
+      "source": "64k/hsk/cmn-领.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de9a2862e6d7033.mp3",
+      "text": "领",
+      "reading": "领"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U77",
+      "source": "64k/hsk/cmn-船.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de888b92e6d7033.mp3",
+      "text": "船",
+      "reading": "船"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U78",
+      "source": "64k/hsk/cmn-放.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de694be2e6d7033.mp3",
+      "text": "放",
+      "reading": "放"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U79",
+      "source": "64k/hsk/cmn-风.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de9a38e2e6d7033.mp3",
+      "text": "风",
+      "reading": "风"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U82",
+      "source": "64k/hsk/cmn-星.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de6989f2e6d7033.mp3",
+      "text": "星",
+      "reading": "1、xīnɡ"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U87",
+      "source": "64k/hsk/cmn-动.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de58aa82e6d7033.mp3",
+      "text": "动",
+      "reading": "动"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U90",
+      "source": "64k/hsk/cmn-里.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de9878c2e6d7033.mp3",
+      "text": "里",
+      "reading": "里"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U91",
+      "source": "64k/hsk/cmn-看.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de79c8b2e6d7033.mp3",
+      "text": "看",
+      "reading": "看"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U92",
+      "source": "64k/hsk/cmn-熊.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de7868a2e6d7033.mp3",
+      "text": "熊",
+      "reading": "熊"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U98",
+      "source": "64k/hsk/cmn-小.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5b08f2e6d7033.mp3",
+      "text": "小",
+      "reading": "2、xiǎo"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U103",
+      "source": "64k/syllabs/cmn-xiao3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7869616f332e6d7033.mp3",
+      "text": "xiǎo",
+      "reading": "xiǎo"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U104",
+      "source": "64k/syllabs/cmn-peng2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d70656e67322e6d7033.mp3",
+      "text": "pénɡ",
+      "reading": "pénɡ"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U106",
+      "source": "64k/hsk/cmn-小.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5b08f2e6d7033.mp3",
+      "text": "小",
+      "reading": "xiǎo"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U108",
+      "source": "64k/hsk/cmn-友爱.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de58f8be788b12e6d7033.mp3",
+      "text": "友爱",
+      "reading": "友爱"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U109",
+      "source": "64k/hsk/cmn-学.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5ada62e6d7033.mp3",
+      "text": "学",
+      "reading": "学"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U19",
+      "source": "64k/syllabs/cmn-en3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d656e332e6d7033.mp3",
+      "text": "ěn",
+      "reading": "ěn"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U29",
+      "source": "64k/syllabs/cmn-ye2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7965322e6d7033.mp3",
+      "text": "yé",
+      "reading": "yé"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U32",
+      "source": "64k/syllabs/cmn-ying1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d79696e67312e6d7033.mp3",
+      "text": "yīnɡ",
+      "reading": "yīnɡ"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U33",
+      "source": "64k/syllabs/cmn-yun2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d79756e322e6d7033.mp3",
+      "text": "yún",
+      "reading": "yún"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U34",
+      "source": "64k/syllabs/cmn-shi4.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d736869342e6d7033.mp3",
+      "text": "shì",
+      "reading": "shì"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U40",
+      "source": "64k/hsk/cmn-州.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5b79e2e6d7033.mp3",
+      "text": "州",
+      "reading": "州"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U41",
+      "source": "64k/hsk/cmn-长.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de995bf2e6d7033.mp3",
+      "text": "长",
+      "reading": "长"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U42",
+      "source": "64k/hsk/cmn-江.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de6b19f2e6d7033.mp3",
+      "text": "江",
+      "reading": "江"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U43",
+      "source": "64k/hsk/cmn-成.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de688902e6d7033.mp3",
+      "text": "成",
+      "reading": "成"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U44",
+      "source": "64k/hsk/cmn-长.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de995bf2e6d7033.mp3",
+      "text": "长",
+      "reading": "长"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U49",
+      "source": "64k/hsk/cmn-黄.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de9bb842e6d7033.mp3",
+      "text": "黄",
+      "reading": "黄"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U51",
+      "source": "64k/hsk/cmn-熊.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de7868a2e6d7033.mp3",
+      "text": "熊",
+      "reading": "熊"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U52",
+      "source": "64k/hsk/cmn-门.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de997a82e6d7033.mp3",
+      "text": "门",
+      "reading": "门"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U53",
+      "source": "64k/hsk/cmn-窗.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de7aa972e6d7033.mp3",
+      "text": "窗",
+      "reading": "窗"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U57",
+      "source": "64k/hsk/cmn-银行.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de993b6e8a18c2e6d7033.mp3",
+      "text": "银行",
+      "reading": "yín hánɡ"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U58",
+      "source": "64k/hsk/cmn-狂.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de78b822e6d7033.mp3",
+      "text": "狂",
+      "reading": "狂"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U59",
+      "source": "64k/hsk/cmn-风.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de9a38e2e6d7033.mp3",
+      "text": "风",
+      "reading": "风"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U60",
+      "source": "64k/hsk/cmn-闹.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de997b92e6d7033.mp3",
+      "text": "闹",
+      "reading": "闹"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U61",
+      "source": "64k/hsk/cmn-钟.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de9929f2e6d7033.mp3",
+      "text": "钟",
+      "reading": "钟"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U65",
+      "source": "64k/hsk/cmn-农民.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5869ce6b0912e6d7033.mp3",
+      "text": "农民",
+      "reading": "农民"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U66",
+      "source": "64k/hsk/cmn-明天.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de6988ee5a4a92e6d7033.mp3",
+      "text": "明天",
+      "reading": "明天"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U69",
+      "source": "64k/syllabs/cmn-fen3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d66656e332e6d7033.mp3",
+      "text": "fěn",
+      "reading": "fěn"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U70",
+      "source": "64k/syllabs/cmn-hong2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d686f6e67322e6d7033.mp3",
+      "text": "hónɡ",
+      "reading": "hónɡ"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U72",
+      "source": "64k/hsk/cmn-平.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5b9b32e6d7033.mp3",
+      "text": "平",
+      "reading": "平"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U74",
+      "source": "64k/hsk/cmn-粉.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de7b2892e6d7033.mp3",
+      "text": "粉",
+      "reading": "fěn"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U75",
+      "source": "64k/hsk/cmn-红.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de7baa22e6d7033.mp3",
+      "text": "红",
+      "reading": "hónɡ"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U76",
+      "source": "64k/hsk/cmn-胸.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de883b82e6d7033.mp3",
+      "text": "胸",
+      "reading": "胸"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U78",
+      "source": "64k/hsk/cmn-小.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5b08f2e6d7033.mp3",
+      "text": "小",
+      "reading": "小"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U82",
+      "source": "64k/hsk/cmn-广.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5b9bf2e6d7033.mp3",
+      "text": "广",
+      "reading": "广"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U85",
+      "source": "64k/hsk/cmn-动.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de58aa82e6d7033.mp3",
+      "text": "动",
+      "reading": "动"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U88",
+      "source": "64k/hsk/cmn-长.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de995bf2e6d7033.mp3",
+      "text": "长",
+      "reading": "长"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U89",
+      "source": "64k/hsk/cmn-颈.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de9a2882e6d7033.mp3",
+      "text": "颈",
+      "reading": "颈"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U4",
+      "source": "64k/hsk/cmn-船.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de888b92e6d7033.mp3",
+      "text": "船",
+      "reading": "船"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U6",
+      "source": "64k/hsk/cmn-熊.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de7868a2e6d7033.mp3",
+      "text": "熊",
+      "reading": "熊"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U7",
+      "source": "64k/hsk/cmn-生.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de7949f2e6d7033.mp3",
+      "text": "生",
+      "reading": "生"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U9",
+      "source": "64k/hsk/cmn-白.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de799bd2e6d7033.mp3",
+      "text": "白",
+      "reading": "白"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U11",
+      "source": "64k/hsk/cmn-气.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de6b0942e6d7033.mp3",
+      "text": "气",
+      "reading": "气"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U12",
+      "source": "64k/hsk/cmn-球.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de790832e6d7033.mp3",
+      "text": "球",
+      "reading": "球"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U16",
+      "source": "64k/hsk/cmn-字.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5ad972e6d7033.mp3",
+      "text": "字",
+      "reading": "字"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U18",
+      "source": "64k/hsk/cmn-云.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de4ba912e6d7033.mp3",
+      "text": "云",
+      "reading": "云"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U20",
+      "source": "64k/hsk/cmn-桥.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de6a1a52e6d7033.mp3",
+      "text": "桥",
+      "reading": "桥"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U21",
+      "source": "64k/hsk/cmn-我.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de688912e6d7033.mp3",
+      "text": "我",
+      "reading": "我"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U22",
+      "source": "64k/hsk/cmn-们.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de4bbac2e6d7033.mp3",
+      "text": "们",
+      "reading": "们"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U23",
+      "source": "64k/hsk/cmn-是.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de698af2e6d7033.mp3",
+      "text": "是",
+      "reading": "是"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U24",
+      "source": "64k/hsk/cmn-中.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de4b8ad2e6d7033.mp3",
+      "text": "中",
+      "reading": "中"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U27",
+      "source": "64k/hsk/cmn-太.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5a4aa2e6d7033.mp3",
+      "text": "太",
+      "reading": "太"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U28",
+      "source": "64k/hsk/cmn-阳.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de998b32e6d7033.mp3",
+      "text": "阳",
+      "reading": "阳"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U29",
+      "source": "64k/hsk/cmn-从.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de4bb8e2e6d7033.mp3",
+      "text": "从",
+      "reading": "从"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U30",
+      "source": "64k/hsk/cmn-东.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de4b89c2e6d7033.mp3",
+      "text": "东",
+      "reading": "东"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U31",
+      "source": "64k/hsk/cmn-方.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de696b92e6d7033.mp3",
+      "text": "方",
+      "reading": "方"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U32",
+      "source": "64k/hsk/cmn-升.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de58d872e6d7033.mp3",
+      "text": "升",
+      "reading": "升"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U34",
+      "source": "64k/hsk/cmn-红.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de7baa22e6d7033.mp3",
+      "text": "红",
+      "reading": "红"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U36",
+      "source": "64k/hsk/cmn-高.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de9ab982e6d7033.mp3",
+      "text": "高",
+      "reading": "高"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U37",
+      "source": "64k/hsk/cmn-升.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de58d872e6d7033.mp3",
+      "text": "升",
+      "reading": "升"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U39",
+      "source": "64k/hsk/cmn-猴子.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de78cb4e5ad902e6d7033.mp3",
+      "text": "猴子",
+      "reading": "猴子"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U40",
+      "source": "64k/hsk/cmn-的.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de79a842e6d7033.mp3",
+      "text": "的",
+      "reading": "的"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U41",
+      "source": "64k/hsk/cmn-尾.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5b0be2e6d7033.mp3",
+      "text": "尾",
+      "reading": "尾"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U46",
+      "source": "64k/hsk/cmn-的.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de79a842e6d7033.mp3",
+      "text": "的",
+      "reading": "的"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U47",
+      "source": "64k/hsk/cmn-尾.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5b0be2e6d7033.mp3",
+      "text": "尾",
+      "reading": "尾"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U51",
+      "source": "64k/hsk/cmn-尾.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5b0be2e6d7033.mp3",
+      "text": "尾",
+      "reading": "尾"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U54",
+      "source": "64k/hsk/cmn-又.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de58f882e6d7033.mp3",
+      "text": "又",
+      "reading": "又"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U58",
+      "source": "64k/hsk/cmn-动.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de58aa82e6d7033.mp3",
+      "text": "动",
+      "reading": "动"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U60",
+      "source": "64k/hsk/cmn-尾.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5b0be2e6d7033.mp3",
+      "text": "尾",
+      "reading": "尾"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U63",
+      "source": "64k/hsk/cmn-有.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de69c892e6d7033.mp3",
+      "text": "有",
+      "reading": "有"
+    }
+  ],
+  "failed": [
+    {
+      "source": "64k/hsk/cmn-口.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de58fa32e6d7033.mp3",
+      "error": "fetch failed"
+    },
+    {
+      "source": "64k/hsk/cmn-金.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de987912e6d7033.mp3",
+      "error": "fetch failed"
+    },
+    {
+      "source": "64k/syllabs/cmn-bo1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d626f312e6d7033.mp3",
+      "error": "fetch failed"
+    },
+    {
+      "source": "64k/syllabs/cmn-mi3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6d69332e6d7033.mp3",
+      "error": "fetch failed"
+    },
+    {
+      "source": "64k/syllabs/cmn-fa2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6661322e6d7033.mp3",
+      "error": "fetch failed"
+    },
+    {
+      "source": "64k/syllabs/cmn-ma3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6d61332e6d7033.mp3",
+      "error": "fetch failed"
+    },
+    {
+      "source": "64k/syllabs/cmn-pa4.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7061342e6d7033.mp3",
+      "error": "fetch failed"
+    },
+    {
+      "source": "64k/syllabs/cmn-pi1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7069312e6d7033.mp3",
+      "error": "fetch failed"
+    },
+    {
+      "source": "64k/syllabs/cmn-bo2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d626f322e6d7033.mp3",
+      "error": "fetch failed"
+    },
+    {
+      "source": "64k/syllabs/cmn-mo4.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6d6f342e6d7033.mp3",
+      "error": "fetch failed"
+    },
+    {
+      "source": "64k/syllabs/cmn-bu3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6275332e6d7033.mp3",
+      "error": "fetch failed"
+    },
+    {
+      "source": "64k/syllabs/cmn-fo2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d666f322e6d7033.mp3",
+      "error": "fetch failed"
+    },
+    {
+      "source": "64k/hsk/cmn-伯伯.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de4bcafe4bcaf2e6d7033.mp3",
+      "error": "fetch failed"
+    },
+    {
+      "source": "64k/syllabs/cmn-tu4.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7475342e6d7033.mp3",
+      "error": "fetch failed"
+    },
+    {
+      "source": "64k/syllabs/cmn-la3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6c61332e6d7033.mp3",
+      "error": "fetch failed"
+    },
+    {
+      "source": "64k/syllabs/cmn-li1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6c69312e6d7033.mp3",
+      "error": "fetch failed"
+    },
+    {
+      "source": "64k/syllabs/cmn-di2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6469322e6d7033.mp3",
+      "error": "fetch failed"
+    },
+    {
+      "source": "64k/syllabs/cmn-nu3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6e75332e6d7033.mp3",
+      "error": "fetch failed"
+    },
+    {
+      "source": "64k/syllabs/cmn-du2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6475322e6d7033.mp3",
+      "error": "fetch failed"
+    },
+    {
+      "source": "64k/hsk/cmn-法律.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de6b395e5be8b2e6d7033.mp3",
+      "error": "fetch failed"
+    },
+    {
+      "source": "64k/hsk/cmn-特地.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de789b9e59cb02e6d7033.mp3",
+      "error": "fetch failed"
+    },
+    {
+      "source": "64k/syllabs/cmn-hu2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6875322e6d7033.mp3",
+      "error": "fetch failed"
+    },
+    {
+      "source": "64k/syllabs/cmn-ke2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6b65322e6d7033.mp3",
+      "error": "fetch failed"
+    }
+  ]
+}

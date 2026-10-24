@@ -1,1 +1,10 @@
-{"total": 1229, "teacher": 681, "female": 431, "pending": 117, "invalid_audio": []}
+{
+  "total": 1229,
+  "teacher": 681,
+  "human": 258,
+  "female": 184,
+  "pending": 106,
+  "replaced_synthetic": 247,
+  "filled_missing": 11,
+  "invalid_audio": []
+}
