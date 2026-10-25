@@ -1,0 +1,11 @@
+{
+  "mode": "human-only",
+  "allowSynthesizedSpeech": false,
+  "allowDeviceSpeech": false,
+  "allowVoiceClone": false,
+  "missingAction": "待补真人录音",
+  "autoMatchOnImport": true,
+  "browserBackgroundWebSearch": false,
+  "source": "https://github.com/hugolpz/audio-cmn",
+  "matchingScript": "work/human-audio-only.py"
+}

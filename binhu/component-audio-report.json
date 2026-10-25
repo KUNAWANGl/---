@@ -1,0 +1,248 @@
+{
+  "updated": 22,
+  "items": [
+    {
+      "id": "BH15-U13",
+      "clip": {
+        "text": "d",
+        "src": "audio/teacher-04.m4a",
+        "start": 17.68,
+        "end": 18.38,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：di"
+      }
+    },
+    {
+      "id": "BH15-U15",
+      "clip": {
+        "text": "zh",
+        "src": "audio/teacher-08.m4a",
+        "start": 13.78,
+        "end": 14.46,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：zhù"
+      }
+    },
+    {
+      "id": "BH16-U2",
+      "clip": {
+        "text": "z",
+        "src": "audio/teacher-07.m4a",
+        "start": 30,
+        "end": 31.08,
+        "method": "teacher-isolated-spelling-component",
+        "note": "练习6 zé 的声母呼读片段"
+      }
+    },
+    {
+      "id": "BH16-U3",
+      "clip": {
+        "text": "d",
+        "src": "audio/teacher-04.m4a",
+        "start": 17.68,
+        "end": 18.38,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：di"
+      }
+    },
+    {
+      "id": "BH16-U4",
+      "clip": {
+        "text": "q",
+        "src": "audio/teacher-06.m4a",
+        "start": 4.88,
+        "end": 5.48,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：qí"
+      }
+    },
+    {
+      "id": "BH16-U6",
+      "clip": {
+        "text": "l",
+        "src": "audio/teacher-04.m4a",
+        "start": 63.26,
+        "end": 63.92,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：lü"
+      }
+    },
+    {
+      "id": "BH16-U7",
+      "clip": {
+        "text": "f",
+        "src": "audio/teacher-03.m4a",
+        "start": 60,
+        "end": 60.7,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：fo"
+      }
+    },
+    {
+      "id": "BH16-U8",
+      "clip": {
+        "text": "ǘn",
+        "src": "audio/teacher-13.m4a",
+        "start": 73.94,
+        "end": 74.38,
+        "method": "teacher-isolated-spelling-component",
+        "note": "练习12 xún 的带调韵母片段；保留老师原声"
+      }
+    },
+    {
+      "id": "BH16-U14",
+      "clip": {
+        "text": "s",
+        "src": "audio/teacher-07.m4a",
+        "start": 35.42,
+        "end": 36.06,
+        "method": "teacher-isolated-spelling-component",
+        "note": "练习6 sà 的声母呼读片段"
+      }
+    },
+    {
+      "id": "BH16-U15",
+      "clip": {
+        "text": "íng",
+        "src": "audio/teacher-14.m4a",
+        "start": 58.3,
+        "end": 58.82,
+        "method": "teacher-isolated-spelling-component",
+        "note": "练习13 tíng 的带调韵母片段；保留老师原声"
+      }
+    },
+    {
+      "id": "BH16-U18",
+      "clip": {
+        "text": "r",
+        "src": "audio/teacher-13.m4a",
+        "start": 54.66,
+        "end": 55.4,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：rén"
+      }
+    },
+    {
+      "id": "BH16-U19",
+      "clip": {
+        "text": "ch",
+        "src": "audio/teacher-08.m4a",
+        "start": 17.82,
+        "end": 18.4,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：chà"
+      }
+    },
+    {
+      "id": "BH17-U3",
+      "clip": {
+        "text": "f",
+        "src": "audio/teacher-03.m4a",
+        "start": 60,
+        "end": 60.7,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：fo"
+      }
+    },
+    {
+      "id": "BH17-U4",
+      "clip": {
+        "text": "t",
+        "src": "audio/teacher-04.m4a",
+        "start": 81.38,
+        "end": 82.08,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：tú"
+      }
+    },
+    {
+      "id": "BH17-U5",
+      "clip": {
+        "text": "p",
+        "src": "audio/teacher-03.m4a",
+        "start": 115.4,
+        "end": 116.1,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：pó"
+      }
+    },
+    {
+      "id": "BH17-U6",
+      "clip": {
+        "text": "q",
+        "src": "audio/teacher-06.m4a",
+        "start": 4.88,
+        "end": 5.48,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：qí"
+      }
+    },
+    {
+      "id": "BH17-U7",
+      "clip": {
+        "text": "b",
+        "src": "audio/teacher-03.m4a",
+        "start": 15,
+        "end": 15.64,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：bo"
+      }
+    },
+    {
+      "id": "BH17-U8",
+      "clip": {
+        "text": "d",
+        "src": "audio/teacher-04.m4a",
+        "start": 17.68,
+        "end": 18.38,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：di"
+      }
+    },
+    {
+      "id": "BH17-U9",
+      "clip": {
+        "text": "g",
+        "src": "audio/teacher-06.m4a",
+        "start": 17.9,
+        "end": 18.3,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：ɡǔ"
+      }
+    },
+    {
+      "id": "BH17-U12",
+      "clip": {
+        "text": "ǘn",
+        "src": "audio/teacher-13.m4a",
+        "start": 73.94,
+        "end": 74.38,
+        "method": "teacher-isolated-spelling-component",
+        "note": "练习12 xún 的带调韵母片段；保留老师原声"
+      }
+    },
+    {
+      "id": "BH17-U21",
+      "clip": {
+        "text": "íng",
+        "src": "audio/teacher-14.m4a",
+        "start": 58.3,
+        "end": 58.82,
+        "method": "teacher-isolated-spelling-component",
+        "note": "练习13 tíng 的带调韵母片段；保留老师原声"
+      }
+    },
+    {
+      "id": "BH16-U17",
+      "clip": {
+        "text": "in",
+        "src": "audio/teacher-13.m4a",
+        "start": 64.48,
+        "end": 64.92,
+        "method": "teacher-isolated-spelling-component",
+        "note": "练习12 pīn 的第一声韵母片段；保留老师原声"
+      }
+    }
+  ],
+  "note": "老师原声的连续声母、韵母片段；未变声、未拼接。片段边界基于现有拼读转写，待实际试听验收。"
+}

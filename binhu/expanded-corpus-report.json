@@ -1,0 +1,1562 @@
+{
+  "added_buttons": 25,
+  "accepted": [
+    {
+      "file": "test/wav/SSB0851/SSB08510167.wav",
+      "speaker": "SSB0851",
+      "gender": "female",
+      "text": "麻辣校花",
+      "word": "麻辣",
+      "phones": [
+        "ma2",
+        "la4"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "ma2la4",
+      "ids": [
+        "BH3-U37",
+        "BH3-U41"
+      ],
+      "cost": [
+        0,
+        0,
+        4,
+        0
+      ],
+      "clip": {
+        "text": "麻辣",
+        "src": "binhu/aishell/SSB08510167.wav",
+        "start": 0.0,
+        "end": 0.665,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0851；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH3-U37",
+        "BH3-U41"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "train/wav/SSB0395/SSB03950118.wav",
+      "speaker": "SSB0395",
+      "gender": "female",
+      "text": "雪山阿佳",
+      "word": "雪山",
+      "phones": [
+        "xue3",
+        "shan1"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "xue3shan1",
+      "ids": [
+        "BH13-U64"
+      ],
+      "cost": [
+        0,
+        0,
+        4,
+        0
+      ],
+      "clip": {
+        "text": "雪山",
+        "src": "binhu/aishell/SSB03950118.wav",
+        "start": 0.0,
+        "end": 0.905,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0395；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH13-U64"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "train/wav/SSB0339/SSB03390274.wav",
+      "speaker": "SSB0339",
+      "gender": "female",
+      "text": "走路新冷哥",
+      "word": "走路",
+      "phones": [
+        "zou3",
+        "lu4"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "zou3lu4",
+      "ids": [
+        "BH12-U65",
+        "BH12-U69"
+      ],
+      "cost": [
+        0,
+        0,
+        5,
+        0
+      ],
+      "clip": {
+        "text": "走路",
+        "src": "binhu/aishell/SSB03390274.wav",
+        "start": 0.0,
+        "end": 0.725,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0339；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH12-U65",
+        "BH12-U69"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB1091/SSB10910329.wav",
+      "speaker": "SSB1091",
+      "gender": "female",
+      "text": "天天小背篓",
+      "word": "天小",
+      "phones": [
+        "tian1",
+        "xiao3"
+      ],
+      "offset": 1,
+      "stop": 3,
+      "key": "tian1xiao3",
+      "ids": [
+        "BH16-U84"
+      ],
+      "cost": [
+        0,
+        0,
+        5,
+        1
+      ],
+      "clip": {
+        "text": "天小",
+        "src": "binhu/aishell/SSB10910329.wav",
+        "start": 0.44,
+        "end": 0.965,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB1091；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB1002/SSB10020428.wav",
+      "speaker": "SSB1002",
+      "gender": "female",
+      "text": "兴达铝塑门窗",
+      "word": "门窗",
+      "phones": [
+        "men2",
+        "chuang1"
+      ],
+      "offset": 4,
+      "stop": 6,
+      "key": "men2chuang1",
+      "ids": [
+        "BH17-U47"
+      ],
+      "cost": [
+        0,
+        0,
+        6,
+        0
+      ],
+      "clip": {
+        "text": "门窗",
+        "src": "binhu/aishell/SSB10020428.wav",
+        "start": 1.2,
+        "end": 1.785,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB1002；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH17-U47"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB0871/SSB08710339.wav",
+      "speaker": "SSB0871",
+      "gender": "female",
+      "text": "兴淮法律服务",
+      "word": "法律",
+      "phones": [
+        "fa3",
+        "lv4"
+      ],
+      "offset": 2,
+      "stop": 4,
+      "key": "fa3lv4",
+      "ids": [
+        "BH3-U45"
+      ],
+      "cost": [
+        0,
+        0,
+        6,
+        1
+      ],
+      "clip": {
+        "text": "法律",
+        "src": "binhu/aishell/SSB08710339.wav",
+        "start": 0.98,
+        "end": 1.465,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0871；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH3-U45"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB1002/SSB10020129.wav",
+      "speaker": "SSB1002",
+      "gender": "female",
+      "text": "新农村农家乐儿",
+      "word": "农村",
+      "phones": [
+        "nong2",
+        "cun1"
+      ],
+      "offset": 1,
+      "stop": 3,
+      "key": "nong2cun1",
+      "ids": [
+        "BH14-U56"
+      ],
+      "cost": [
+        0,
+        0,
+        6,
+        1
+      ],
+      "clip": {
+        "text": "农村",
+        "src": "binhu/aishell/SSB10020129.wav",
+        "start": 0.36,
+        "end": 0.885,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB1002；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH14-U56"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "train/wav/SSB0666/SSB06660182.wav",
+      "speaker": "SSB0666",
+      "gender": "female",
+      "text": "杭州凯悦自助餐",
+      "word": "杭州",
+      "phones": [
+        "hang2",
+        "zhou1"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "hang2zhou1",
+      "ids": [
+        "BH17-U36"
+      ],
+      "cost": [
+        0,
+        0,
+        7,
+        0
+      ],
+      "clip": {
+        "text": "杭州",
+        "src": "binhu/aishell/SSB06660182.wav",
+        "start": 0.0,
+        "end": 0.865,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0666；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH17-U36"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB0809/SSB08090500.wav",
+      "speaker": "SSB0809",
+      "gender": "female",
+      "text": "苏联生物有什么",
+      "word": "物有",
+      "phones": [
+        "wu4",
+        "you3"
+      ],
+      "offset": 3,
+      "stop": 5,
+      "key": "wu4you3",
+      "ids": [
+        "BH17-U87"
+      ],
+      "cost": [
+        0,
+        0,
+        7,
+        1
+      ],
+      "clip": {
+        "text": "物有",
+        "src": "binhu/aishell/SSB08090500.wav",
+        "start": 0.88,
+        "end": 1.265,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0809；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB1322/SSB13220297.wav",
+      "speaker": "SSB1322",
+      "gender": "female",
+      "text": "滚滚长江东逝水",
+      "word": "长江",
+      "phones": [
+        "chang2",
+        "jiang1"
+      ],
+      "offset": 2,
+      "stop": 4,
+      "key": "chang2jiang1",
+      "ids": [
+        "BH14-U48",
+        "BH17-U37"
+      ],
+      "cost": [
+        0,
+        0,
+        7,
+        1
+      ],
+      "clip": {
+        "text": "长江",
+        "src": "binhu/aishell/SSB13220297.wav",
+        "start": 0.62,
+        "end": 1.125,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB1322；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH14-U48",
+        "BH17-U37"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "train/wav/SSB0122/SSB01220380.wav",
+      "speaker": "SSB0122",
+      "gender": "female",
+      "text": "儿子在后面追逐的画面",
+      "word": "追逐",
+      "phones": [
+        "zhui1",
+        "zhu2"
+      ],
+      "offset": 5,
+      "stop": 7,
+      "key": "zhui1zhu2",
+      "ids": [
+        "BH10-U60"
+      ],
+      "cost": [
+        0,
+        0,
+        10,
+        1
+      ],
+      "clip": {
+        "text": "追逐",
+        "src": "binhu/aishell/SSB01220380.wav",
+        "start": 1.16,
+        "end": 1.485,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0122；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH10-U60"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB1891/SSB18910099.wav",
+      "speaker": "SSB1891",
+      "gender": "female",
+      "text": "海豚波波俱乐部二零一七",
+      "word": "海豚",
+      "phones": [
+        "hai3",
+        "tun2"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "hai3tun2",
+      "ids": [
+        "BH13-U71"
+      ],
+      "cost": [
+        0,
+        0,
+        11,
+        0
+      ],
+      "clip": {
+        "text": "海豚",
+        "src": "binhu/aishell/SSB18910099.wav",
+        "start": 0.0,
+        "end": 1.125,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB1891；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH13-U71"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "train/wav/SSB0666/SSB06660448.wav",
+      "speaker": "SSB0666",
+      "gender": "female",
+      "text": "每个句子都有一个规范推导",
+      "word": "句子",
+      "phones": [
+        "ju4",
+        "zi5"
+      ],
+      "offset": 2,
+      "stop": 4,
+      "key": "ju4zi5",
+      "ids": [
+        "BH6-U39"
+      ],
+      "cost": [
+        0,
+        0,
+        12,
+        1
+      ],
+      "clip": {
+        "text": "句子",
+        "src": "binhu/aishell/SSB06660448.wav",
+        "start": 0.66,
+        "end": 1.165,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0666；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH6-U39"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB1340/SSB13400292.wav",
+      "speaker": "SSB1340",
+      "gender": "female",
+      "text": "能效项目不合格具体是指什么",
+      "word": "目不",
+      "phones": [
+        "mu4",
+        "bu4"
+      ],
+      "offset": 3,
+      "stop": 5,
+      "key": "mu4bu4",
+      "ids": [
+        "BH2-U52"
+      ],
+      "cost": [
+        0,
+        0,
+        13,
+        1
+      ],
+      "clip": {
+        "text": "目不",
+        "src": "binhu/aishell/SSB13400292.wav",
+        "start": 2.06,
+        "end": 2.645,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB1340；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "train/wav/SSB0427/SSB04270254.wav",
+      "speaker": "SSB0427",
+      "gender": "female",
+      "text": "将给鸿海带来巨大的增长机会",
+      "word": "海带",
+      "phones": [
+        "hai3",
+        "dai4"
+      ],
+      "offset": 3,
+      "stop": 5,
+      "key": "hai3dai4",
+      "ids": [
+        "BH10-U41",
+        "BH10-U46"
+      ],
+      "cost": [
+        0,
+        0,
+        13,
+        1
+      ],
+      "clip": {
+        "text": "海带",
+        "src": "binhu/aishell/SSB04270254.wav",
+        "start": 0.88,
+        "end": 1.285,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0427；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH10-U41",
+        "BH10-U46"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB0693/SSB06930432.wav",
+      "speaker": "SSB0693",
+      "gender": "female",
+      "text": "一位蒙面男子二零秒内劫走一公斤黄金",
+      "word": "斤黄",
+      "phones": [
+        "jin1",
+        "huang2"
+      ],
+      "offset": 14,
+      "stop": 16,
+      "key": "jin1huang2",
+      "ids": [
+        "BH14-U65",
+        "BH17-U45"
+      ],
+      "cost": [
+        0,
+        1,
+        17,
+        1
+      ],
+      "clip": {
+        "text": "斤黄",
+        "src": "binhu/aishell/SSB06930432.wav",
+        "start": 3.64,
+        "end": 4.145,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0693；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB0241/SSB02410327.wav",
+      "speaker": "SSB0241",
+      "gender": "male",
+      "text": "茶杯",
+      "word": "茶杯",
+      "phones": [
+        "cha2",
+        "bei1"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "cha2bei1",
+      "ids": [
+        "BH10-U81",
+        "BH10-U86"
+      ],
+      "cost": [
+        1,
+        0,
+        2,
+        0
+      ],
+      "clip": {
+        "text": "茶杯",
+        "src": "binhu/aishell/SSB02410327.wav",
+        "start": 0.0,
+        "end": 0.885,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 male SSB0241；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH10-U81",
+        "BH10-U86"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB1064/SSB10640125.wav",
+      "speaker": "SSB1064",
+      "gender": "female",
+      "text": "恐龙甘蓝没了",
+      "word": "恐龙",
+      "phones": [
+        "kong3",
+        "long2"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "kong3long2",
+      "ids": [
+        "BH14-U66"
+      ],
+      "cost": [
+        0,
+        0,
+        6,
+        0
+      ],
+      "clip": {
+        "text": "恐龙",
+        "src": "binhu/aishell/SSB10640125.wav",
+        "start": 0.0,
+        "end": 0.645,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB1064；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH14-U66"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "train/wav/SSB0307/SSB03070126.wav",
+      "speaker": "SSB0307",
+      "gender": "female",
+      "text": "为什么你认为演奏乐器不是工作",
+      "word": "乐器",
+      "phones": [
+        "yue4",
+        "qi4"
+      ],
+      "offset": 8,
+      "stop": 10,
+      "key": "yue4qi4",
+      "ids": [
+        "BH12-U32"
+      ],
+      "cost": [
+        0,
+        0,
+        14,
+        1
+      ],
+      "clip": {
+        "text": "乐器",
+        "src": "binhu/aishell/SSB03070126.wav",
+        "start": 1.76,
+        "end": 2.265,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0307；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH12-U32"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB1891/SSB18910166.wav",
+      "speaker": "SSB1891",
+      "gender": "female",
+      "text": "其结果是一场狂风暴雨",
+      "word": "狂风",
+      "phones": [
+        "kuang2",
+        "feng1"
+      ],
+      "offset": 6,
+      "stop": 8,
+      "key": "kuang2feng1",
+      "ids": [
+        "BH17-U55"
+      ],
+      "cost": [
+        0,
+        0,
+        10,
+        1
+      ],
+      "clip": {
+        "text": "狂风",
+        "src": "binhu/aishell/SSB18910166.wav",
+        "start": 1.46,
+        "end": 1.945,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB1891；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH17-U55"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "train/wav/SSB0594/SSB05940272.wav",
+      "speaker": "SSB0594",
+      "gender": "female",
+      "text": "并配合全家穿上特地订制的曲棍球队",
+      "word": "特地",
+      "phones": [
+        "te4",
+        "di4"
+      ],
+      "offset": 7,
+      "stop": 9,
+      "key": "te4di4",
+      "ids": [
+        "BH3-U54"
+      ],
+      "cost": [
+        0,
+        0,
+        16,
+        1
+      ],
+      "clip": {
+        "text": "特地",
+        "src": "binhu/aishell/SSB05940272.wav",
+        "start": 1.72,
+        "end": 2.305,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0594；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH3-U54"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "train/wav/SSB1024/SSB10240388.wav",
+      "speaker": "SSB1024",
+      "gender": "female",
+      "text": "上次开会时给他们面子没有点名",
+      "word": "开会",
+      "phones": [
+        "kai1",
+        "hui4"
+      ],
+      "offset": 2,
+      "stop": 4,
+      "key": "kai1hui4",
+      "ids": [
+        "BH10-U40"
+      ],
+      "cost": [
+        0,
+        0,
+        14,
+        1
+      ],
+      "clip": {
+        "text": "开会",
+        "src": "binhu/aishell/SSB10240388.wav",
+        "start": 0.92,
+        "end": 1.405,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB1024；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH10-U40"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    }
+  ],
+  "rejected": [
+    {
+      "file": "test/wav/SSB1878/SSB18780409.wav",
+      "speaker": "SSB1878",
+      "gender": "female",
+      "text": "儿歌",
+      "word": "儿歌",
+      "phones": [
+        "er2",
+        "ge1"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "er2ge1",
+      "ids": [
+        "BH12-U24",
+        "BH12-U28"
+      ],
+      "cost": [
+        0,
+        0,
+        2,
+        0
+      ],
+      "reason": "target recognition differs or repeats"
+    },
+    {
+      "file": "test/wav/SSB1161/SSB11610233.wav",
+      "speaker": "SSB1161",
+      "gender": "female",
+      "text": "恐龙王国",
+      "word": "恐龙",
+      "phones": [
+        "kong3",
+        "long2"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "kong3long2",
+      "ids": [
+        "BH14-U66"
+      ],
+      "cost": [
+        0,
+        0,
+        4,
+        0
+      ],
+      "reason": "target recognition differs or repeats"
+    },
+    {
+      "file": "train/wav/SSB0778/SSB07780220.wav",
+      "speaker": "SSB0778",
+      "gender": "female",
+      "text": "在等乌龟死掉",
+      "word": "乌龟",
+      "phones": [
+        "wu1",
+        "gui1"
+      ],
+      "offset": 2,
+      "stop": 4,
+      "key": "wu1gui1",
+      "ids": [
+        "BH10-U73",
+        "BH10-U79"
+      ],
+      "cost": [
+        0,
+        0,
+        6,
+        1
+      ],
+      "reason": "target recognition differs or repeats"
+    },
+    {
+      "file": "train/wav/SSB0578/SSB05780210.wav",
+      "speaker": "SSB0578",
+      "gender": "female",
+      "text": "合奏乐器有什么",
+      "word": "乐器",
+      "phones": [
+        "yue4",
+        "qi4"
+      ],
+      "offset": 2,
+      "stop": 4,
+      "key": "yue4qi4",
+      "ids": [
+        "BH12-U32"
+      ],
+      "cost": [
+        0,
+        0,
+        7,
+        1
+      ],
+      "reason": "uncertain exact word boundaries or recognition confidence"
+    },
+    {
+      "file": "test/wav/SSB1340/SSB13400121.wav",
+      "speaker": "SSB1340",
+      "gender": "female",
+      "text": "来一首贝壳风铃",
+      "word": "贝壳",
+      "phones": [
+        "bei4",
+        "ke2"
+      ],
+      "offset": 3,
+      "stop": 5,
+      "key": "bei4ke2",
+      "ids": [
+        "BH10-U90"
+      ],
+      "cost": [
+        0,
+        0,
+        7,
+        1
+      ],
+      "reason": "target recognition differs or repeats"
+    },
+    {
+      "file": "train/wav/SSB0606/SSB06060421.wav",
+      "speaker": "SSB0606",
+      "gender": "female",
+      "text": "王宝钏与薛平贵",
+      "word": "与薛",
+      "phones": [
+        "yu3",
+        "xue1"
+      ],
+      "offset": 3,
+      "stop": 5,
+      "key": "yu3xue1",
+      "ids": [
+        "BH12-U58"
+      ],
+      "cost": [
+        0,
+        0,
+        7,
+        1
+      ],
+      "reason": "target recognition differs or repeats"
+    },
+    {
+      "file": "train/wav/SSB0723/SSB07230166.wav",
+      "speaker": "SSB0723",
+      "gender": "female",
+      "text": "成都商报记者盖源源",
+      "word": "源",
+      "phones": [
+        "yuan5"
+      ],
+      "offset": 8,
+      "stop": 9,
+      "key": "yuan5",
+      "ids": [
+        "BH13-U4",
+        "BH15-U12"
+      ],
+      "cost": [
+        0,
+        0,
+        9,
+        0
+      ],
+      "reason": "target recognition differs or repeats"
+    },
+    {
+      "file": "train/wav/SSB0588/SSB05880227.wav",
+      "speaker": "SSB0588",
+      "gender": "female",
+      "text": "没看见我们在开会吗",
+      "word": "开会",
+      "phones": [
+        "kai1",
+        "hui4"
+      ],
+      "offset": 6,
+      "stop": 8,
+      "key": "kai1hui4",
+      "ids": [
+        "BH10-U40"
+      ],
+      "cost": [
+        0,
+        0,
+        9,
+        1
+      ],
+      "reason": "target recognition differs or repeats"
+    },
+    {
+      "file": "test/wav/SSB1782/SSB17820421.wav",
+      "speaker": "SSB1782",
+      "gender": "female",
+      "text": "南宋传奇之蟋蟀宰相",
+      "word": "蟋蟀",
+      "phones": [
+        "xi1",
+        "shuai4"
+      ],
+      "offset": 5,
+      "stop": 7,
+      "key": "xi1shuai4",
+      "ids": [
+        "BH10-U71"
+      ],
+      "cost": [
+        0,
+        0,
+        9,
+        1
+      ],
+      "reason": "target recognition differs or repeats"
+    },
+    {
+      "file": "test/wav/SSB1385/SSB13850203.wav",
+      "speaker": "SSB1385",
+      "gender": "female",
+      "text": "精武英雄陈真吴越版",
+      "word": "吴越",
+      "phones": [
+        "wu2",
+        "yue4"
+      ],
+      "offset": 6,
+      "stop": 8,
+      "key": "wu2yue4",
+      "ids": [
+        "BH17-U28"
+      ],
+      "cost": [
+        0,
+        0,
+        9,
+        1
+      ],
+      "reason": "target recognition differs or repeats"
+    },
+    {
+      "file": "test/wav/SSB1402/SSB14020438.wav",
+      "speaker": "SSB1402",
+      "gender": "female",
+      "text": "狂风暴浪也阻挡不了我",
+      "word": "狂风",
+      "phones": [
+        "kuang2",
+        "feng1"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "kuang2feng1",
+      "ids": [
+        "BH17-U55"
+      ],
+      "cost": [
+        0,
+        0,
+        10,
+        0
+      ],
+      "reason": "target recognition differs or repeats"
+    },
+    {
+      "file": "train/wav/SSB0539/SSB05390452.wav",
+      "speaker": "SSB0539",
+      "gender": "female",
+      "text": "帆船运动根本就不便宜",
+      "word": "帆船",
+      "phones": [
+        "fan1",
+        "chuan2"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "fan1chuan2",
+      "ids": [
+        "BH13-U54"
+      ],
+      "cost": [
+        0,
+        0,
+        10,
+        0
+      ],
+      "reason": "target recognition differs or repeats"
+    },
+    {
+      "file": "test/wav/SSB1108/SSB11080127.wav",
+      "speaker": "SSB1108",
+      "gender": "female",
+      "text": "对着站在人行道下的女童不断大哄",
+      "word": "人行道",
+      "phones": [
+        "ren2",
+        "xing2",
+        "dao4"
+      ],
+      "offset": 4,
+      "stop": 7,
+      "key": "ren2xing2dao4",
+      "ids": [
+        "BH17-U64",
+        "BH17-U67"
+      ],
+      "cost": [
+        0,
+        0,
+        15,
+        1
+      ],
+      "reason": "target recognition differs or repeats"
+    },
+    {
+      "file": "train/wav/SSB0913/SSB09130367.wav",
+      "speaker": "SSB0913",
+      "gender": "female",
+      "text": "她今日特地浮出水面向亲友报平安",
+      "word": "特地",
+      "phones": [
+        "te4",
+        "di4"
+      ],
+      "offset": 3,
+      "stop": 5,
+      "key": "te4di4",
+      "ids": [
+        "BH3-U54"
+      ],
+      "cost": [
+        0,
+        0,
+        15,
+        1
+      ],
+      "reason": "target recognition differs or repeats"
+    },
+    {
+      "file": "train/wav/SSB0309/SSB03090007.wav",
+      "speaker": "SSB0309",
+      "gender": "female",
+      "text": "安徽望江发现飞虎队机身残骸曾击沉日军军舰",
+      "word": "军舰",
+      "phones": [
+        "jun1",
+        "jian4"
+      ],
+      "offset": 18,
+      "stop": 20,
+      "key": "jun1jian4",
+      "ids": [
+        "BH13-U73"
+      ],
+      "cost": [
+        0,
+        0,
+        20,
+        0
+      ],
+      "reason": "target recognition differs or repeats"
+    },
+    {
+      "file": "train/wav/SSB0746/SSB07460304.wav",
+      "speaker": "SSB0746",
+      "gender": "female",
+      "text": "通过杯量比例咖啡豆粗细度计算所需咖啡豆的数量",
+      "word": "度计",
+      "phones": [
+        "du4",
+        "ji4"
+      ],
+      "offset": 11,
+      "stop": 13,
+      "key": "du4ji4",
+      "ids": [
+        "BH13-U92"
+      ],
+      "cost": [
+        0,
+        0,
+        22,
+        1
+      ],
+      "reason": "target recognition differs or repeats"
+    },
+    {
+      "file": "train/wav/SSB1131/SSB11310075.wav",
+      "speaker": "SSB1131",
+      "gender": "female",
+      "text": "苏宁电器红领巾店",
+      "word": "红领巾",
+      "phones": [
+        "hong2",
+        "ling3",
+        "jin1"
+      ],
+      "offset": 4,
+      "stop": 7,
+      "key": "hong2ling3jin1",
+      "ids": [
+        "BH16-U63"
+      ],
+      "cost": [
+        0,
+        1,
+        8,
+        1
+      ],
+      "reason": "target recognition differs or repeats"
+    },
+    {
+      "file": "test/wav/SSB0863/SSB08630470.wav",
+      "speaker": "SSB0863",
+      "gender": "male",
+      "text": "女子半夜定闹钟抓小偷铃声一响贼真登场",
+      "word": "闹钟",
+      "phones": [
+        "nao4",
+        "zhong1"
+      ],
+      "offset": 5,
+      "stop": 7,
+      "key": "nao4zhong1",
+      "ids": [
+        "BH17-U56"
+      ],
+      "cost": [
+        1,
+        0,
+        18,
+        1
+      ],
+      "reason": "target recognition differs or repeats"
+    },
+    {
+      "file": "test/wav/SSB0338/SSB03380051.wav",
+      "speaker": "SSB0338",
+      "gender": "female",
+      "text": "想儿歌",
+      "word": "儿歌",
+      "phones": [
+        "er2",
+        "ge1"
+      ],
+      "offset": 1,
+      "stop": 3,
+      "key": "er2ge1",
+      "ids": [
+        "BH12-U24",
+        "BH12-U28"
+      ],
+      "cost": [
+        0,
+        0,
+        3,
+        0
+      ],
+      "reason": "target recognition differs or repeats"
+    },
+    {
+      "file": "train/wav/SSB0309/SSB03090457.wav",
+      "speaker": "SSB0309",
+      "gender": "female",
+      "text": "可穿戴设备可以帮助很多患者在家中检测出所患疾病",
+      "word": "备可",
+      "phones": [
+        "bei4",
+        "ke2"
+      ],
+      "offset": 4,
+      "stop": 6,
+      "key": "bei4ke2",
+      "ids": [
+        "BH10-U90"
+      ],
+      "cost": [
+        0,
+        0,
+        23,
+        1
+      ],
+      "reason": "uncertain exact word boundaries or recognition confidence"
+    },
+    {
+      "file": "train/wav/SSB1956/SSB19560328.wav",
+      "speaker": "SSB1956",
+      "gender": "female",
+      "text": "正在美国接受治疗的媛媛",
+      "word": "媛",
+      "phones": [
+        "yuan5"
+      ],
+      "offset": 10,
+      "stop": 11,
+      "key": "yuan5",
+      "ids": [
+        "BH13-U4",
+        "BH15-U12"
+      ],
+      "cost": [
+        0,
+        0,
+        11,
+        0
+      ],
+      "reason": "target recognition differs or repeats"
+    },
+    {
+      "file": "train/wav/SSB1956/SSB19560406.wav",
+      "speaker": "SSB1956",
+      "gender": "female",
+      "text": "开会审议这一环节过后",
+      "word": "开会",
+      "phones": [
+        "kai1",
+        "hui4"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "kai1hui4",
+      "ids": [
+        "BH10-U40"
+      ],
+      "cost": [
+        0,
+        0,
+        10,
+        0
+      ],
+      "reason": "uncertain exact word boundaries or recognition confidence"
+    },
+    {
+      "file": "train/wav/SSB0686/SSB06860011.wav",
+      "speaker": "SSB0686",
+      "gender": "female",
+      "text": "古月面馆万鑫时代新城东南",
+      "word": "古月",
+      "phones": [
+        "wu2",
+        "yue4"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "wu2yue4",
+      "ids": [
+        "BH17-U28"
+      ],
+      "cost": [
+        0,
+        0,
+        12,
+        0
+      ],
+      "reason": "target recognition differs or repeats"
+    },
+    {
+      "file": "train/wav/SSB1670/SSB16700449.wav",
+      "speaker": "SSB1670",
+      "gender": "female",
+      "text": "中国帆船队员赴赛途中落水官方正积极施救",
+      "word": "帆船",
+      "phones": [
+        "fan1",
+        "chuan2"
+      ],
+      "offset": 2,
+      "stop": 4,
+      "key": "fan1chuan2",
+      "ids": [
+        "BH13-U54"
+      ],
+      "cost": [
+        0,
+        0,
+        19,
+        1
+      ],
+      "reason": "target recognition differs or repeats"
+    },
+    {
+      "file": "test/wav/SSB0112/SSB01120219.wav",
+      "speaker": "SSB0112",
+      "gender": "female",
+      "text": "在人行道上",
+      "word": "人行道",
+      "phones": [
+        "ren2",
+        "xing2",
+        "dao4"
+      ],
+      "offset": 1,
+      "stop": 4,
+      "key": "ren2xing2dao4",
+      "ids": [
+        "BH17-U64",
+        "BH17-U67"
+      ],
+      "cost": [
+        0,
+        1,
+        5,
+        1
+      ],
+      "reason": "uncertain exact word boundaries or recognition confidence"
+    },
+    {
+      "file": "train/wav/SSB0623/SSB06230054.wav",
+      "speaker": "SSB0623",
+      "gender": "male",
+      "text": "严格实施围填海年度计划制度",
+      "word": "度计",
+      "phones": [
+        "du4",
+        "ji4"
+      ],
+      "offset": 8,
+      "stop": 10,
+      "key": "du4ji4",
+      "ids": [
+        "BH13-U92"
+      ],
+      "cost": [
+        1,
+        1,
+        13,
+        1
+      ],
+      "reason": "target recognition differs or repeats"
+    },
+    {
+      "file": "test/wav/SSB0395/SSB03950208.wav",
+      "speaker": "SSB0395",
+      "gender": "female",
+      "text": "听儿歌",
+      "word": "儿歌",
+      "phones": [
+        "er2",
+        "ge1"
+      ],
+      "offset": 1,
+      "stop": 3,
+      "key": "er2ge1",
+      "ids": [
+        "BH12-U24",
+        "BH12-U28"
+      ],
+      "cost": [
+        0,
+        0,
+        3,
+        0
+      ],
+      "reason": "uncertain exact word boundaries or recognition confidence"
+    },
+    {
+      "file": "train/wav/SSB0073/SSB00730019.wav",
+      "speaker": "SSB0073",
+      "gender": "male",
+      "text": "一些人认为这款设备可以悄悄录像",
+      "word": "备可",
+      "phones": [
+        "bei4",
+        "ke2"
+      ],
+      "offset": 8,
+      "stop": 10,
+      "key": "bei4ke2",
+      "ids": [
+        "BH10-U90"
+      ],
+      "cost": [
+        1,
+        0,
+        15,
+        1
+      ],
+      "reason": "uncertain exact word boundaries or recognition confidence"
+    },
+    {
+      "file": "test/wav/SSB0851/SSB08510500.wav",
+      "speaker": "SSB0851",
+      "gender": "female",
+      "text": "目前提供给学校的数量远远不够的图书",
+      "word": "远",
+      "phones": [
+        "yuan5"
+      ],
+      "offset": 11,
+      "stop": 12,
+      "key": "yuan5",
+      "ids": [
+        "BH13-U4",
+        "BH15-U12"
+      ],
+      "cost": [
+        0,
+        0,
+        17,
+        1
+      ],
+      "reason": "target recognition differs or repeats"
+    },
+    {
+      "file": "train/wav/SSB0623/SSB06230377.wav",
+      "speaker": "SSB0623",
+      "gender": "male",
+      "text": "连城诀吴越版",
+      "word": "吴越",
+      "phones": [
+        "wu2",
+        "yue4"
+      ],
+      "offset": 3,
+      "stop": 5,
+      "key": "wu2yue4",
+      "ids": [
+        "BH17-U28"
+      ],
+      "cost": [
+        1,
+        1,
+        6,
+        1
+      ],
+      "reason": "target recognition differs or repeats"
+    },
+    {
+      "file": "train/wav/SSB0009/SSB00090109.wav",
+      "speaker": "SSB0009",
+      "gender": "female",
+      "text": "我用我的帆船改建的",
+      "word": "帆船",
+      "phones": [
+        "fan1",
+        "chuan2"
+      ],
+      "offset": 4,
+      "stop": 6,
+      "key": "fan1chuan2",
+      "ids": [
+        "BH13-U54"
+      ],
+      "cost": [
+        0,
+        1,
+        9,
+        1
+      ],
+      "reason": "target recognition differs or repeats"
+    },
+    {
+      "file": "test/wav/SSB0915/SSB09150281.wav",
+      "speaker": "SSB0915",
+      "gender": "female",
+      "text": "在西门口地铁站入口前的人行道",
+      "word": "人行道",
+      "phones": [
+        "ren2",
+        "xing2",
+        "dao4"
+      ],
+      "offset": 11,
+      "stop": 14,
+      "key": "ren2xing2dao4",
+      "ids": [
+        "BH17-U64",
+        "BH17-U67"
+      ],
+      "cost": [
+        0,
+        1,
+        14,
+        0
+      ],
+      "reason": "uncertain exact word boundaries or recognition confidence"
+    }
+  ],
+  "search": "female first, all available speakers, sentences up to 28 characters, three contexts per reading, original pinyin must match",
+  "raw_added_before_review": 28,
+  "note": "扩展长句与多个原声上下文后，人工规则复核并排除同音跨词片段；另加入儿歌的完整原声2个按钮。本轮净新增25个按钮，余119项待补。"
+}

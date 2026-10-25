@@ -1,0 +1,11 @@
+AISHELL-3 original human recordings
+Publisher: Beijing Shell Shell Technology Co., Ltd.
+Source: https://www.openslr.org/93/
+Recording metadata: https://huggingface.co/datasets/AISHELL/AISHELL-3
+Audio mirror: https://huggingface.co/datasets/shenyunhang/AISHELL-3
+License: Apache License 2.0; see AISHELL_APACHE_LICENSE.txt.
+Uses original human recordings only, not TTS generated samples.
+Modifications: selects continuous word segments through playback time boundaries; no voice conversion or concatenation.
+Text and pinyin matched against corpus annotations, word boundaries checked by local speech recognition; not a certification of educational pronunciation.
+File mapping, speaker IDs, source revision and boundaries: aishell-import.json.
+Citation: Yao Shi, Hui Bu, Xin Xu, Shaoji Zhang, Ming Li. AISHELL-3: A Multi-speaker Mandarin TTS Corpus and the Baselines, 2020.

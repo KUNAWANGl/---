@@ -1,0 +1,1136 @@
+{
+  "reason": "用户反馈本页听感不自然；拼音和汉字统一对应老师原声，缺项不使用补充词库兜底。",
+  "units": {
+    "BH2-U37": {
+      "clip": {
+        "text": "pí fū",
+        "src": "audio/teacher-03.m4a",
+        "start": 190.62,
+        "end": 198.19,
+        "method": "phonetic-alignment"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH2-U33": {
+      "clip": {
+        "text": "pí fū",
+        "src": "audio/teacher-03.m4a",
+        "start": 190.62,
+        "end": 198.19,
+        "method": "phonetic-alignment"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH2-U38": {
+      "clip": {
+        "src": "audio/teacher-05.m4a",
+        "start": 209.96,
+        "end": 211.2,
+        "text": "伯伯",
+        "method": "teacher-phrase-word-boundaries",
+        "note": "本班老师练习4原录音，“伯伯打鼓”中的连续“伯伯”；按现有转写定位，待用户试听。"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH2-U34": {
+      "clip": {
+        "src": "audio/teacher-05.m4a",
+        "start": 209.96,
+        "end": 211.2,
+        "text": "伯伯",
+        "method": "teacher-phrase-word-boundaries",
+        "note": "本班老师练习4原录音，“伯伯打鼓”中的连续“伯伯”；按现有转写定位，待用户试听。"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH2-U39": {
+      "clip": {
+        "text": "pí pα",
+        "src": "audio/teacher-03.m4a",
+        "start": 200.5,
+        "end": 207.52,
+        "method": "phonetic-alignment"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH2-U35": {
+      "clip": {
+        "text": "pí pα",
+        "src": "audio/teacher-03.m4a",
+        "start": 200.5,
+        "end": 207.52,
+        "method": "phonetic-alignment"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH2-U40": {
+      "clip": null,
+      "voice": "pending",
+      "audioStatus": "needs-human",
+      "pendingReason": "待补真人录音：本页已停用听感有疑问的补充词库，等待自然完整读音。"
+    },
+    "BH2-U36": {
+      "clip": null,
+      "voice": "pending",
+      "audioStatus": "needs-human",
+      "pendingReason": "待补真人录音：本页已停用听感有疑问的补充词库，等待自然完整读音。"
+    },
+    "BH2-U45": {
+      "clip": null,
+      "voice": "pending",
+      "audioStatus": "needs-human",
+      "pendingReason": "待补真人录音：本页已停用听感有疑问的补充词库，等待自然完整读音。"
+    },
+    "BH2-U41": {
+      "clip": null,
+      "voice": "pending",
+      "audioStatus": "needs-human",
+      "pendingReason": "待补真人录音：本页已停用听感有疑问的补充词库，等待自然完整读音。"
+    },
+    "BH2-U46": {
+      "clip": {
+        "text": "pá pō",
+        "src": "audio/teacher-03.m4a",
+        "start": 209.63,
+        "end": 217.11,
+        "method": "phonetic-alignment"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH2-U42": {
+      "clip": {
+        "text": "pá pō",
+        "src": "audio/teacher-03.m4a",
+        "start": 209.63,
+        "end": 217.11,
+        "method": "phonetic-alignment"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH2-U47": {
+      "clip": {
+        "text": "木马",
+        "src": "audio/teacher-04.m4a",
+        "start": 342.88,
+        "end": 344.07,
+        "method": "transcript-and-acoustic-calibration"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH2-U43": {
+      "clip": {
+        "text": "木马",
+        "src": "audio/teacher-04.m4a",
+        "start": 342.88,
+        "end": 344.07,
+        "method": "transcript-and-acoustic-calibration"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH2-U48": {
+      "clip": null,
+      "voice": "pending",
+      "audioStatus": "needs-human",
+      "pendingReason": "待补真人录音：本页已停用听感有疑问的补充词库，等待自然完整读音。"
+    },
+    "BH2-U44": {
+      "clip": null,
+      "voice": "pending",
+      "audioStatus": "needs-human",
+      "pendingReason": "待补真人录音：本页已停用听感有疑问的补充词库，等待自然完整读音。"
+    },
+    "BH2-U53": {
+      "clip": {
+        "text": "妈妈",
+        "src": "audio/teacher-03.m4a",
+        "start": 373.35,
+        "end": 373.94,
+        "method": "transcript-and-acoustic-calibration"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH2-U49": {
+      "clip": {
+        "text": "妈妈",
+        "src": "audio/teacher-03.m4a",
+        "start": 373.35,
+        "end": 373.94,
+        "method": "transcript-and-acoustic-calibration"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH2-U54": {
+      "clip": {
+        "text": "mù fá",
+        "src": "audio/teacher-03.m4a",
+        "start": 239.24,
+        "end": 246.83,
+        "method": "phonetic-alignment"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH2-U50": {
+      "clip": {
+        "text": "mù fá",
+        "src": "audio/teacher-03.m4a",
+        "start": 239.24,
+        "end": 246.83,
+        "method": "phonetic-alignment"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH2-U55": {
+      "clip": {
+        "text": "魔法",
+        "src": "binhu/aishell/SSB11250019.wav",
+        "start": 0.0,
+        "end": 0.705,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB1125；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3"
+    },
+    "BH2-U51": {
+      "clip": {
+        "text": "魔法",
+        "src": "binhu/aishell/SSB11250019.wav",
+        "start": 0.0,
+        "end": 0.705,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB1125；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3"
+    },
+    "BH2-U56": {
+      "clip": null,
+      "voice": "pending",
+      "audioStatus": "needs-human",
+      "pendingReason": "待补真人录音：本页已停用听感有疑问的补充词库，等待自然完整读音。"
+    },
+    "BH2-U52": {
+      "clip": null,
+      "voice": "pending",
+      "audioStatus": "needs-human",
+      "pendingReason": "待补真人录音：片段边界尚未确认。"
+    },
+    "BH15-U13": {
+      "clip": {
+        "text": "d",
+        "src": "audio/teacher-04.m4a",
+        "start": 17.68,
+        "end": 18.38,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：di"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH15-U15": {
+      "clip": {
+        "text": "zh",
+        "src": "audio/teacher-08.m4a",
+        "start": 13.78,
+        "end": 14.46,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：zhù"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH16-U2": {
+      "clip": {
+        "text": "z",
+        "src": "audio/teacher-07.m4a",
+        "start": 30,
+        "end": 31.08,
+        "method": "teacher-isolated-spelling-component",
+        "note": "练习6 zé 的声母呼读片段"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH16-U3": {
+      "clip": {
+        "text": "d",
+        "src": "audio/teacher-04.m4a",
+        "start": 17.68,
+        "end": 18.38,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：di"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH16-U4": {
+      "clip": {
+        "text": "q",
+        "src": "audio/teacher-06.m4a",
+        "start": 4.88,
+        "end": 5.48,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：qí"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH16-U6": {
+      "clip": {
+        "text": "l",
+        "src": "audio/teacher-04.m4a",
+        "start": 63.26,
+        "end": 63.92,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：lü"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH16-U7": {
+      "clip": {
+        "text": "f",
+        "src": "audio/teacher-03.m4a",
+        "start": 60,
+        "end": 60.7,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：fo"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH16-U8": {
+      "clip": {
+        "text": "ǘn",
+        "src": "audio/teacher-13.m4a",
+        "start": 73.94,
+        "end": 74.38,
+        "method": "teacher-isolated-spelling-component",
+        "note": "练习12 xún 的带调韵母片段；保留老师原声"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH16-U14": {
+      "clip": {
+        "text": "s",
+        "src": "audio/teacher-07.m4a",
+        "start": 35.42,
+        "end": 36.06,
+        "method": "teacher-isolated-spelling-component",
+        "note": "练习6 sà 的声母呼读片段"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH16-U15": {
+      "clip": {
+        "text": "íng",
+        "src": "audio/teacher-14.m4a",
+        "start": 58.3,
+        "end": 58.82,
+        "method": "teacher-isolated-spelling-component",
+        "note": "练习13 tíng 的带调韵母片段；保留老师原声"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH16-U18": {
+      "clip": {
+        "text": "r",
+        "src": "audio/teacher-13.m4a",
+        "start": 54.66,
+        "end": 55.4,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：rén"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH16-U19": {
+      "clip": {
+        "text": "ch",
+        "src": "audio/teacher-08.m4a",
+        "start": 17.82,
+        "end": 18.4,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：chà"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH17-U3": {
+      "clip": {
+        "text": "f",
+        "src": "audio/teacher-03.m4a",
+        "start": 60,
+        "end": 60.7,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：fo"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH17-U4": {
+      "clip": {
+        "text": "t",
+        "src": "audio/teacher-04.m4a",
+        "start": 81.38,
+        "end": 82.08,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：tú"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH17-U5": {
+      "clip": {
+        "text": "p",
+        "src": "audio/teacher-03.m4a",
+        "start": 115.4,
+        "end": 116.1,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：pó"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH17-U6": {
+      "clip": {
+        "text": "q",
+        "src": "audio/teacher-06.m4a",
+        "start": 4.88,
+        "end": 5.48,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：qí"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH17-U7": {
+      "clip": {
+        "text": "b",
+        "src": "audio/teacher-03.m4a",
+        "start": 15,
+        "end": 15.64,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：bo"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH17-U8": {
+      "clip": {
+        "text": "d",
+        "src": "audio/teacher-04.m4a",
+        "start": 17.68,
+        "end": 18.38,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：di"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH17-U9": {
+      "clip": {
+        "text": "g",
+        "src": "audio/teacher-06.m4a",
+        "start": 17.9,
+        "end": 18.3,
+        "method": "teacher-isolated-spelling-component",
+        "note": "老师原声的连续声母呼读片段，原拼读项：ɡǔ"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH17-U12": {
+      "clip": {
+        "text": "ǘn",
+        "src": "audio/teacher-13.m4a",
+        "start": 73.94,
+        "end": 74.38,
+        "method": "teacher-isolated-spelling-component",
+        "note": "练习12 xún 的带调韵母片段；保留老师原声"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH17-U21": {
+      "clip": {
+        "text": "íng",
+        "src": "audio/teacher-14.m4a",
+        "start": 58.3,
+        "end": 58.82,
+        "method": "teacher-isolated-spelling-component",
+        "note": "练习13 tíng 的带调韵母片段；保留老师原声"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH16-U17": {
+      "clip": {
+        "text": "in",
+        "src": "audio/teacher-13.m4a",
+        "start": 64.48,
+        "end": 64.92,
+        "method": "teacher-isolated-spelling-component",
+        "note": "练习12 pīn 的第一声韵母片段；保留老师原声"
+      },
+      "voice": "teacher",
+      "audioSource": "teacher-original"
+    },
+    "BH6-U36": {
+      "clip": {
+        "text": "拉萨",
+        "src": "binhu/aishell/SSB13200028.wav",
+        "start": 0.78,
+        "end": 1.445,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB1320；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3"
+    },
+    "BH6-U41": {
+      "clip": {
+        "text": "拉萨",
+        "src": "binhu/aishell/SSB13200028.wav",
+        "start": 0.78,
+        "end": 1.445,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB1320；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3"
+    },
+    "BH12-U60": {
+      "clip": {
+        "text": "白雪",
+        "src": "binhu/aishell/SSB08510291.wav",
+        "start": 0.0,
+        "end": 0.765,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB0851；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3"
+    },
+    "BH12-U64": {
+      "clip": {
+        "text": "白雪",
+        "src": "binhu/aishell/SSB08510291.wav",
+        "start": 0.0,
+        "end": 0.765,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB0851；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3"
+    },
+    "BH10-U80": {
+      "clip": {
+        "text": "梅花",
+        "src": "binhu/aishell/SSB00570318.wav",
+        "start": 0.0,
+        "end": 0.985,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB0057；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3"
+    },
+    "BH13-U63": {
+      "clip": {
+        "text": "春天",
+        "src": "binhu/aishell/SSB10000304.wav",
+        "start": 0.0,
+        "end": 0.785,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB1000；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3"
+    },
+    "BH13-U46": {
+      "clip": {
+        "text": "医院",
+        "src": "binhu/aishell/SSB11080369.wav",
+        "start": 0.94,
+        "end": 1.445,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB1108；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3"
+    },
+    "BH10-U42": {
+      "clip": {
+        "text": "美丽",
+        "src": "binhu/aishell/SSB00160228.wav",
+        "start": 0.0,
+        "end": 0.865,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB0016；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3"
+    },
+    "BH10-U83": {
+      "clip": {
+        "text": "黑色",
+        "src": "binhu/aishell/SSB04820410.wav",
+        "start": 0.0,
+        "end": 0.845,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB0482；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3"
+    },
+    "BH10-U88": {
+      "clip": {
+        "text": "黑色",
+        "src": "binhu/aishell/SSB04820410.wav",
+        "start": 0.0,
+        "end": 0.845,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB0482；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3"
+    },
+    "BH16-U37": {
+      "clip": {
+        "text": "孔雀",
+        "src": "binhu/aishell/SSB18720437.wav",
+        "start": 0.5,
+        "end": 1.005,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB1872；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3"
+    },
+    "BH18-U56": {
+      "clip": {
+        "text": "你看",
+        "src": "binhu/aishell/SSB07160338.wav",
+        "start": 0.0,
+        "end": 0.465,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB0716；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3",
+      "audioGender": "female"
+    },
+    "BH6-U25": {
+      "clip": {
+        "text": "足迹",
+        "src": "binhu/aishell/SSB12190494.wav",
+        "start": 1.26,
+        "end": 1.845,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB1219；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3"
+    },
+    "BH6-U30": {
+      "clip": {
+        "text": "足迹",
+        "src": "binhu/aishell/SSB12190494.wav",
+        "start": 1.26,
+        "end": 1.845,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB1219；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3"
+    },
+    "BH13-U53": {
+      "clip": {
+        "text": "海军",
+        "src": "binhu/aishell/SSB13850184.wav",
+        "start": 0.0,
+        "end": 0.805,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB1385；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3"
+    },
+    "BH17-U38": {
+      "clip": {
+        "text": "成长",
+        "src": "binhu/aishell/SSB18780275.wav",
+        "start": 0.0,
+        "end": 0.785,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB1878；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3"
+    },
+    "BH12-U25": {
+      "clip": {
+        "text": "落叶",
+        "src": "binhu/aishell/SSB15930250.wav",
+        "start": 0.0,
+        "end": 0.725,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB1593；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3"
+    },
+    "BH12-U29": {
+      "clip": {
+        "text": "落叶",
+        "src": "binhu/aishell/SSB15930250.wav",
+        "start": 0.0,
+        "end": 0.725,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB1593；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3"
+    },
+    "BH17-U68": {
+      "clip": {
+        "text": "平衡",
+        "src": "binhu/aishell/SSB19390428.wav",
+        "start": 1.76,
+        "end": 2.485,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB1939；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3"
+    },
+    "BH15-U14": {
+      "clip": {
+        "text": "月",
+        "src": "binhu/aishell/SSB05650431.wav",
+        "start": 1.72,
+        "end": 1.965,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB0565；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3"
+    },
+    "BH13-U80": {
+      "clip": {
+        "text": "小提琴",
+        "src": "binhu/aishell/SSB03410035.wav",
+        "start": 0.66,
+        "end": 1.505,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB0341；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3",
+      "audioGender": "female"
+    },
+    "BH12-U67": {
+      "clip": {
+        "text": "高楼",
+        "src": "binhu/aishell/SSB07370338.wav",
+        "start": 0.44,
+        "end": 0.945,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB0737；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3"
+    },
+    "BH12-U71": {
+      "clip": {
+        "text": "高楼",
+        "src": "binhu/aishell/SSB07370338.wav",
+        "start": 0.44,
+        "end": 0.945,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB0737；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3"
+    },
+    "BH16-U97": {
+      "clip": {
+        "text": "池塘",
+        "src": "binhu/aishell/SSB04700448.wav",
+        "start": 1.2,
+        "end": 1.725,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB0470；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3"
+    },
+    "BH3-U37": {
+      "clip": {
+        "text": "麻辣",
+        "src": "binhu/aishell/SSB08510167.wav",
+        "start": 0.0,
+        "end": 0.665,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0851；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3",
+      "audioGender": "female"
+    },
+    "BH3-U41": {
+      "clip": {
+        "text": "麻辣",
+        "src": "binhu/aishell/SSB08510167.wav",
+        "start": 0.0,
+        "end": 0.665,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0851；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3",
+      "audioGender": "female"
+    },
+    "BH13-U64": {
+      "clip": {
+        "text": "雪山",
+        "src": "binhu/aishell/SSB03950118.wav",
+        "start": 0.0,
+        "end": 0.905,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0395；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3",
+      "audioGender": "female"
+    },
+    "BH12-U65": {
+      "clip": {
+        "text": "走路",
+        "src": "binhu/aishell/SSB03390274.wav",
+        "start": 0.0,
+        "end": 0.725,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0339；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3",
+      "audioGender": "female"
+    },
+    "BH12-U69": {
+      "clip": {
+        "text": "走路",
+        "src": "binhu/aishell/SSB03390274.wav",
+        "start": 0.0,
+        "end": 0.725,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0339；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3",
+      "audioGender": "female"
+    },
+    "BH16-U84": {
+      "clip": null,
+      "voice": "pending",
+      "audioStatus": "needs-human",
+      "pendingReason": "待补真人录音：片段边界尚未确认。"
+    },
+    "BH17-U47": {
+      "clip": {
+        "text": "门窗",
+        "src": "binhu/aishell/SSB10020428.wav",
+        "start": 1.2,
+        "end": 1.785,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB1002；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3",
+      "audioGender": "female"
+    },
+    "BH3-U45": {
+      "clip": {
+        "text": "法律",
+        "src": "binhu/aishell/SSB08710339.wav",
+        "start": 0.98,
+        "end": 1.465,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0871；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3",
+      "audioGender": "female"
+    },
+    "BH14-U56": {
+      "clip": {
+        "text": "农村",
+        "src": "binhu/aishell/SSB10020129.wav",
+        "start": 0.36,
+        "end": 0.885,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB1002；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3",
+      "audioGender": "female"
+    },
+    "BH17-U36": {
+      "clip": {
+        "text": "杭州",
+        "src": "binhu/aishell/SSB06660182.wav",
+        "start": 0.0,
+        "end": 0.865,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0666；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3",
+      "audioGender": "female"
+    },
+    "BH17-U87": {
+      "clip": null,
+      "voice": "pending",
+      "audioStatus": "needs-human",
+      "pendingReason": "待补真人录音：片段边界尚未确认。"
+    },
+    "BH14-U48": {
+      "clip": {
+        "text": "长江",
+        "src": "binhu/aishell/SSB13220297.wav",
+        "start": 0.62,
+        "end": 1.125,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB1322；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3",
+      "audioGender": "female"
+    },
+    "BH17-U37": {
+      "clip": {
+        "text": "长江",
+        "src": "binhu/aishell/SSB13220297.wav",
+        "start": 0.62,
+        "end": 1.125,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB1322；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3",
+      "audioGender": "female"
+    },
+    "BH10-U60": {
+      "clip": {
+        "text": "追逐",
+        "src": "binhu/aishell/SSB01220380.wav",
+        "start": 1.16,
+        "end": 1.485,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0122；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3",
+      "audioGender": "female"
+    },
+    "BH13-U71": {
+      "clip": {
+        "text": "海豚",
+        "src": "binhu/aishell/SSB18910099.wav",
+        "start": 0.0,
+        "end": 1.125,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB1891；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3",
+      "audioGender": "female"
+    },
+    "BH6-U39": {
+      "clip": {
+        "text": "句子",
+        "src": "binhu/aishell/SSB06660448.wav",
+        "start": 0.66,
+        "end": 1.165,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0666；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3",
+      "audioGender": "female"
+    },
+    "BH10-U41": {
+      "clip": {
+        "text": "海带",
+        "src": "binhu/aishell/SSB04270254.wav",
+        "start": 0.88,
+        "end": 1.285,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0427；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3",
+      "audioGender": "female"
+    },
+    "BH10-U46": {
+      "clip": {
+        "text": "海带",
+        "src": "binhu/aishell/SSB04270254.wav",
+        "start": 0.88,
+        "end": 1.285,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0427；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3",
+      "audioGender": "female"
+    },
+    "BH14-U65": {
+      "clip": null,
+      "voice": "pending",
+      "audioStatus": "needs-human",
+      "pendingReason": "待补真人录音：片段边界尚未确认。"
+    },
+    "BH17-U45": {
+      "clip": null,
+      "voice": "pending",
+      "audioStatus": "needs-human",
+      "pendingReason": "待补真人录音：片段边界尚未确认。"
+    },
+    "BH10-U81": {
+      "clip": {
+        "text": "茶杯",
+        "src": "binhu/aishell/SSB02410327.wav",
+        "start": 0.0,
+        "end": 0.885,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 male SSB0241；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3",
+      "audioGender": "male"
+    },
+    "BH10-U86": {
+      "clip": {
+        "text": "茶杯",
+        "src": "binhu/aishell/SSB02410327.wav",
+        "start": 0.0,
+        "end": 0.885,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 male SSB0241；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3",
+      "audioGender": "male"
+    },
+    "BH14-U66": {
+      "clip": {
+        "text": "恐龙",
+        "src": "binhu/aishell/SSB10640125.wav",
+        "start": 0.0,
+        "end": 0.645,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB1064；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3",
+      "audioGender": "female"
+    },
+    "BH12-U32": {
+      "clip": {
+        "text": "乐器",
+        "src": "binhu/aishell/SSB03070126.wav",
+        "start": 1.76,
+        "end": 2.265,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0307；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3",
+      "audioGender": "female"
+    },
+    "BH17-U55": {
+      "clip": {
+        "text": "狂风",
+        "src": "binhu/aishell/SSB18910166.wav",
+        "start": 1.46,
+        "end": 1.945,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB1891；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3",
+      "audioGender": "female"
+    },
+    "BH3-U54": {
+      "clip": {
+        "text": "特地",
+        "src": "binhu/aishell/SSB05940272.wav",
+        "start": 1.72,
+        "end": 2.305,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0594；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3",
+      "audioGender": "female"
+    },
+    "BH10-U40": {
+      "clip": {
+        "text": "开会",
+        "src": "binhu/aishell/SSB10240388.wav",
+        "start": 0.92,
+        "end": 1.405,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB1024；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3",
+      "audioGender": "female"
+    },
+    "BH12-U28": {
+      "clip": {
+        "text": "儿歌",
+        "src": "binhu/aishell/SSB18780409.wav",
+        "start": 0,
+        "end": 1.37,
+        "method": "complete-original-word-recording-corpus-annotated",
+        "note": "AISHELL-3 原始完整单词录音，保留全部声音；文字与声调依原语料人工标注，未裁切、未合成。"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3",
+      "audioGender": "female"
+    },
+    "BH12-U24": {
+      "clip": {
+        "text": "儿歌",
+        "src": "binhu/aishell/SSB18780409.wav",
+        "start": 0,
+        "end": 1.37,
+        "method": "complete-original-word-recording-corpus-annotated",
+        "note": "AISHELL-3 原始完整单词录音，保留全部声音；文字与声调依原语料人工标注，未裁切、未合成。"
+      },
+      "voice": "human",
+      "audioSource": "aishell-3",
+      "audioGender": "female"
+    }
+  }
+}

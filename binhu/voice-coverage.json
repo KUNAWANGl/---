@@ -1,10 +1,8 @@
 {
+  "policy": "human-only",
   "total": 1229,
-  "teacher": 681,
-  "human": 258,
-  "female": 184,
-  "pending": 106,
-  "replaced_synthetic": 247,
-  "filled_missing": 11,
-  "invalid_audio": []
+  "teacher": 692,
+  "human": 418,
+  "pending": 119,
+  "synthesized_active": 0
 }

@@ -1,0 +1,1394 @@
+{
+  "source": "https://www.openslr.org/93/",
+  "mirror": "https://huggingface.co/datasets/shenyunhang/AISHELL-3",
+  "license": "Apache-2.0",
+  "recording_type": "original human speech; no TTS system output",
+  "speaker_metadata_source": "https://huggingface.co/datasets/AISHELL/AISHELL-3/blob/main/spk-info.txt",
+  "candidate_readings": 48,
+  "accepted": [
+    {
+      "file": "test/wav/SSB1320/SSB13200028.wav",
+      "speaker": "SSB1320",
+      "text": "回到拉萨",
+      "word": "拉萨",
+      "phones": [
+        "la1",
+        "sa4"
+      ],
+      "offset": 2,
+      "stop": 4,
+      "key": "la1sa4",
+      "ids": [
+        "BH6-U36",
+        "BH6-U41"
+      ],
+      "clip": {
+        "text": "拉萨",
+        "src": "binhu/aishell/SSB13200028.wav",
+        "start": 0.78,
+        "end": 1.445,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB1320；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "updated": [
+        "BH6-U36",
+        "BH6-U41"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB0851/SSB08510291.wav",
+      "speaker": "SSB0851",
+      "text": "白雪",
+      "word": "白雪",
+      "phones": [
+        "bai2",
+        "xue3"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "bai2xue3",
+      "ids": [
+        "BH12-U60",
+        "BH12-U64"
+      ],
+      "clip": {
+        "text": "白雪",
+        "src": "binhu/aishell/SSB08510291.wav",
+        "start": 0.0,
+        "end": 0.765,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB0851；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "updated": [
+        "BH12-U60",
+        "BH12-U64"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB0057/SSB00570318.wav",
+      "speaker": "SSB0057",
+      "text": "梅花",
+      "word": "梅花",
+      "phones": [
+        "mei2",
+        "hua1"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "mei2hua1",
+      "ids": [
+        "BH10-U80"
+      ],
+      "clip": {
+        "text": "梅花",
+        "src": "binhu/aishell/SSB00570318.wav",
+        "start": 0.0,
+        "end": 0.985,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB0057；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "updated": [
+        "BH10-U80"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB1000/SSB10000304.wav",
+      "speaker": "SSB1000",
+      "text": "春天里",
+      "word": "春天",
+      "phones": [
+        "chun1",
+        "tian1"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "chun1tian1",
+      "ids": [
+        "BH13-U63"
+      ],
+      "clip": {
+        "text": "春天",
+        "src": "binhu/aishell/SSB10000304.wav",
+        "start": 0.0,
+        "end": 0.785,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB1000；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "updated": [
+        "BH13-U63"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB1125/SSB11250019.wav",
+      "speaker": "SSB1125",
+      "text": "魔法床",
+      "word": "魔法",
+      "phones": [
+        "mo2",
+        "fa3"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "mo2fa3",
+      "ids": [
+        "BH2-U51",
+        "BH2-U55"
+      ],
+      "clip": {
+        "text": "魔法",
+        "src": "binhu/aishell/SSB11250019.wav",
+        "start": 0.0,
+        "end": 0.705,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB1125；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "updated": [
+        "BH2-U51",
+        "BH2-U55"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB1108/SSB11080369.wav",
+      "speaker": "SSB1108",
+      "text": "向家医院",
+      "word": "医院",
+      "phones": [
+        "yi1",
+        "yuan4"
+      ],
+      "offset": 2,
+      "stop": 4,
+      "key": "yi1yuan4",
+      "ids": [
+        "BH13-U46"
+      ],
+      "clip": {
+        "text": "医院",
+        "src": "binhu/aishell/SSB11080369.wav",
+        "start": 0.94,
+        "end": 1.445,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB1108；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "updated": [
+        "BH13-U46"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "train/wav/SSB0016/SSB00160228.wav",
+      "speaker": "SSB0016",
+      "text": "美丽无限",
+      "word": "美丽",
+      "phones": [
+        "mei3",
+        "li4"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "mei3li4",
+      "ids": [
+        "BH10-U42"
+      ],
+      "clip": {
+        "text": "美丽",
+        "src": "binhu/aishell/SSB00160228.wav",
+        "start": 0.0,
+        "end": 0.865,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB0016；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "updated": [
+        "BH10-U42"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "train/wav/SSB0482/SSB04820410.wav",
+      "speaker": "SSB0482",
+      "text": "黑色毛衣",
+      "word": "黑色",
+      "phones": [
+        "hei1",
+        "se4"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "hei1se4",
+      "ids": [
+        "BH10-U83",
+        "BH10-U88"
+      ],
+      "clip": {
+        "text": "黑色",
+        "src": "binhu/aishell/SSB04820410.wav",
+        "start": 0.0,
+        "end": 0.845,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB0482；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "updated": [
+        "BH10-U83",
+        "BH10-U88"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB1872/SSB18720437.wav",
+      "speaker": "SSB1872",
+      "text": "蓝孔雀宾馆",
+      "word": "孔雀",
+      "phones": [
+        "kong3",
+        "que4"
+      ],
+      "offset": 1,
+      "stop": 3,
+      "key": "kong3que4",
+      "ids": [
+        "BH16-U37"
+      ],
+      "clip": {
+        "text": "孔雀",
+        "src": "binhu/aishell/SSB18720437.wav",
+        "start": 0.5,
+        "end": 1.005,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB1872；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "updated": [
+        "BH16-U37"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB0716/SSB07160338.wav",
+      "speaker": "SSB0716",
+      "text": "你看起来不像",
+      "word": "你看",
+      "phones": [
+        "ni3",
+        "kan4"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "ni3kan4",
+      "ids": [
+        "BH18-U56"
+      ],
+      "clip": {
+        "text": "你看",
+        "src": "binhu/aishell/SSB07160338.wav",
+        "start": 0.0,
+        "end": 0.465,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB0716；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "updated": [
+        "BH18-U56"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB1219/SSB12190494.wav",
+      "speaker": "SSB1219",
+      "text": "阳光下的足迹",
+      "word": "足迹",
+      "phones": [
+        "zu2",
+        "ji4"
+      ],
+      "offset": 4,
+      "stop": 6,
+      "key": "zu2ji4",
+      "ids": [
+        "BH6-U25",
+        "BH6-U30"
+      ],
+      "clip": {
+        "text": "足迹",
+        "src": "binhu/aishell/SSB12190494.wav",
+        "start": 1.26,
+        "end": 1.845,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB1219；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "updated": [
+        "BH6-U25",
+        "BH6-U30"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB1385/SSB13850184.wav",
+      "speaker": "SSB1385",
+      "text": "海军机构有什么",
+      "word": "海军",
+      "phones": [
+        "hai3",
+        "jun1"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "hai3jun1",
+      "ids": [
+        "BH13-U53"
+      ],
+      "clip": {
+        "text": "海军",
+        "src": "binhu/aishell/SSB13850184.wav",
+        "start": 0.0,
+        "end": 0.805,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB1385；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "updated": [
+        "BH13-U53"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB1878/SSB18780275.wav",
+      "speaker": "SSB1878",
+      "text": "成长书籍有什么",
+      "word": "成长",
+      "phones": [
+        "cheng2",
+        "zhang3"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "cheng2zhang3",
+      "ids": [
+        "BH17-U38"
+      ],
+      "clip": {
+        "text": "成长",
+        "src": "binhu/aishell/SSB18780275.wav",
+        "start": 0.0,
+        "end": 0.785,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB1878；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "updated": [
+        "BH17-U38"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "train/wav/SSB1593/SSB15930250.wav",
+      "speaker": "SSB1593",
+      "text": "落叶的植物有什么",
+      "word": "落叶",
+      "phones": [
+        "luo4",
+        "ye4"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "luo4ye4",
+      "ids": [
+        "BH12-U25",
+        "BH12-U29"
+      ],
+      "clip": {
+        "text": "落叶",
+        "src": "binhu/aishell/SSB15930250.wav",
+        "start": 0.0,
+        "end": 0.725,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB1593；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "updated": [
+        "BH12-U25",
+        "BH12-U29"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "train/wav/SSB1939/SSB19390428.wav",
+      "speaker": "SSB1939",
+      "text": "进出口贸易基本平衡",
+      "word": "平衡",
+      "phones": [
+        "ping2",
+        "heng2"
+      ],
+      "offset": 7,
+      "stop": 9,
+      "key": "ping2heng2",
+      "ids": [
+        "BH17-U68"
+      ],
+      "clip": {
+        "text": "平衡",
+        "src": "binhu/aishell/SSB19390428.wav",
+        "start": 1.76,
+        "end": 2.485,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB1939；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "updated": [
+        "BH17-U68"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "train/wav/SSB0565/SSB05650431.wav",
+      "speaker": "SSB0565",
+      "text": "将观众带到了二战岁月",
+      "word": "月",
+      "phones": [
+        "yue5"
+      ],
+      "offset": 9,
+      "stop": 10,
+      "key": "yue5",
+      "ids": [
+        "BH15-U14"
+      ],
+      "clip": {
+        "text": "月",
+        "src": "binhu/aishell/SSB05650431.wav",
+        "start": 1.72,
+        "end": 1.965,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB0565；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "updated": [
+        "BH15-U14"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "train/wav/SSB0341/SSB03410035.wav",
+      "speaker": "SSB0341",
+      "text": "那只小提琴的音色很美",
+      "word": "小提琴",
+      "phones": [
+        "xiao3",
+        "ti2",
+        "qin2"
+      ],
+      "offset": 2,
+      "stop": 5,
+      "key": "xiao3ti2qin2",
+      "ids": [
+        "BH13-U80"
+      ],
+      "clip": {
+        "text": "小提琴",
+        "src": "binhu/aishell/SSB03410035.wav",
+        "start": 0.66,
+        "end": 1.505,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB0341；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "updated": [
+        "BH13-U80"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "train/wav/SSB0737/SSB07370338.wav",
+      "speaker": "SSB0737",
+      "text": "在高楼林立的现代都市",
+      "word": "高楼",
+      "phones": [
+        "gao1",
+        "lou2"
+      ],
+      "offset": 1,
+      "stop": 3,
+      "key": "gao1lou2",
+      "ids": [
+        "BH12-U67",
+        "BH12-U71"
+      ],
+      "clip": {
+        "text": "高楼",
+        "src": "binhu/aishell/SSB07370338.wav",
+        "start": 0.44,
+        "end": 0.945,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB0737；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "updated": [
+        "BH12-U67",
+        "BH12-U71"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "train/wav/SSB0470/SSB04700448.wav",
+      "speaker": "SSB0470",
+      "text": "这是从我池塘里弄来的",
+      "word": "池塘",
+      "phones": [
+        "chi2",
+        "tang2"
+      ],
+      "offset": 4,
+      "stop": 6,
+      "key": "chi2tang2",
+      "ids": [
+        "BH16-U97"
+      ],
+      "clip": {
+        "text": "池塘",
+        "src": "binhu/aishell/SSB04700448.wav",
+        "start": 1.2,
+        "end": 1.725,
+        "method": "human-corpus-phonetic-and-asr-word-alignment",
+        "note": "AISHELL-3 女声 SSB0470；Apache-2.0；连续原声片段，非合成或拼接"
+      },
+      "updated": [
+        "BH16-U97"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB0851/SSB08510167.wav",
+      "speaker": "SSB0851",
+      "gender": "female",
+      "text": "麻辣校花",
+      "word": "麻辣",
+      "phones": [
+        "ma2",
+        "la4"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "ma2la4",
+      "ids": [
+        "BH3-U37",
+        "BH3-U41"
+      ],
+      "cost": [
+        0,
+        0,
+        4,
+        0
+      ],
+      "clip": {
+        "text": "麻辣",
+        "src": "binhu/aishell/SSB08510167.wav",
+        "start": 0.0,
+        "end": 0.665,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0851；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH3-U37",
+        "BH3-U41"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "train/wav/SSB0395/SSB03950118.wav",
+      "speaker": "SSB0395",
+      "gender": "female",
+      "text": "雪山阿佳",
+      "word": "雪山",
+      "phones": [
+        "xue3",
+        "shan1"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "xue3shan1",
+      "ids": [
+        "BH13-U64"
+      ],
+      "cost": [
+        0,
+        0,
+        4,
+        0
+      ],
+      "clip": {
+        "text": "雪山",
+        "src": "binhu/aishell/SSB03950118.wav",
+        "start": 0.0,
+        "end": 0.905,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0395；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH13-U64"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "train/wav/SSB0339/SSB03390274.wav",
+      "speaker": "SSB0339",
+      "gender": "female",
+      "text": "走路新冷哥",
+      "word": "走路",
+      "phones": [
+        "zou3",
+        "lu4"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "zou3lu4",
+      "ids": [
+        "BH12-U65",
+        "BH12-U69"
+      ],
+      "cost": [
+        0,
+        0,
+        5,
+        0
+      ],
+      "clip": {
+        "text": "走路",
+        "src": "binhu/aishell/SSB03390274.wav",
+        "start": 0.0,
+        "end": 0.725,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0339；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH12-U65",
+        "BH12-U69"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB1091/SSB10910329.wav",
+      "speaker": "SSB1091",
+      "gender": "female",
+      "text": "天天小背篓",
+      "word": "天小",
+      "phones": [
+        "tian1",
+        "xiao3"
+      ],
+      "offset": 1,
+      "stop": 3,
+      "key": "tian1xiao3",
+      "ids": [
+        "BH16-U84"
+      ],
+      "cost": [
+        0,
+        0,
+        5,
+        1
+      ],
+      "clip": {
+        "text": "天小",
+        "src": "binhu/aishell/SSB10910329.wav",
+        "start": 0.44,
+        "end": 0.965,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB1091；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB1002/SSB10020428.wav",
+      "speaker": "SSB1002",
+      "gender": "female",
+      "text": "兴达铝塑门窗",
+      "word": "门窗",
+      "phones": [
+        "men2",
+        "chuang1"
+      ],
+      "offset": 4,
+      "stop": 6,
+      "key": "men2chuang1",
+      "ids": [
+        "BH17-U47"
+      ],
+      "cost": [
+        0,
+        0,
+        6,
+        0
+      ],
+      "clip": {
+        "text": "门窗",
+        "src": "binhu/aishell/SSB10020428.wav",
+        "start": 1.2,
+        "end": 1.785,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB1002；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH17-U47"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB0871/SSB08710339.wav",
+      "speaker": "SSB0871",
+      "gender": "female",
+      "text": "兴淮法律服务",
+      "word": "法律",
+      "phones": [
+        "fa3",
+        "lv4"
+      ],
+      "offset": 2,
+      "stop": 4,
+      "key": "fa3lv4",
+      "ids": [
+        "BH3-U45"
+      ],
+      "cost": [
+        0,
+        0,
+        6,
+        1
+      ],
+      "clip": {
+        "text": "法律",
+        "src": "binhu/aishell/SSB08710339.wav",
+        "start": 0.98,
+        "end": 1.465,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0871；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH3-U45"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB1002/SSB10020129.wav",
+      "speaker": "SSB1002",
+      "gender": "female",
+      "text": "新农村农家乐儿",
+      "word": "农村",
+      "phones": [
+        "nong2",
+        "cun1"
+      ],
+      "offset": 1,
+      "stop": 3,
+      "key": "nong2cun1",
+      "ids": [
+        "BH14-U56"
+      ],
+      "cost": [
+        0,
+        0,
+        6,
+        1
+      ],
+      "clip": {
+        "text": "农村",
+        "src": "binhu/aishell/SSB10020129.wav",
+        "start": 0.36,
+        "end": 0.885,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB1002；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH14-U56"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "train/wav/SSB0666/SSB06660182.wav",
+      "speaker": "SSB0666",
+      "gender": "female",
+      "text": "杭州凯悦自助餐",
+      "word": "杭州",
+      "phones": [
+        "hang2",
+        "zhou1"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "hang2zhou1",
+      "ids": [
+        "BH17-U36"
+      ],
+      "cost": [
+        0,
+        0,
+        7,
+        0
+      ],
+      "clip": {
+        "text": "杭州",
+        "src": "binhu/aishell/SSB06660182.wav",
+        "start": 0.0,
+        "end": 0.865,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0666；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH17-U36"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB0809/SSB08090500.wav",
+      "speaker": "SSB0809",
+      "gender": "female",
+      "text": "苏联生物有什么",
+      "word": "物有",
+      "phones": [
+        "wu4",
+        "you3"
+      ],
+      "offset": 3,
+      "stop": 5,
+      "key": "wu4you3",
+      "ids": [
+        "BH17-U87"
+      ],
+      "cost": [
+        0,
+        0,
+        7,
+        1
+      ],
+      "clip": {
+        "text": "物有",
+        "src": "binhu/aishell/SSB08090500.wav",
+        "start": 0.88,
+        "end": 1.265,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0809；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB1322/SSB13220297.wav",
+      "speaker": "SSB1322",
+      "gender": "female",
+      "text": "滚滚长江东逝水",
+      "word": "长江",
+      "phones": [
+        "chang2",
+        "jiang1"
+      ],
+      "offset": 2,
+      "stop": 4,
+      "key": "chang2jiang1",
+      "ids": [
+        "BH14-U48",
+        "BH17-U37"
+      ],
+      "cost": [
+        0,
+        0,
+        7,
+        1
+      ],
+      "clip": {
+        "text": "长江",
+        "src": "binhu/aishell/SSB13220297.wav",
+        "start": 0.62,
+        "end": 1.125,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB1322；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH14-U48",
+        "BH17-U37"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "train/wav/SSB0122/SSB01220380.wav",
+      "speaker": "SSB0122",
+      "gender": "female",
+      "text": "儿子在后面追逐的画面",
+      "word": "追逐",
+      "phones": [
+        "zhui1",
+        "zhu2"
+      ],
+      "offset": 5,
+      "stop": 7,
+      "key": "zhui1zhu2",
+      "ids": [
+        "BH10-U60"
+      ],
+      "cost": [
+        0,
+        0,
+        10,
+        1
+      ],
+      "clip": {
+        "text": "追逐",
+        "src": "binhu/aishell/SSB01220380.wav",
+        "start": 1.16,
+        "end": 1.485,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0122；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH10-U60"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB1891/SSB18910099.wav",
+      "speaker": "SSB1891",
+      "gender": "female",
+      "text": "海豚波波俱乐部二零一七",
+      "word": "海豚",
+      "phones": [
+        "hai3",
+        "tun2"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "hai3tun2",
+      "ids": [
+        "BH13-U71"
+      ],
+      "cost": [
+        0,
+        0,
+        11,
+        0
+      ],
+      "clip": {
+        "text": "海豚",
+        "src": "binhu/aishell/SSB18910099.wav",
+        "start": 0.0,
+        "end": 1.125,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB1891；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH13-U71"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "train/wav/SSB0666/SSB06660448.wav",
+      "speaker": "SSB0666",
+      "gender": "female",
+      "text": "每个句子都有一个规范推导",
+      "word": "句子",
+      "phones": [
+        "ju4",
+        "zi5"
+      ],
+      "offset": 2,
+      "stop": 4,
+      "key": "ju4zi5",
+      "ids": [
+        "BH6-U39"
+      ],
+      "cost": [
+        0,
+        0,
+        12,
+        1
+      ],
+      "clip": {
+        "text": "句子",
+        "src": "binhu/aishell/SSB06660448.wav",
+        "start": 0.66,
+        "end": 1.165,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0666；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH6-U39"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB1340/SSB13400292.wav",
+      "speaker": "SSB1340",
+      "gender": "female",
+      "text": "能效项目不合格具体是指什么",
+      "word": "目不",
+      "phones": [
+        "mu4",
+        "bu4"
+      ],
+      "offset": 3,
+      "stop": 5,
+      "key": "mu4bu4",
+      "ids": [
+        "BH2-U52"
+      ],
+      "cost": [
+        0,
+        0,
+        13,
+        1
+      ],
+      "clip": {
+        "text": "目不",
+        "src": "binhu/aishell/SSB13400292.wav",
+        "start": 2.06,
+        "end": 2.645,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB1340；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "train/wav/SSB0427/SSB04270254.wav",
+      "speaker": "SSB0427",
+      "gender": "female",
+      "text": "将给鸿海带来巨大的增长机会",
+      "word": "海带",
+      "phones": [
+        "hai3",
+        "dai4"
+      ],
+      "offset": 3,
+      "stop": 5,
+      "key": "hai3dai4",
+      "ids": [
+        "BH10-U41",
+        "BH10-U46"
+      ],
+      "cost": [
+        0,
+        0,
+        13,
+        1
+      ],
+      "clip": {
+        "text": "海带",
+        "src": "binhu/aishell/SSB04270254.wav",
+        "start": 0.88,
+        "end": 1.285,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0427；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH10-U41",
+        "BH10-U46"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB0693/SSB06930432.wav",
+      "speaker": "SSB0693",
+      "gender": "female",
+      "text": "一位蒙面男子二零秒内劫走一公斤黄金",
+      "word": "斤黄",
+      "phones": [
+        "jin1",
+        "huang2"
+      ],
+      "offset": 14,
+      "stop": 16,
+      "key": "jin1huang2",
+      "ids": [
+        "BH14-U65",
+        "BH17-U45"
+      ],
+      "cost": [
+        0,
+        1,
+        17,
+        1
+      ],
+      "clip": {
+        "text": "斤黄",
+        "src": "binhu/aishell/SSB06930432.wav",
+        "start": 3.64,
+        "end": 4.145,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0693；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB0241/SSB02410327.wav",
+      "speaker": "SSB0241",
+      "gender": "male",
+      "text": "茶杯",
+      "word": "茶杯",
+      "phones": [
+        "cha2",
+        "bei1"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "cha2bei1",
+      "ids": [
+        "BH10-U81",
+        "BH10-U86"
+      ],
+      "cost": [
+        1,
+        0,
+        2,
+        0
+      ],
+      "clip": {
+        "text": "茶杯",
+        "src": "binhu/aishell/SSB02410327.wav",
+        "start": 0.0,
+        "end": 0.885,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 male SSB0241；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH10-U81",
+        "BH10-U86"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB1064/SSB10640125.wav",
+      "speaker": "SSB1064",
+      "gender": "female",
+      "text": "恐龙甘蓝没了",
+      "word": "恐龙",
+      "phones": [
+        "kong3",
+        "long2"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "kong3long2",
+      "ids": [
+        "BH14-U66"
+      ],
+      "cost": [
+        0,
+        0,
+        6,
+        0
+      ],
+      "clip": {
+        "text": "恐龙",
+        "src": "binhu/aishell/SSB10640125.wav",
+        "start": 0.0,
+        "end": 0.645,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB1064；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH14-U66"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "train/wav/SSB0307/SSB03070126.wav",
+      "speaker": "SSB0307",
+      "gender": "female",
+      "text": "为什么你认为演奏乐器不是工作",
+      "word": "乐器",
+      "phones": [
+        "yue4",
+        "qi4"
+      ],
+      "offset": 8,
+      "stop": 10,
+      "key": "yue4qi4",
+      "ids": [
+        "BH12-U32"
+      ],
+      "cost": [
+        0,
+        0,
+        14,
+        1
+      ],
+      "clip": {
+        "text": "乐器",
+        "src": "binhu/aishell/SSB03070126.wav",
+        "start": 1.76,
+        "end": 2.265,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0307；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH12-U32"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB1891/SSB18910166.wav",
+      "speaker": "SSB1891",
+      "gender": "female",
+      "text": "其结果是一场狂风暴雨",
+      "word": "狂风",
+      "phones": [
+        "kuang2",
+        "feng1"
+      ],
+      "offset": 6,
+      "stop": 8,
+      "key": "kuang2feng1",
+      "ids": [
+        "BH17-U55"
+      ],
+      "cost": [
+        0,
+        0,
+        10,
+        1
+      ],
+      "clip": {
+        "text": "狂风",
+        "src": "binhu/aishell/SSB18910166.wav",
+        "start": 1.46,
+        "end": 1.945,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB1891；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH17-U55"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "train/wav/SSB0594/SSB05940272.wav",
+      "speaker": "SSB0594",
+      "gender": "female",
+      "text": "并配合全家穿上特地订制的曲棍球队",
+      "word": "特地",
+      "phones": [
+        "te4",
+        "di4"
+      ],
+      "offset": 7,
+      "stop": 9,
+      "key": "te4di4",
+      "ids": [
+        "BH3-U54"
+      ],
+      "cost": [
+        0,
+        0,
+        16,
+        1
+      ],
+      "clip": {
+        "text": "特地",
+        "src": "binhu/aishell/SSB05940272.wav",
+        "start": 1.72,
+        "end": 2.305,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB0594；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH3-U54"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "train/wav/SSB1024/SSB10240388.wav",
+      "speaker": "SSB1024",
+      "gender": "female",
+      "text": "上次开会时给他们面子没有点名",
+      "word": "开会",
+      "phones": [
+        "kai1",
+        "hui4"
+      ],
+      "offset": 2,
+      "stop": 4,
+      "key": "kai1hui4",
+      "ids": [
+        "BH10-U40"
+      ],
+      "cost": [
+        0,
+        0,
+        14,
+        1
+      ],
+      "clip": {
+        "text": "开会",
+        "src": "binhu/aishell/SSB10240388.wav",
+        "start": 0.92,
+        "end": 1.405,
+        "method": "human-corpus-target-and-word-boundary-confirmation",
+        "note": "AISHELL-3 female SSB1024；Apache-2.0；连续原录音片段，非合成、非拼接"
+      },
+      "updated": [
+        "BH10-U40"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    },
+    {
+      "file": "test/wav/SSB1878/SSB18780409.wav",
+      "speaker": "SSB1878",
+      "gender": "female",
+      "text": "儿歌",
+      "word": "儿歌",
+      "phones": [
+        "er2",
+        "ge1"
+      ],
+      "offset": 0,
+      "stop": 2,
+      "key": "er2ge1",
+      "ids": [
+        "BH12-U24",
+        "BH12-U28"
+      ],
+      "cost": [
+        0,
+        0,
+        2,
+        0
+      ],
+      "clip": {
+        "text": "儿歌",
+        "src": "binhu/aishell/SSB18780409.wav",
+        "start": 0,
+        "end": 1.37,
+        "method": "complete-original-word-recording-corpus-annotated",
+        "note": "AISHELL-3 原始完整单词录音，保留全部声音；文字与声调依原语料人工标注，未裁切、未合成。"
+      },
+      "updated": [
+        "BH12-U28",
+        "BH12-U24"
+      ],
+      "revision": "e1af0fa23933585f1844b3c07b71006f86589bab"
+    }
+  ],
+  "expanded_readings": 35,
+  "homophone_rejections": [
+    {
+      "id": "BH18-U56",
+      "text": "你看",
+      "candidate": "你看"
+    },
+    {
+      "id": "BH13-U80",
+      "text": "xiǎo tí qín",
+      "candidate": "小提琴"
+    },
+    {
+      "id": "BH16-U84",
+      "text": "天，小",
+      "candidate": "天小"
+    },
+    {
+      "id": "BH17-U87",
+      "text": "物，有",
+      "candidate": "物有"
+    },
+    {
+      "id": "BH2-U52",
+      "text": "mù bù",
+      "candidate": "目不"
+    }
+  ]
+}

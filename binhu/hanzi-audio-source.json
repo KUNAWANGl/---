@@ -1,0 +1,151 @@
+{
+  "source": "https://github.com/hugolpz/audio-cmn",
+  "license": "CC BY-SA as declared upstream; see human-audio-license.txt",
+  "characters": [
+    {
+      "character": "人",
+      "reading": "ren2",
+      "source": "64k/hsk/cmn-人.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "speaker": "Yue Tan",
+      "src": "binhu/hanzi/u4eba.mp3",
+      "duration": 1.05
+    },
+    {
+      "character": "口",
+      "reading": "kou3",
+      "source": "64k/hsk/cmn-口.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "speaker": "Yue Tan",
+      "src": "binhu/hanzi/u53e3.mp3",
+      "duration": 1.15
+    },
+    {
+      "character": "手",
+      "reading": "shou3",
+      "source": "64k/hsk/cmn-手.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "speaker": "Yue Tan",
+      "src": "binhu/hanzi/u624b.mp3",
+      "duration": 1.15
+    },
+    {
+      "character": "足",
+      "reading": "zu2",
+      "source": "64k/hsk/cmn-足.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "speaker": "Yue Tan",
+      "src": "binhu/hanzi/u8db3.mp3",
+      "duration": 1.0
+    },
+    {
+      "character": "舌",
+      "reading": "she2",
+      "source": "64k/syllabs/cmn-she2.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "speaker": "Chen Wang",
+      "src": "binhu/hanzi/u820c.mp3",
+      "duration": 1.128
+    },
+    {
+      "character": "牙",
+      "reading": "ya2",
+      "source": "64k/hsk/cmn-牙.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "speaker": "Yue Tan",
+      "src": "binhu/hanzi/u7259.mp3",
+      "duration": 0.95
+    },
+    {
+      "character": "耳",
+      "reading": "er3",
+      "source": "64k/syllabs/cmn-er3.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "speaker": "Chen Wang",
+      "src": "binhu/hanzi/u8033.mp3",
+      "duration": 1.176
+    },
+    {
+      "character": "目",
+      "reading": "mu4",
+      "source": "64k/hsk/cmn-目.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "speaker": "Yue Tan",
+      "src": "binhu/hanzi/u76ee.mp3",
+      "duration": 0.95
+    },
+    {
+      "character": "金",
+      "reading": "jin1",
+      "source": "64k/hsk/cmn-金.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "speaker": "Yue Tan",
+      "src": "binhu/hanzi/u91d1.mp3",
+      "duration": 1.05
+    },
+    {
+      "character": "木",
+      "reading": "mu4",
+      "source": "64k/hsk/cmn-木.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "speaker": "Yue Tan",
+      "src": "binhu/hanzi/u6728.mp3",
+      "duration": 0.9
+    },
+    {
+      "character": "水",
+      "reading": "shui3",
+      "source": "64k/hsk/cmn-水.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "speaker": "Yue Tan",
+      "src": "binhu/hanzi/u6c34.mp3",
+      "duration": 1.15
+    },
+    {
+      "character": "火",
+      "reading": "huo3",
+      "source": "64k/hsk/cmn-火.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "speaker": "Yue Tan",
+      "src": "binhu/hanzi/u706b.mp3",
+      "duration": 1.05
+    },
+    {
+      "character": "山",
+      "reading": "shan1",
+      "source": "64k/hsk/cmn-山.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "speaker": "Yue Tan",
+      "src": "binhu/hanzi/u5c71.mp3",
+      "duration": 1.0
+    },
+    {
+      "character": "石",
+      "reading": "shi2",
+      "source": "64k/syllabs/cmn-shi2.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "speaker": "Chen Wang",
+      "src": "binhu/hanzi/u77f3.mp3",
+      "duration": 1.224
+    },
+    {
+      "character": "田",
+      "reading": "tian2",
+      "source": "64k/hsk/cmn-田.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "speaker": "Yue Tan",
+      "src": "binhu/hanzi/u7530.mp3",
+      "duration": 1.05
+    },
+    {
+      "character": "土",
+      "reading": "tu3",
+      "source": "64k/hsk/cmn-土.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "speaker": "Yue Tan",
+      "src": "binhu/hanzi/u571f.mp3",
+      "duration": 1.1
+    }
+  ],
+  "updated_buttons": 26
+}

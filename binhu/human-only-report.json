@@ -1,0 +1,1170 @@
+{
+  "policy": "human-only",
+  "total": 1229,
+  "teacher": 692,
+  "human": 418,
+  "pending": 119,
+  "synthesized_active": 0,
+  "new_matches": 52,
+  "reused_human": 5,
+  "synthetic_disabled": 90,
+  "new_sources": [
+    {
+      "text": "bō",
+      "id": "BH2-U17",
+      "source": "64k/syllabs/cmn-bo1.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d626f312e6d7033.mp3",
+        "start": 0,
+        "end": 0.936,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "bō"
+      }
+    },
+    {
+      "text": "fá",
+      "id": "BH2-U20",
+      "source": "64k/syllabs/cmn-fa2.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d6661322e6d7033.mp3",
+        "start": 0,
+        "end": 0.888,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "fá"
+      }
+    },
+    {
+      "text": "pà",
+      "id": "BH2-U23",
+      "source": "64k/syllabs/cmn-pa4.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d7061342e6d7033.mp3",
+        "start": 0,
+        "end": 0.984,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "pà"
+      }
+    },
+    {
+      "text": "pī",
+      "id": "BH2-U24",
+      "source": "64k/syllabs/cmn-pi1.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d7069312e6d7033.mp3",
+        "start": 0,
+        "end": 1.08,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "pī"
+      }
+    },
+    {
+      "text": "bó",
+      "id": "BH2-U26",
+      "source": "64k/syllabs/cmn-bo2.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d626f322e6d7033.mp3",
+        "start": 0,
+        "end": 0.936,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "bó"
+      }
+    },
+    {
+      "text": "mò",
+      "id": "BH2-U28",
+      "source": "64k/syllabs/cmn-mo4.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d6d6f342e6d7033.mp3",
+        "start": 0,
+        "end": 1.032,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "mò"
+      }
+    },
+    {
+      "text": "pī",
+      "id": "BH2-U30",
+      "source": "64k/syllabs/cmn-pi1.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d7069312e6d7033.mp3",
+        "start": 0,
+        "end": 1.08,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "pī"
+      }
+    },
+    {
+      "text": "fó",
+      "id": "BH2-U32",
+      "source": "64k/syllabs/cmn-fo2.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d666f322e6d7033.mp3",
+        "start": 0,
+        "end": 1.032,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "fó"
+      }
+    },
+    {
+      "text": "伯伯",
+      "id": "BH2-U38",
+      "source": "64k/hsk/cmn-伯伯.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f68736b2f636d6e2de4bcafe4bcaf2e6d7033.mp3",
+        "start": 0,
+        "end": 1.0,
+        "note": "真人完整录音：Yue Tan；CC BY-SA；audio-cmn",
+        "text": "伯伯"
+      }
+    },
+    {
+      "text": "tù",
+      "id": "BH3-U18",
+      "source": "64k/syllabs/cmn-tu4.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d7475342e6d7033.mp3",
+        "start": 0,
+        "end": 0.888,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "tù"
+      }
+    },
+    {
+      "text": "lǎ",
+      "id": "BH3-U19",
+      "source": "64k/syllabs/cmn-la3.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d6c61332e6d7033.mp3",
+        "start": 0,
+        "end": 1.344,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "lǎ"
+      }
+    },
+    {
+      "text": "lī",
+      "id": "BH3-U21",
+      "source": "64k/syllabs/cmn-li1.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d6c69312e6d7033.mp3",
+        "start": 0,
+        "end": 0.984,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "lī"
+      }
+    },
+    {
+      "text": "dí",
+      "id": "BH3-U22",
+      "source": "64k/syllabs/cmn-di2.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d6469322e6d7033.mp3",
+        "start": 0,
+        "end": 0.984,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "dí"
+      }
+    },
+    {
+      "text": "nǔ",
+      "id": "BH3-U23",
+      "source": "64k/syllabs/cmn-nu3.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d6e75332e6d7033.mp3",
+        "start": 0,
+        "end": 1.296,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "nǔ"
+      }
+    },
+    {
+      "text": "dú",
+      "id": "BH3-U28",
+      "source": "64k/syllabs/cmn-du2.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d6475322e6d7033.mp3",
+        "start": 0,
+        "end": 1.032,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "dú"
+      }
+    },
+    {
+      "text": "法律",
+      "id": "BH3-U49",
+      "source": "64k/hsk/cmn-法律.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f68736b2f636d6e2de6b395e5be8b2e6d7033.mp3",
+        "start": 0,
+        "end": 1.2,
+        "note": "真人完整录音：Yue Tan；CC BY-SA；audio-cmn",
+        "text": "法律"
+      }
+    },
+    {
+      "text": "特地",
+      "id": "BH3-U58",
+      "source": "64k/hsk/cmn-特地.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f68736b2f636d6e2de789b9e59cb02e6d7033.mp3",
+        "start": 0,
+        "end": 1.3,
+        "note": "真人完整录音：Yue Tan；CC BY-SA；audio-cmn",
+        "text": "特地"
+      }
+    },
+    {
+      "text": "hú",
+      "id": "BH4-U2",
+      "source": "64k/syllabs/cmn-hu2.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d6875322e6d7033.mp3",
+        "start": 0,
+        "end": 0.936,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "hú"
+      }
+    },
+    {
+      "text": "菠",
+      "id": "BH8-U51",
+      "source": "64k/syllabs/cmn-bo1.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d626f312e6d7033.mp3",
+        "start": 0,
+        "end": 0.936,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "菠"
+      }
+    },
+    {
+      "text": "果",
+      "id": "BH8-U67",
+      "source": "64k/syllabs/cmn-guo3.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d67756f332e6d7033.mp3",
+        "start": 0,
+        "end": 1.344,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "果"
+      }
+    },
+    {
+      "text": "戳",
+      "id": "BH8-U85",
+      "source": "64k/syllabs/cmn-chuo1.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d6368756f312e6d7033.mp3",
+        "start": 0,
+        "end": 0.936,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "戳"
+      }
+    },
+    {
+      "text": "荷",
+      "id": "BH9-U35",
+      "source": "64k/syllabs/cmn-he2.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d6865322e6d7033.mp3",
+        "start": 0,
+        "end": 1.08,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "荷"
+      }
+    },
+    {
+      "text": "竹",
+      "id": "BH9-U55",
+      "source": "64k/syllabs/cmn-zhu2.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d7a6875322e6d7033.mp3",
+        "start": 0,
+        "end": 0.984,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "竹"
+      }
+    },
+    {
+      "text": "兔",
+      "id": "BH10-U36",
+      "source": "64k/syllabs/cmn-tu4.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d7475342e6d7033.mp3",
+        "start": 0,
+        "end": 0.888,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "兔"
+      }
+    },
+    {
+      "text": "鼠",
+      "id": "BH10-U56",
+      "source": "64k/syllabs/cmn-shu3.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d736875332e6d7033.mp3",
+        "start": 0,
+        "end": 1.536,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "鼠"
+      }
+    },
+    {
+      "text": "逐",
+      "id": "BH10-U65",
+      "source": "64k/syllabs/cmn-zhu2.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d7a6875322e6d7033.mp3",
+        "start": 0,
+        "end": 0.984,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "逐"
+      }
+    },
+    {
+      "text": "蟀",
+      "id": "BH10-U75",
+      "source": "64k/syllabs/cmn-shuai4.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d7368756169342e6d7033.mp3",
+        "start": 0,
+        "end": 1.032,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "蟀"
+      }
+    },
+    {
+      "text": "孩",
+      "id": "BH10-U77",
+      "source": "64k/syllabs/cmn-hai2.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d686169322e6d7033.mp3",
+        "start": 0,
+        "end": 1.032,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "孩"
+      }
+    },
+    {
+      "text": "贝",
+      "id": "BH10-U96",
+      "source": "64k/syllabs/cmn-bei4.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d626569342e6d7033.mp3",
+        "start": 0,
+        "end": 0.936,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "贝"
+      }
+    },
+    {
+      "text": "er",
+      "id": "BH12-U81",
+      "source": "64k/syllabs/cmn-er1.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d6572312e6d7033.mp3",
+        "start": 0,
+        "end": 0.984,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "er"
+      }
+    },
+    {
+      "text": "竹",
+      "id": "BH13-U60",
+      "source": "64k/syllabs/cmn-zhu2.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d7a6875322e6d7033.mp3",
+        "start": 0,
+        "end": 0.984,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "竹"
+      }
+    },
+    {
+      "text": "舰",
+      "id": "BH13-U79",
+      "source": "64k/syllabs/cmn-jian4.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d6a69616e342e6d7033.mp3",
+        "start": 0,
+        "end": 1.08,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "舰"
+      }
+    },
+    {
+      "text": "房",
+      "id": "BH14-U40",
+      "source": "64k/syllabs/cmn-fang2.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d66616e67322e6d7033.mp3",
+        "start": 0,
+        "end": 0.984,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "房"
+      }
+    },
+    {
+      "text": "农",
+      "id": "BH14-U60",
+      "source": "64k/syllabs/cmn-nong2.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d6e6f6e67322e6d7033.mp3",
+        "start": 0,
+        "end": 1.176,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "农"
+      }
+    },
+    {
+      "text": "睛",
+      "id": "BH14-U77",
+      "source": "64k/syllabs/cmn-jing1.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d6a696e67312e6d7033.mp3",
+        "start": 0,
+        "end": 1.128,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "睛"
+      }
+    },
+    {
+      "text": "明",
+      "id": "BH14-U80",
+      "source": "64k/syllabs/cmn-ming2.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d6d696e67322e6d7033.mp3",
+        "start": 0,
+        "end": 1.032,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "明"
+      }
+    },
+    {
+      "text": "柳",
+      "id": "BH16-U39",
+      "source": "64k/syllabs/cmn-liu3.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d6c6975332e6d7033.mp3",
+        "start": 0,
+        "end": 1.44,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "柳"
+      }
+    },
+    {
+      "text": "蝴",
+      "id": "BH16-U74",
+      "source": "64k/syllabs/cmn-hu2.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d6875322e6d7033.mp3",
+        "start": 0,
+        "end": 0.936,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "蝴"
+      }
+    },
+    {
+      "text": "蝶",
+      "id": "BH16-U75",
+      "source": "64k/syllabs/cmn-die2.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d646965322e6d7033.mp3",
+        "start": 0,
+        "end": 0.936,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "蝶"
+      }
+    },
+    {
+      "text": "筝",
+      "id": "BH16-U80",
+      "source": "64k/syllabs/cmn-zheng1.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d7a68656e67312e6d7033.mp3",
+        "start": 0,
+        "end": 0.936,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "筝"
+      }
+    },
+    {
+      "text": "明",
+      "id": "BH16-U85",
+      "source": "64k/syllabs/cmn-ming2.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d6d696e67322e6d7033.mp3",
+        "start": 0,
+        "end": 1.032,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "明"
+      }
+    },
+    {
+      "text": "塘，",
+      "id": "BH16-U102",
+      "source": "64k/syllabs/cmn-tang2.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d74616e67322e6d7033.mp3",
+        "start": 0,
+        "end": 1.032,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "塘，"
+      }
+    },
+    {
+      "text": "衡",
+      "id": "BH17-U73",
+      "source": "64k/syllabs/cmn-heng2.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d68656e67322e6d7033.mp3",
+        "start": 0,
+        "end": 0.936,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "衡"
+      }
+    },
+    {
+      "text": "膛",
+      "id": "BH17-U77",
+      "source": "64k/syllabs/cmn-tang2.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d74616e67322e6d7033.mp3",
+        "start": 0,
+        "end": 1.032,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "膛"
+      }
+    },
+    {
+      "text": "上。",
+      "id": "BH17-U84",
+      "source": "64k/syllabs/cmn-shang4.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d7368616e67342e6d7033.mp3",
+        "start": 0,
+        "end": 1.224,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "上。"
+      }
+    },
+    {
+      "text": "猬",
+      "id": "BH18-U14",
+      "source": "64k/syllabs/cmn-wei4.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d776569342e6d7033.mp3",
+        "start": 0,
+        "end": 0.984,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "猬"
+      }
+    },
+    {
+      "text": "巴",
+      "id": "BH18-U42",
+      "source": "64k/syllabs/cmn-ba1.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d6261312e6d7033.mp3",
+        "start": 0,
+        "end": 0.984,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "巴"
+      }
+    },
+    {
+      "text": "兔",
+      "id": "BH18-U44",
+      "source": "64k/syllabs/cmn-tu4.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d7475342e6d7033.mp3",
+        "start": 0,
+        "end": 0.888,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "兔"
+      }
+    },
+    {
+      "text": "巴",
+      "id": "BH18-U48",
+      "source": "64k/syllabs/cmn-ba1.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d6261312e6d7033.mp3",
+        "start": 0,
+        "end": 0.984,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "巴"
+      }
+    },
+    {
+      "text": "短，",
+      "id": "BH18-U49",
+      "source": "64k/syllabs/cmn-duan3.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d6475616e332e6d7033.mp3",
+        "start": 0,
+        "end": 1.224,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "短，"
+      }
+    },
+    {
+      "text": "巴",
+      "id": "BH18-U52",
+      "source": "64k/syllabs/cmn-ba1.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d6261312e6d7033.mp3",
+        "start": 0,
+        "end": 0.984,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "巴"
+      }
+    },
+    {
+      "text": "巴",
+      "id": "BH18-U61",
+      "source": "64k/syllabs/cmn-ba1.mp3",
+      "revision": "59dbafbda8b172ffc3b8b295cd5938ae1b3de803",
+      "clip": {
+        "src": "binhu/human/human-36346b2f73796c6c6162732f636d6e2d6261312e6d7033.mp3",
+        "start": 0,
+        "end": 0.984,
+        "note": "真人完整录音：Chen Wang；CC BY-SA；audio-cmn",
+        "text": "巴"
+      }
+    }
+  ],
+  "remaining": [
+    {
+      "id": "BH2-U36",
+      "text": "bó fù"
+    },
+    {
+      "id": "BH2-U40",
+      "text": "伯父"
+    },
+    {
+      "id": "BH2-U41",
+      "text": "fá mù"
+    },
+    {
+      "id": "BH2-U44",
+      "text": "fǔ mō"
+    },
+    {
+      "id": "BH2-U45",
+      "text": "伐木"
+    },
+    {
+      "id": "BH2-U48",
+      "text": "抚摸"
+    },
+    {
+      "id": "BH2-U52",
+      "text": "mù bù"
+    },
+    {
+      "id": "BH2-U56",
+      "text": "幕布"
+    },
+    {
+      "id": "BH3-U47",
+      "text": "dǎ bǎ"
+    },
+    {
+      "id": "BH3-U51",
+      "text": "打靶"
+    },
+    {
+      "id": "BH4-U44",
+      "text": "ɡū fu"
+    },
+    {
+      "id": "BH4-U46",
+      "text": "ɡū lu lu"
+    },
+    {
+      "id": "BH4-U48",
+      "text": "姑父"
+    },
+    {
+      "id": "BH4-U50",
+      "text": "骨碌碌"
+    },
+    {
+      "id": "BH5-U49",
+      "text": "dì qū jì lǜ"
+    },
+    {
+      "id": "BH5-U53",
+      "text": "地区纪律"
+    },
+    {
+      "id": "BH5-U54",
+      "text": "bó bo hé bà bɑ xià qí。"
+    },
+    {
+      "id": "BH5-U55",
+      "text": "伯伯和爸爸下"
+    },
+    {
+      "id": "BH6-U54",
+      "text": "祖父和祖母擦玻璃。"
+    },
+    {
+      "id": "BH6-U55",
+      "text": "2、lì li hé nà nɑ dú zì mǔ"
+    },
+    {
+      "id": "BH6-U56",
+      "text": "丽丽和娜娜读字母。"
+    },
+    {
+      "id": "BH7-U51",
+      "text": "拿皮"
+    },
+    {
+      "id": "BH9-U1",
+      "text": "单韵母：ɑ o e i u ü"
+    },
+    {
+      "id": "BH9-U2",
+      "text": "母：b p m f d t n l ɡ k h"
+    },
+    {
+      "id": "BH9-U3",
+      "text": "j q x zh ch sh r z c s y w"
+    },
+    {
+      "id": "BH9-U4",
+      "text": "整体认读音节：zhi chi shi ri zi ci si"
+    },
+    {
+      "id": "BH9-U5",
+      "text": "yi wu yu"
+    },
+    {
+      "id": "BH9-U70",
+      "text": "打火"
+    },
+    {
+      "id": "BH10-U71",
+      "text": "xī shuài"
+    },
+    {
+      "id": "BH10-U72",
+      "text": "ɡuāi hái zi"
+    },
+    {
+      "id": "BH10-U73",
+      "text": "wū ɡuī"
+    },
+    {
+      "id": "BH10-U79",
+      "text": "乌龟"
+    },
+    {
+      "id": "BH10-U90",
+      "text": "bèi ké"
+    },
+    {
+      "id": "BH12-U2",
+      "text": "iě"
+    },
+    {
+      "id": "BH12-U4",
+      "text": "ié"
+    },
+    {
+      "id": "BH12-U5",
+      "text": "üē"
+    },
+    {
+      "id": "BH12-U7",
+      "text": "iē"
+    },
+    {
+      "id": "BH12-U8",
+      "text": "ēr iè"
+    },
+    {
+      "id": "BH12-U26",
+      "text": "yē shù"
+    },
+    {
+      "id": "BH12-U30",
+      "text": "椰树"
+    },
+    {
+      "id": "BH12-U34",
+      "text": "yě tù"
+    },
+    {
+      "id": "BH12-U39",
+      "text": "野兔"
+    },
+    {
+      "id": "BH12-U43",
+      "text": "huā er"
+    },
+    {
+      "id": "BH12-U44",
+      "text": "niǎo er"
+    },
+    {
+      "id": "BH12-U47",
+      "text": "花儿"
+    },
+    {
+      "id": "BH12-U48",
+      "text": "鸟儿"
+    },
+    {
+      "id": "BH12-U58",
+      "text": "yǔ xuē"
+    },
+    {
+      "id": "BH12-U62",
+      "text": "雨靴"
+    },
+    {
+      "id": "BH12-U66",
+      "text": "shuǐ niú"
+    },
+    {
+      "id": "BH12-U68",
+      "text": "dié bèi zi"
+    },
+    {
+      "id": "BH12-U70",
+      "text": "水牛"
+    },
+    {
+      "id": "BH12-U72",
+      "text": "叠被子"
+    },
+    {
+      "id": "BH12-U79",
+      "text": "ie"
+    },
+    {
+      "id": "BH12-U80",
+      "text": "üe"
+    },
+    {
+      "id": "BH13-U1",
+      "text": "一、读背下列鼻韵母：ɑn en in un ün"
+    },
+    {
+      "id": "BH13-U2",
+      "text": "整体认读音节：yin"
+    },
+    {
+      "id": "BH13-U3",
+      "text": "yun"
+    },
+    {
+      "id": "BH13-U4",
+      "text": "yuan"
+    },
+    {
+      "id": "BH13-U7",
+      "text": "ùn"
+    },
+    {
+      "id": "BH13-U8",
+      "text": "ǜn"
+    },
+    {
+      "id": "BH13-U9",
+      "text": "ǔn"
+    },
+    {
+      "id": "BH13-U18",
+      "text": "üé"
+    },
+    {
+      "id": "BH13-U44",
+      "text": "kè lún"
+    },
+    {
+      "id": "BH13-U54",
+      "text": "fān chuán"
+    },
+    {
+      "id": "BH13-U55",
+      "text": "zhú sǔn"
+    },
+    {
+      "id": "BH13-U73",
+      "text": "jūn jiàn"
+    },
+    {
+      "id": "BH13-U81",
+      "text": "wén jù hé"
+    },
+    {
+      "id": "BH13-U86",
+      "text": "具盒"
+    },
+    {
+      "id": "BH13-U87",
+      "text": "zhuàn bǐ dāo"
+    },
+    {
+      "id": "BH13-U88",
+      "text": "wēn dù jì"
+    },
+    {
+      "id": "BH13-U90",
+      "text": "笔刀"
+    },
+    {
+      "id": "BH13-U92",
+      "text": "度计"
+    },
+    {
+      "id": "BH13-U93",
+      "text": "xiǎo niǎo fēi"
+    },
+    {
+      "id": "BH13-U94",
+      "text": "bái yún duǒ duǒ"
+    },
+    {
+      "id": "BH14-U16",
+      "text": "yīnɡ(整体认读音节)"
+    },
+    {
+      "id": "BH14-U47",
+      "text": "huā cónɡ"
+    },
+    {
+      "id": "BH14-U65",
+      "text": "jīn huánɡ"
+    },
+    {
+      "id": "BH14-U73",
+      "text": "tài yánɡ yǎn jīnɡ lǎo yīnɡ mínɡ liànɡ"
+    },
+    {
+      "id": "BH15-U1",
+      "text": "一、声母：b p m f d t n l ɡ k h"
+    },
+    {
+      "id": "BH15-U2",
+      "text": "j q x zh ch sh r z c s y w"
+    },
+    {
+      "id": "BH15-U3",
+      "text": "二、韵母：ɑ o e i u ü（单韵母）"
+    },
+    {
+      "id": "BH15-U4",
+      "text": "ɑi ei ui ɑo ou iu ie ue (复韵母)"
+    },
+    {
+      "id": "BH15-U5",
+      "text": "er（特殊韵母）"
+    },
+    {
+      "id": "BH15-U6",
+      "text": "ɑn en in un ün"
+    },
+    {
+      "id": "BH15-U7",
+      "text": "ɑnɡ enɡ inɡ onɡ"
+    },
+    {
+      "id": "BH15-U8",
+      "text": "三、整体认读音节：zhi chi shi ri zi ci si"
+    },
+    {
+      "id": "BH15-U9",
+      "text": "yi wu yu"
+    },
+    {
+      "id": "BH15-U10",
+      "text": "ye yue yuan yin yun ying"
+    },
+    {
+      "id": "BH15-U12",
+      "text": "yuan"
+    },
+    {
+      "id": "BH15-U17",
+      "text": "yun"
+    },
+    {
+      "id": "BH16-U9",
+      "text": "ōnɡ"
+    },
+    {
+      "id": "BH16-U23",
+      "text": "běn lǐnɡ"
+    },
+    {
+      "id": "BH16-U35",
+      "text": "liǔ zhī"
+    },
+    {
+      "id": "BH16-U38",
+      "text": "huā cónɡ zhōnɡ"
+    },
+    {
+      "id": "BH16-U48",
+      "text": "yún duǒ"
+    },
+    {
+      "id": "BH16-U51",
+      "text": "zhōnɡ qiū yè"
+    },
+    {
+      "id": "BH16-U61",
+      "text": "jǔ shǒu"
+    },
+    {
+      "id": "BH16-U62",
+      "text": "shuǐ niú"
+    },
+    {
+      "id": "BH16-U63",
+      "text": "hóng lǐng jīn"
+    },
+    {
+      "id": "BH16-U73",
+      "text": "fànɡ fēnɡ zhenɡ"
+    },
+    {
+      "id": "BH16-U84",
+      "text": "天，小"
+    },
+    {
+      "id": "BH16-U105",
+      "text": "you ài xué xiào 。"
+    },
+    {
+      "id": "BH17-U13",
+      "text": "iě"
+    },
+    {
+      "id": "BH17-U15",
+      "text": "ōnɡ"
+    },
+    {
+      "id": "BH17-U23",
+      "text": "ìn"
+    },
+    {
+      "id": "BH17-U28",
+      "text": "wú yuè"
+    },
+    {
+      "id": "BH17-U45",
+      "text": "jīn huánɡ"
+    },
+    {
+      "id": "BH17-U46",
+      "text": "ɡǒu xiónɡ"
+    },
+    {
+      "id": "BH17-U56",
+      "text": "nào zhōnɡ"
+    },
+    {
+      "id": "BH17-U64",
+      "text": "rén xínɡ dào"
+    },
+    {
+      "id": "BH17-U67",
+      "text": "人行道"
+    },
+    {
+      "id": "BH17-U71",
+      "text": "xiōnɡ tánɡ"
+    },
+    {
+      "id": "BH17-U81",
+      "text": "们在"
+    },
+    {
+      "id": "BH17-U86",
+      "text": "物园里有许多动"
+    },
+    {
+      "id": "BH17-U87",
+      "text": "物，有"
+    },
+    {
+      "id": "BH17-U90",
+      "text": "鹿，斑马，鹦鹉，还有孔雀。"
+    },
+    {
+      "id": "BH18-U35",
+      "text": "旗高"
+    },
+    {
+      "id": "BH18-U50",
+      "text": "蛇的"
+    },
+    {
+      "id": "BH18-U59",
+      "text": "物的"
+    }
+  ],
+  "quality_review": "本页24个拼音与汉字按钮已统一对应；伯伯换为老师原声，伯父等缺项等待真人录音。",
+  "component_updates": 22,
+  "aishell_updates": 51
+}

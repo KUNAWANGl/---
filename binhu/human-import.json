@@ -2067,123 +2067,505 @@
       "local": "human-36346b2f68736b2f636d6e2de69c892e6d7033.mp3",
       "text": "有",
       "reading": "有"
+    },
+    {
+      "page": 3,
+      "id": "BH3-U56",
+      "source": "64k/hsk/cmn-大陆.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5a4a7e999862e6d7033.mp3",
+      "text": "dà lù",
+      "reading": "dà lù"
+    },
+    {
+      "page": 6,
+      "id": "BH6-U26",
+      "source": "64k/hsk/cmn-负责.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de8b49fe8b4a32e6d7033.mp3",
+      "text": "fù zé",
+      "reading": "fù zé"
+    },
+    {
+      "page": 6,
+      "id": "BH6-U37",
+      "source": "64k/hsk/cmn-速度.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de9809fe5baa62e6d7033.mp3",
+      "text": "sù dù",
+      "reading": "sù dù"
+    },
+    {
+      "page": 8,
+      "id": "BH8-U71",
+      "source": "64k/hsk/cmn-孤独.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5ada4e78bac2e6d7033.mp3",
+      "text": "ɡū dú",
+      "reading": "ɡū dú"
+    },
+    {
+      "page": 8,
+      "id": "BH8-U84",
+      "source": "64k/hsk/cmn-捉.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de68d892e6d7033.mp3",
+      "text": "桌",
+      "reading": "桌"
+    },
+    {
+      "page": 8,
+      "id": "BH8-U88",
+      "source": "64k/hsk/cmn-捉.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de68d892e6d7033.mp3",
+      "text": "桌",
+      "reading": "桌"
+    },
+    {
+      "page": 9,
+      "id": "BH9-U62",
+      "source": "64k/hsk/cmn-捉.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de68d892e6d7033.mp3",
+      "text": "桌",
+      "reading": "桌"
+    },
+    {
+      "page": 10,
+      "id": "BH10-U54",
+      "source": "64k/hsk/cmn-来回.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de69da5e59b9e2e6d7033.mp3",
+      "text": "lái huí",
+      "reading": "lái huí"
+    },
+    {
+      "page": 10,
+      "id": "BH10-U61",
+      "source": "64k/hsk/cmn-退步.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de98080e6ada52e6d7033.mp3",
+      "text": "tuì bù",
+      "reading": "tuì bù"
+    },
+    {
+      "page": 10,
+      "id": "BH10-U82",
+      "source": "64k/hsk/cmn-玫瑰.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de78eabe791b02e6d7033.mp3",
+      "text": "méi ɡui",
+      "reading": "méi ɡui"
+    },
+    {
+      "page": 10,
+      "id": "BH10-U91",
+      "source": "64k/hsk/cmn-白菜.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de799bde88f9c2e6d7033.mp3",
+      "text": "bái cài",
+      "reading": "bái cài"
+    },
+    {
+      "page": 10,
+      "id": "BH10-U100",
+      "source": "64k/syllabs/cmn-rui3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d727569332e6d7033.mp3",
+      "text": "蕊",
+      "reading": "ruǐ"
+    },
+    {
+      "page": 12,
+      "id": "BH12-U16",
+      "source": "64k/hsk/cmn-叶子.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de58fb6e5ad902e6d7033.mp3",
+      "text": "yè zi",
+      "reading": "yè zi"
+    },
+    {
+      "page": 12,
+      "id": "BH12-U19",
+      "source": "64k/hsk/cmn-夜晚.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5a49ce6999a2e6d7033.mp3",
+      "text": "yè wǎn",
+      "reading": "yè wǎn"
+    },
+    {
+      "page": 12,
+      "id": "BH12-U27",
+      "source": "64k/hsk/cmn-约会.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de7baa6e4bc9a2e6d7033.mp3",
+      "text": "yuē huì",
+      "reading": "yuē huì"
+    },
+    {
+      "page": 12,
+      "id": "BH12-U50",
+      "source": "64k/hsk/cmn-茄子.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de88c84e5ad902e6d7033.mp3",
+      "text": "qié zi",
+      "reading": "qié zi"
+    },
+    {
+      "page": 13,
+      "id": "BH13-U75",
+      "source": "64k/syllabs/cmn-tun2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d74756e322e6d7033.mp3",
+      "text": "豚",
+      "reading": "豚"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U61",
+      "source": "64k/syllabs/cmn-cun1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d63756e312e6d7033.mp3",
+      "text": "村",
+      "reading": "村"
+    },
+    {
+      "page": 14,
+      "id": "BH14-U71",
+      "source": "64k/hsk/cmn-孔.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5ad942e6d7033.mp3",
+      "text": "恐",
+      "reading": "恐"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U22",
+      "source": "64k/hsk/cmn-粗细.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de7b297e7bb862e6d7033.mp3",
+      "text": "cū xì",
+      "reading": "cū xì"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U81",
+      "source": "64k/hsk/cmn-星.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de6989f2e6d7033.mp3",
+      "text": "1、xīnɡ",
+      "reading": "1、xīnɡ"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U93",
+      "source": "64k/hsk/cmn-猫.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de78cab2e6d7033.mp3",
+      "text": "猫。",
+      "reading": "猫。"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U94",
+      "source": "64k/hsk/cmn-小.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5b08f2e6d7033.mp3",
+      "text": "2、xiǎo",
+      "reading": "2、xiǎo"
+    },
+    {
+      "page": 16,
+      "id": "BH16-U107",
+      "source": "64k/syllabs/cmn-peng2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d70656e67322e6d7033.mp3",
+      "text": "朋",
+      "reading": "pénɡ"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U39",
+      "source": "64k/syllabs/cmn-hang2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d68616e67322e6d7033.mp3",
+      "text": "杭",
+      "reading": "杭"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U54",
+      "source": "64k/hsk/cmn-银行.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de993b6e8a18c2e6d7033.mp3",
+      "text": "yín hánɡ",
+      "reading": "yín hánɡ"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U62",
+      "source": "64k/hsk/cmn-农民.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de5869ce6b0912e6d7033.mp3",
+      "text": "nónɡ mín",
+      "reading": "nónɡ mín"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U63",
+      "source": "64k/hsk/cmn-明天.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de6988ee5a4a92e6d7033.mp3",
+      "text": "mínɡ tiān",
+      "reading": "mínɡ tiān"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U79",
+      "source": "64k/syllabs/cmn-peng2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d70656e67322e6d7033.mp3",
+      "text": "朋",
+      "reading": "朋"
+    },
+    {
+      "page": 17,
+      "id": "BH17-U80",
+      "source": "64k/hsk/cmn-有.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de69c892e6d7033.mp3",
+      "text": "友",
+      "reading": "友"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U43",
+      "source": "64k/hsk/cmn-长.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de995bf2e6d7033.mp3",
+      "text": "长，",
+      "reading": "长，"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U55",
+      "source": "64k/hsk/cmn-长.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de995bf2e6d7033.mp3",
+      "text": "长，",
+      "reading": "长，"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U57",
+      "source": "64k/hsk/cmn-看.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de79c8b2e6d7033.mp3",
+      "text": "看，",
+      "reading": "看，"
+    },
+    {
+      "page": 18,
+      "id": "BH18-U64",
+      "source": "64k/hsk/cmn-去.mp3",
+      "local": "human-36346b2f68736b2f636d6e2de58ebb2e6d7033.mp3",
+      "text": "趣。",
+      "reading": "趣。"
     }
   ],
   "failed": [
     {
       "source": "64k/hsk/cmn-口.mp3",
       "local": "human-36346b2f68736b2f636d6e2de58fa32e6d7033.mp3",
-      "error": "fetch failed"
+      "error": "Not downloaded"
+    },
+    {
+      "source": "64k/syllabs/cmn-she2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d736865322e6d7033.mp3",
+      "error": "Not downloaded"
     },
     {
       "source": "64k/hsk/cmn-金.mp3",
       "local": "human-36346b2f68736b2f636d6e2de987912e6d7033.mp3",
-      "error": "fetch failed"
+      "error": "Not downloaded"
     },
     {
       "source": "64k/syllabs/cmn-bo1.mp3",
       "local": "human-36346b2f73796c6c6162732f636d6e2d626f312e6d7033.mp3",
-      "error": "fetch failed"
+      "error": "Not downloaded"
     },
     {
       "source": "64k/syllabs/cmn-mi3.mp3",
       "local": "human-36346b2f73796c6c6162732f636d6e2d6d69332e6d7033.mp3",
-      "error": "fetch failed"
+      "error": "Not downloaded"
     },
     {
       "source": "64k/syllabs/cmn-fa2.mp3",
       "local": "human-36346b2f73796c6c6162732f636d6e2d6661322e6d7033.mp3",
-      "error": "fetch failed"
+      "error": "Not downloaded"
     },
     {
       "source": "64k/syllabs/cmn-ma3.mp3",
       "local": "human-36346b2f73796c6c6162732f636d6e2d6d61332e6d7033.mp3",
-      "error": "fetch failed"
+      "error": "Not downloaded"
     },
     {
       "source": "64k/syllabs/cmn-pa4.mp3",
       "local": "human-36346b2f73796c6c6162732f636d6e2d7061342e6d7033.mp3",
-      "error": "fetch failed"
+      "error": "Not downloaded"
     },
     {
       "source": "64k/syllabs/cmn-pi1.mp3",
       "local": "human-36346b2f73796c6c6162732f636d6e2d7069312e6d7033.mp3",
-      "error": "fetch failed"
+      "error": "Not downloaded"
     },
     {
       "source": "64k/syllabs/cmn-bo2.mp3",
       "local": "human-36346b2f73796c6c6162732f636d6e2d626f322e6d7033.mp3",
-      "error": "fetch failed"
+      "error": "Not downloaded"
     },
     {
       "source": "64k/syllabs/cmn-mo4.mp3",
       "local": "human-36346b2f73796c6c6162732f636d6e2d6d6f342e6d7033.mp3",
-      "error": "fetch failed"
+      "error": "Not downloaded"
     },
     {
       "source": "64k/syllabs/cmn-bu3.mp3",
       "local": "human-36346b2f73796c6c6162732f636d6e2d6275332e6d7033.mp3",
-      "error": "fetch failed"
+      "error": "Not downloaded"
     },
     {
       "source": "64k/syllabs/cmn-fo2.mp3",
       "local": "human-36346b2f73796c6c6162732f636d6e2d666f322e6d7033.mp3",
-      "error": "fetch failed"
+      "error": "Not downloaded"
     },
     {
       "source": "64k/hsk/cmn-伯伯.mp3",
       "local": "human-36346b2f68736b2f636d6e2de4bcafe4bcaf2e6d7033.mp3",
-      "error": "fetch failed"
+      "error": "Not downloaded"
     },
     {
       "source": "64k/syllabs/cmn-tu4.mp3",
       "local": "human-36346b2f73796c6c6162732f636d6e2d7475342e6d7033.mp3",
-      "error": "fetch failed"
+      "error": "Not downloaded"
     },
     {
       "source": "64k/syllabs/cmn-la3.mp3",
       "local": "human-36346b2f73796c6c6162732f636d6e2d6c61332e6d7033.mp3",
-      "error": "fetch failed"
+      "error": "Not downloaded"
     },
     {
       "source": "64k/syllabs/cmn-li1.mp3",
       "local": "human-36346b2f73796c6c6162732f636d6e2d6c69312e6d7033.mp3",
-      "error": "fetch failed"
+      "error": "Not downloaded"
     },
     {
       "source": "64k/syllabs/cmn-di2.mp3",
       "local": "human-36346b2f73796c6c6162732f636d6e2d6469322e6d7033.mp3",
-      "error": "fetch failed"
+      "error": "Not downloaded"
     },
     {
       "source": "64k/syllabs/cmn-nu3.mp3",
       "local": "human-36346b2f73796c6c6162732f636d6e2d6e75332e6d7033.mp3",
-      "error": "fetch failed"
+      "error": "Not downloaded"
     },
     {
       "source": "64k/syllabs/cmn-du2.mp3",
       "local": "human-36346b2f73796c6c6162732f636d6e2d6475322e6d7033.mp3",
-      "error": "fetch failed"
+      "error": "Not downloaded"
     },
     {
       "source": "64k/hsk/cmn-法律.mp3",
       "local": "human-36346b2f68736b2f636d6e2de6b395e5be8b2e6d7033.mp3",
-      "error": "fetch failed"
+      "error": "Not downloaded"
     },
     {
       "source": "64k/hsk/cmn-特地.mp3",
       "local": "human-36346b2f68736b2f636d6e2de789b9e59cb02e6d7033.mp3",
-      "error": "fetch failed"
+      "error": "Not downloaded"
     },
     {
       "source": "64k/syllabs/cmn-hu2.mp3",
       "local": "human-36346b2f73796c6c6162732f636d6e2d6875322e6d7033.mp3",
-      "error": "fetch failed"
+      "error": "Not downloaded"
     },
     {
       "source": "64k/syllabs/cmn-ke2.mp3",
       "local": "human-36346b2f73796c6c6162732f636d6e2d6b65322e6d7033.mp3",
-      "error": "fetch failed"
+      "error": "Not downloaded"
+    },
+    {
+      "source": "64k/syllabs/cmn-guo3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d67756f332e6d7033.mp3",
+      "error": "Not downloaded"
+    },
+    {
+      "source": "64k/syllabs/cmn-chuo1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6368756f312e6d7033.mp3",
+      "error": "Not downloaded"
+    },
+    {
+      "source": "64k/syllabs/cmn-he2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6865322e6d7033.mp3",
+      "error": "Not downloaded"
+    },
+    {
+      "source": "64k/syllabs/cmn-zhu2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7a6875322e6d7033.mp3",
+      "error": "Not downloaded"
+    },
+    {
+      "source": "64k/syllabs/cmn-shu3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d736875332e6d7033.mp3",
+      "error": "Not downloaded"
+    },
+    {
+      "source": "64k/syllabs/cmn-shuai4.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7368756169342e6d7033.mp3",
+      "error": "Not downloaded"
+    },
+    {
+      "source": "64k/syllabs/cmn-hai2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d686169322e6d7033.mp3",
+      "error": "Not downloaded"
+    },
+    {
+      "source": "64k/syllabs/cmn-bei4.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d626569342e6d7033.mp3",
+      "error": "Not downloaded"
+    },
+    {
+      "source": "64k/syllabs/cmn-jian4.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6a69616e342e6d7033.mp3",
+      "error": "Not downloaded"
+    },
+    {
+      "source": "64k/syllabs/cmn-fang2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d66616e67322e6d7033.mp3",
+      "error": "Not downloaded"
+    },
+    {
+      "source": "64k/syllabs/cmn-nong2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6e6f6e67322e6d7033.mp3",
+      "error": "Not downloaded"
+    },
+    {
+      "source": "64k/syllabs/cmn-jing1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6a696e67312e6d7033.mp3",
+      "error": "Not downloaded"
+    },
+    {
+      "source": "64k/syllabs/cmn-ming2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6d696e67322e6d7033.mp3",
+      "error": "Not downloaded"
+    },
+    {
+      "source": "64k/syllabs/cmn-liu3.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6c6975332e6d7033.mp3",
+      "error": "Not downloaded"
+    },
+    {
+      "source": "64k/syllabs/cmn-jin1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6a696e312e6d7033.mp3",
+      "error": "Not downloaded"
+    },
+    {
+      "source": "64k/syllabs/cmn-die2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d646965322e6d7033.mp3",
+      "error": "Not downloaded"
+    },
+    {
+      "source": "64k/syllabs/cmn-zheng1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d7a68656e67312e6d7033.mp3",
+      "error": "Not downloaded"
+    },
+    {
+      "source": "64k/syllabs/cmn-heng2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d68656e67322e6d7033.mp3",
+      "error": "Not downloaded"
+    },
+    {
+      "source": "64k/syllabs/cmn-tang2.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d74616e67322e6d7033.mp3",
+      "error": "Not downloaded"
+    },
+    {
+      "source": "64k/syllabs/cmn-wei4.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d776569342e6d7033.mp3",
+      "error": "Not downloaded"
+    },
+    {
+      "source": "64k/syllabs/cmn-ba1.mp3",
+      "local": "human-36346b2f73796c6c6162732f636d6e2d6261312e6d7033.mp3",
+      "error": "Not downloaded"
     }
   ]
 }

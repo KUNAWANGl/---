@@ -91,3 +91,9 @@ Current difference: [582 HSK2012 words which are missing human audios](http://js
 
 ### License
 * CC-by-sa. See table upper for authors.
+
+Human single-character readings: Chen Wang and Yue Tan, audio-cmn, CC BY-SA. Complete original audio; see binhu/hanzi-audio-source.json and binhu/human-audio-license.txt.
+
+仅真人录音更新：新增补充音频来源与文件映射见 binhu/human-only-report.json，覆盖与待补项见 binhu/voice-coverage.json。沿用 audio-cmn 的来源、作者及 CC BY-SA 说明（binhu/human-audio-license.txt）。已停用合成语音与设备朗读。
+
+AISHELL-3 真人语料：来源与文件对应见 binhu/aishell-import.json；Apache-2.0 许可全文见 binhu/AISHELL_APACHE_LICENSE.txt，署名与修改说明见 binhu/AISHELL_NOTICE.txt。仅使用原始真人录音，不使用合成模型输出。
